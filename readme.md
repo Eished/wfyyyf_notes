@@ -1,8 +1,8 @@
-# 王菲英语语法第十四季
+# 王菲英语语法 第十四季
 
 ## 语法基础概念（10+9+8完美语法体系）
 
-### 十种词性
+### <u>十种</u>词性
 
 1. 介词
 2. 冠词
@@ -15,7 +15,7 @@
 9. 连词
 10. 感叹词（只有叹词没有语法内容）
 
-### 九种句子成分
+### <u>九种</u>句子成分
 
 1. 主语
 2. 谓语
@@ -27,35 +27,231 @@
 8. 定语
 9. 状语
 
-### 八种句式
+### <u>八种</u>句式
 
-- **五种基础简单句**
-
-1. 主 + 谓 + 宾
-2. 主 + 系 + 表
-3. 主 + 谓 + 双宾
-4. 主 + 谓 + 宾补
-5. 主 + 谓
-
-**三种高级复合句**
-
-1. 名词性从句
-2. 定语从句
-3. 状语从句
-
-
+- **<u>五种</u>基础简单句**
+  1. 主 + 谓 + 宾
+  2. 主 + 系 + 表
+  3. 主 + 谓 + 双宾
+  4. 主 + 谓 + 宾补
+  5. 主 + 谓
+- **<u>三种</u>高级复合句**
+  1. 名词性从句
+  2. 定语从句
+  3. 状语从句
 
 ### 王菲语法树
 
-1. 名词：单复数 所有格 主谓一致
-2. 代词：种类 功能
-3. 数词： 基数词 序数词
-4. 冠词：定冠词 不定冠词 零冠词
-5. 形容词和副词：三级 固定句型
-6. 介词：用法 分类 功能 固定搭配
-7. 动词：分类 时态 语态 非谓语动词 虚拟语气
-8. 连词：定语从句 状语从句 名词性从句
-9. 其它：强调 倒装 反义疑问句
+1. **名词**：
+   1. 单复数 
+   2. 所有格 
+   3. 主谓一致
+2. **代词**：
+   1. 形式 
+   2. 含义 
+   3. 用法
+3. **数词**： 
+   1. 基数词 
+   2. 序数词
+4. **冠词**：
+   1. 定冠词 
+   2. 不定冠词 
+   3. 零冠词
+5. **形容词，副词**：
+   1. 三级 
+   2. 固定句型
+6. **介词**：
+   1. 用法 
+   2. 分类 
+   3. 功能 
+   4. 固定搭配
+7. **动词**：
+   1. 时态 
+   2. 语态 
+   3. 非谓语动词
+   4. 虚拟语气
+   5. 独立主格结构
+8. **连词**：
+   1. 并列连词
+   2. 从属连词（三大从句）
+9. **其它**：
+   1. 强调句 
+   2. 倒装句 
+   3. 反义疑问句
+
+### 基本概念 - 简单句（重要）
+
+1. **陈述句（五种句型）**
+
+   1. **主语 + 系动词 + 表语**（系动词后面叫表语）
+      - London is the capital of England.
+      - 系动词: 
+        - be 动词 
+        - 感官动词（与五官相关单词）
+   2. **主语 + 谓语**（动词是**不及物动词**，不能加宾语）
+      - I get up early in the morning.
+   3. **主语 + 谓语 + 宾语**
+      - I love watermelon.
+      - 表语/宾语本质相同
+        - **动词后面叫宾语**
+        - 两种特殊动词后面叫表语
+   4. **主 + 谓 + 双宾**（直接宾语+间接宾语）
+      - The rabbit showed *us* a *carrot*.
+      - 改成被动句，会出现两个被动句
+        - us 和 carrot 都可以做被动语态的主语
+   5. **主 + 谓 + 宾语 + 宾补**
+      - They elected *Martin* their monitor.
+      - 改成被动句只有一个被动句
+        - 只有 Martin 能做被动语态主语
+
+2. **陈述句形式**
+
+   1. **肯定式**
+      - Honesty is the best policy.
+   2. **否定式**
+      - She will not listen to me.
+      - l don' t think it right.
+      - 在助动词后面加 not , 不能直接加动词后面
+
+3. **一般疑问句**
+
+   - 可以用 yes/no 回答
+   - 陈述句变一般疑问句有**三种类型**
+     1. **提前系动词**
+        - 陈述句: 主语 + 系动词 + 表语
+        - 疑问句: 系动词 + 主语 + 表语
+        - You were coming with us. 
+        - Were you coming with us？ -Yes
+     2. **提前助动词**
+        - 陈述句: 主语 + 谓语 + (宾语)
+        - 疑问句: 助动词 + 主语 + 动词原形 + 其它
+          - **助动词**: 帮助动词的动词 (完成**语态/时态/疑问/否定**) 无词义
+        - You *have found* a new job. 
+        - *Have* you *found* a new job yet？
+          - Yes, I have/No, I haven 't.
+     3. **提前情态动词**
+        - 陈述句: 主语 + 情态动词 + 动词原形 + 其它
+        - 疑问句: 情态动词 + 主语 + 动词原形 + 其它
+          - **情态动词**和**助动词**都**不能**单独充当**谓语**, 必须和动词放在一起充当谓语
+          - **情态动词**: 有词义; **助动词**: 无词义
+        - You *can solve* this problem 
+        - *Can* you *solve* this problem？
+          - Yes I can/No, l can’t.
+
+4. **特殊疑问句**
+
+   1. 以特殊疑问词开头；
+
+   2. 对句中某一成分提问；
+
+   3. 不能用 Yes/No 进行回答
+
+      | Who - 提问人          | Where - 提问地点         |
+      | --------------------- | ------------------------ |
+      | Whose - 提问所属      | Why - 提问原因           |
+      | Whom - 提问宾格人     | How - 提问方式或数量     |
+      | What - 提问事情或属性 | How much/many - 提问数量 |
+      | When - 提问时间       | Which - 提问选择         |
+
+      特殊疑问句 例句1
+
+      - Who were you on the phone with？
+      - Jim.
+
+      特殊疑问句 例句2
+
+      - Whom is he dating？
+      - He is dating Anna.
+
+5. **选择疑问句**
+
+   1. 选择疑问句**用 or 连接**；
+
+   2. 提出两个或两个以上的句式供选择；
+
+   3. 选择疑问句不能用 Yes/No 回答。
+
+      选择疑问句 例句1
+
+      - Do you like chocolate or vanilla better？
+
+      选择疑问句 例句2
+
+      - Are you going to drive or do you want me to？
+
+6. **反义疑问句**
+
+   1. 陈述句部分是**肯定句**，疑问句部分用**否定句**；
+
+   2. 陈述句部分是**否定句**，反意疑问句用**肯定句**。
+
+      **前肯后否；前否后肯**
+
+      **反义疑问句** 例句
+
+      - He is your teacher, isn’t he?
+      - You found the key in the bedroom, didn’t you？
+      - The boy has to clean his room, doesn’t he?
+
+   1. **感叹句**的反义疑问句
+      - 一律用**否定式提问**
+      - What a clever boy, isn’t he?
+      - What a lovely day, isn't it？
+
+   2. **祈使句**的反义疑问句
+      - 用 **will you**
+      - Let’s 开始, 用 **shall we**
+
+   3. **含 must** 的反义疑问句
+      - **表“必须”**：反意疑问句为 mustn't…？/ needn't…?
+        - He <u>must</u> study hard at English, mustn 't he？/neednt he?
+      - **表推测“一定，肯定”**：反意疑问句与 must 后面的**动词**呼应
+        - You <u>must</u> be joking, aren't you?
+
+   4. **含否定词**的反义疑问句
+      - 常见否定词：hardly; never; seldom; little; few; nowhere; nothing 等
+      - 反意疑问句用**肯定提问**。
+        - Frank <u>hardly</u> goes to parties, does he?
+        - He has <u>few</u> triends, has he?
+   5. **复合句**的反义疑问句
+      - 复合句的反意疑问句都**对主句提问**。
+        - 复合句: 两个以上句子构成, 从句连词的三大从句
+      - <u>He was punished</u> *because* he violated the regulation, wasn 't he？
+      - You never told me *that* you had been ill, did you?
+   6. **宾语从句**的反义疑问句
+      - I don' t think/ suppose/ believe/ imagine 引导的**宾语从句**，反意疑问句应**与从句的主语，谓语部分一致**，用**肯定式的提问**。
+        - 中英文否定词位置不一致, 否定词转移
+      - I don' t <u>suppose anyone</u> will volunteer, will they?
+        - 我相信没人会做 否定词属于后面从句
+      -  I don' t <u>believe she</u> has done it, has she?
+        - 我相信她没做这件事, 否定词属于后面从句
+
+7. **感叹句**
+
+   1. **What 感叹句**
+      1. What + a/an + 形容词 + **可数名词单数** + [主语 + 谓语]！
+      2. What + a/an + **名词** + 主语 + 谓语！
+      3. What + 形容词 + **不可数名词/复数名词** + [主语 + 谓语]！
+         - What a marvelous sight!
+   2. **How 感叹句**
+      1. How + **形容词/副词** + [主语 + 谓语]！
+      2. How + **形容词** + a/an + 可数名词单数 + [主语 + 谓语]!
+         - How noble of him to do that !
+         - How intelligent you are！
+   3. **语气词/感叹号**
+      - Oh, I am depressed!
+      - I cannot survive without you!
+
+8. **祈使句**
+
+   **没有主语, 通常用动词开头**
+
+   1. 表示命令
+      - Please sit down.
+      - Leave this place at once.
+   2. 表示请求或祝愿
+      - Have a safe trip！
+      - Let's go for a walk.
 
 
 
