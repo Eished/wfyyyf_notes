@@ -259,7 +259,134 @@
 
 ### 1.1 名词的分类
 
+#### 1.1.1 专有名词&普通名词
+
+1. **专有名词**：特定的某人、地方或机构等专有的名称。
+
+   1. 人名：Tom, Smith, Jackie, Wang
+
+   2. 地名：Beijing, Virginia, London.
+
+   3. 国家名：China, Rusa, Pakistan.
+
+   4. 单位名：the State Council, the Ministry of Foreign Affairs, the Ministry of Finance.
+
+   5. 组织名：IMF ASEAN EU OPEC
+
+   6. 大型活动或事件：The Belt and Road, BCIKS
+
+      注意专有名词第一个字母要大写
+
+2. **普通名词**
+
+   1. **可数名词**
+      1. **个体名词**
+         - aunt, uncle 
+         - 表个体
+      2. **集体名词**
+         - class, army 
+         - 表人或事物的总称
+   2. **不可数名词**
+      1. **物质名词**
+         - Coffee, water
+         - 无法分为个体的事物
+      2. **抽象名词**
+         - interesting, pleasure
+         - 表性质 / 状态 / 情感 等抽象概念
+         - 前一般不加定冠词
+      3. **语言名词**
+         - Chinese, French
+         - 表语言名称
+
+#### 1.1.2 可数名词&不可数名词
+
+1. 例句
+   - 可数: Most <u>classrooms</u> have <u>computers</u>.
+   - 不可数: They left <u>the house</u> to go for a walk after <u>tea</u>.
+2. 注意:
+   1. 不可数名词, 不可数字计算
+   2. 不可数名词, **不加不定冠词 ** (a/an) 与数词；
+   3. 不可数名词, 可**加定冠词** (the)
+      - 家具（furniture）
+        We have too much furniture.
+      - 设备（ equipment）
+        The plant was dismantled of all its equipment and furniture.
+
+#### 1.1.3 具体名词&抽象名词
+
+1. **具体名词**：指可以看到，听到，闻到，触摸到的事物。
+   1. 人物：man, Mrs. Jones
+   2. 地点：river, London
+   3. 事物：book, mountains, sports car
+2. **抽象名词**：指代情感，观念，想法等无形的事物的名词。
+   1. 例: love, happiness, intelligence, anger, excitement
+
+#### 1.1.4 复数形式出现的名词
+
+|         单词         | 例句                                             |
+| :------------------: | :----------------------------------------------- |
+|    scIssors 剪刀     | There are three pairs of scissors in the drawer. |
+|    tweezers 镊子     | Could you pass me those tweezers？               |
+|  binoculars 望远镜   | She gave me some binoculars.                     |
+|     glasses 眼睛     | I've lost my glasses!                            |
+|     clothes 衣服     | She put her clothes in the suitcase.             |
+| congratulations 祝贺 | Many congratulations!                            |
+
+
+
 ### 1.2 名词的单复数
+
+1. **规则名词**的复数形式
+
+   1. -s 例如：大多数名词在单数名词后加 -s
+      - desk→ desks day→days house→ houses
+   2. -es 例如：**以 o, s, x, ch, sh 结尾的单数名词后加 -es**
+      - hero→ heroes, bush→ bushes, fox→ foxes
+   3. **以 -y 结尾**的名词
+      1. **辅音 +y 的名词，变 y 为 i 加 -es**
+         - city> cities 
+         - country→> countries
+      2. **元音 +y 的名词，加 -s**
+         - boy→>boys 
+         - donkey >donkeys
+   4. **-f, -fe 结尾**的名词
+      1. **变 f 为 v 加 -es**
+         - half, life, leaf, loaf, knife, shelf, wife
+      2. **直接加 -s** （没规律只能背诵）
+         - belief, grief, cliff, gulf, roof, proof
+   5. 特殊情况
+      1. **-ch 结尾发 /k/ 音, 加 -s**
+         - monarch（君主）→ monarchs 
+         - stomach（胃）→ stomachs
+      2. **“元音+o” 或 “oo” 结尾的词，加 “-s”**
+         - bamboo → bamboos 
+         - portfolio → portfolios
+      3. **注意:**
+         1. **有的 “o” 结尾，加 “es”, 辅音结尾**
+            - cargo, echo, embargo, hero, tomato, veto
+         2. **有的 “o” 结尾，加 “-s”, 辅音结尾**
+            - memento, concerto, piano, solo, photo, quarto, kilo, largo
+         3. **有的 o 结尾，加 “es” 或 “s” **
+            - zero, volcano, mango, archipelago banjo, grotto, halo
+
+2. **不规则名词**的复数形式
+
+   | man-men     | child-children |
+   | ----------- | -------------- |
+   | woman-women | fish-fish      |
+   | goose-geese | deer-deer      |
+   | foot-foot   | sheep-sheep    |
+   | tooth-teeth | mouse-mice     |
+
+   
+
+3. **复合名词**的复数形式
+
+   1. **不可数名词-结尾，无复数形式**
+      - home<u>work</u>, news<u>paper</u>
+   2. **man 或 woman为前缀的，前后名词都变复数**
+      - woman doctor → women doctors 
+      - man waiter → men waiters
 
 ### 1.3 所有格
 
