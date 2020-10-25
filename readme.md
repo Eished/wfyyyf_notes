@@ -253,6 +253,10 @@
       - Have a safe trip！
       - Let's go for a walk.
 
+![image-20201025225320224](readme.assets/image-20201025225320224.png)
+
+![image-20201025225349111](readme.assets/image-20201025225349111.png)
+
 
 
 ## 一、名词
@@ -387,10 +391,179 @@
    2. **man 或 woman为前缀的，前后名词都变复数**
       - woman doctor → women doctors 
       - man waiter → men waiters
+   3. **两个名词构成**的（前面的名词为man或 woman除外），**后面名词变复数**。
+      - boy friend → boy <u>friends</u> 
+      - paper bag → paper <u>bags</u>
+   4. “**可数名词 + 介词**（短语）” **前面名词变复数**。
+      - father-in-law → <u>fathers</u>-in-law : 岳父
+   5. **动词/过去分词 + 副词**，**副词加s**。
+      - grown-up → grown-<u>ups</u>, 
+      - stand-by → stand-<u>bys</u>
 
 ### 1.3 所有格
 
+- 英语名词有三个格，即主格、宾格和所有格。(名词的主格宾格相同)
+- 它分 “s” 所有格和 “of“ 印所有格两种形式。
+- 表所属关系，即“…的”。
+
+1. **‘s 所有格** (中英语序一致)
+   1. 构成
+      - **单数名词**/复数名词**非 s 结尾**，后加 ‘s; 
+      - **复数名词 s 结尾**, 加 ‘
+        - boys' school 男子学校
+        - the Smiths'car 史密斯家的小汽车
+        - the boss's plan 老板的计划
+      - 带**词尾 -s 的单数名词**后，通常仍加 -‘s。
+        - the boss's plan老板的计划
+      - 用 and 连接的**并列名词的所有格**要分两种情况。
+        - 表示**各自的所有关系**时，要分别在并列名词后加 ‘s
+        - 表示**共同的所有关系**时，只在最后一个名词后加 ‘s
+          - Tom's and Jim‘s rooms. 汤姆和吉姆（各自）的房间。
+          - Tom and jim’s room. 汤姆和吉姆（共同）的房间。
+   2. 用法
+      1. **时间后**
+         - this month’s schedule 这个月的日程表
+         - 10 day‘s holiday 十天的假期
+      2. **国家或城市后**
+         - China‘s policy 中国的政策
+         - the town’s population 这个镇的人
+      3. **组织机构后**
+         - the station' s waiting-room 车站候车室
+         - the newspaper' s editorial policy 这家报纸的编辑方针
+      4. **度量衡后**
+         - a kilo’s weight 1千克的重量
+         - 1000 pound‘s price 1000磅的价钱
+      5. **天体后**
+         - the moon‘s light 月光
+         - Jupiter’s size 木星的大小
+2. **of 所有格** (中英语序相反)
+   1. 修饰前面的名词;
+   2. 表两个名词间的所属关系。
+      - The content of the website.
+      - A friend of mine told me that all of the tickets have already sold out.
+3. **双重所有格**
+   1. of + 名词 ′s 所有格;
+   2. of + 名词性物主代词
+      - He is a friend of mine.
+      - This is a photo of my mother.
+      - This is a photo of my mother’s.
+
 ### 1.4 主谓一致
+
+1. 集合名词做主语
+
+   1. 表**整体概念**，**谓语动词用复数**；
+   2. 表**个体概念**，**谓语动词用单数**。
+      - The whole <u>family</u> is active. 个体概念
+      - The <u>family</u> have met their various obligations. 整体概念
+
+2. **单复数同形名词**做主语：**根据句义**，判断谓语动词的单复数。
+
+   - We need to find some other means of transportation. 
+     - 我们得找其他交通工具了。
+
+3. **国名、组织机构、书名、报刊名**等复数形式的专有名词作为整体对待，谓语**用单数**
+
+   - <u>The United Nations</u> has passed a resolution to lift sanctions against Iraq.
+     - 联合国通过了解除对伊制裁的决定。
+   - <u>The Times</u> reports the news of the strike.
+     - 时代杂志报导了罢工的消息。
+   - <u>Great Expectations</u> was written by Dickens in 1860.
+     - 《远大前程》是狄更斯于1860年写的。
+
+4. **由 and 或 both… and… 连接两个单数名词**作主语时，指代复数概念，谓语动词**用复数**。
+
+   - <u>She and her friends</u> are at the fair.
+     - 她和她的朋友在会上。
+   - and 连接的两个词**指同一个人**、同一事物或同一概念，且两个名词**共用一个冠词**，谓语动词必须**用单数**。
+     - <u>The teacher and writer</u> is her friend.
+       - 这位教师兼作家是她的朋友
+   - and 连接**单数主语**前如有 **every, each, no, many a** 修饰时，谓语动词**用单数**。
+     - No smoking or drinking is allowed. <u>Every man and woman</u> is required to check in.
+       - 不许抽烟、饮酒。按要求，毎位男性及女性需要登记。
+
+5. **时间，距离，金钱，价格**等常**作为整体**看待时，谓语动词**用单数**形式
+
+   - <u>Five dollars</u> is a lot of money.
+   - <u>Fifteen miles</u> is not a long way.
+
+6. **就近原则**
+
+   1. there (客观存在, 有) / here be 句型 (倒装结构, 谓语在前, 主语在后)
+      - <u>There are</u> many possible candidates.
+      - <u>Here are</u> some stones.
+   2. or, either...or…(二选一)， neither... nor…(两者都不)，not only... but（also）连接并列成分作主语。
+      - His friends <u>or</u> **the boy** <u>runs</u> every day. 
+      - <u>Neither</u> gray <u>nor</u> **white** <u>is</u> my favorite color.
+      - <u>Either</u> Grandpa <u>or</u> my **sisters** <u>are</u> going to the park.
+
+7. **就远原则**
+
+   - as well as (…和…, 除了…还有…); 
+   - together / along / combined with; 
+   - rather than; except; besides; including; 
+   - in addition to; apart from.
+     - **The politician**, <u>along with</u> the newsmen, <u>is</u> on the meeting. 
+     - **Excitement**, <u>as well as</u> nervousness, <u>is</u> the cause of her shaking.
+
+8. **some of, plenty of, a lot of, lots of, most of, the rest of, all of, half of, part of，分数、百分数 + of + 名词短语作主语**，谓语动常**与 of 后的名词保持数的一致**。
+
+   - All of the **chicken** <u>is</u> gone.
+   - Most of the **cookies** <u>were</u> eaten.
+
+9. 在**四则运算**中，谓语动词多**用单数**。
+
+   - 18 minus 12 <u>is</u> 6.
+   - Two and two <u>is</u> four.
+   - Four times four divided by two <u>is</u> eight.
+
+10. “a number of + 可数名词复数” 谓语动词**用复数**； 许多,大量
+
+    “the number of + 可数名词” 谓语动词**用单数**。…的数量
+
+    - **A number of** students <u>were</u> late for class.
+    - **The number of** students in the class <u>is</u> fifteen.
+
+11. "**each, one, no one, some(any, no, every) + body(one 或 ething)**” 作主语或作限定词，谓语动词**单数**。
+
+    - **Each** <u>gets</u> a trophy for playing.
+    - **Somebody** will <u>pay</u> for this.
+
+12. “one and a half + 复数名词”作主语，谓语动词**用单数**。大于等于 2 用复数
+
+    - **One and a half** <u>apples is</u> left on the table.
+    - **One and a half** <u>hours is</u> not enough.
+
+13. “a/an + **单数名词** + or two” 作主语，谓语动词**用单数**。
+
+    one or two + **复数名词**作主语，谓语动词**用复数**。
+
+    - **A student** or two <u>has</u> failed the exam.
+    - One or **two suggestions** <u>were</u> recommended.
+
+14. many <u>a</u>…或 more than <u>one</u> + 名词作主语，谓语动词**用单数**。用单数名词代表许多,大量
+
+    - **Many a** man <u>thinks</u> life <u>is</u> meaningless without purpose.
+    - **More than one** student <u>has</u> tried this.
+
+15. “one + of + 复数名词” 结构中，谓语动词**用单数**动词。群体中之一
+
+    - **One of** the students in our class <u>is</u> from the UK. 
+    - **One of** their daughters <u>has</u> just had a baby.
+
+16. few, many, several, all, some后加名词作主语，谓语动词**用复数**。
+
+    1. **Both** <u>are</u> qualified for the job.
+    2. **Many** went to the beach and got sunburned.
+    3. **Few** know what it really takes to get ahead.
+
+
+
+![image-20201025225613928](readme.assets/image-20201025225613928.png)
+
+
+
+![image-20201026001831570](readme.assets/image-20201026001831570.png)
 
 
 
