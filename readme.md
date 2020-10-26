@@ -569,9 +569,81 @@
 
 ## 二、代词
 
+- **指代**已经提到的或即将提到的人或物。
+- **代替**所提到的名词或名词性短语。
+- 在句中可做**主语**，**宾语**，**表语**或**同位语**。
+  - It **is** a table.（**主语**）
+  - I asked **myself** what i would have done in such a situation. (**宾语**)
+  - The boys **all** laughed their heads oft.（**同位语**）
+  - Who’s **that**？（**表语**）
+
 ### 2.1 人称代词
 
+1. 定义
+
+   <img src="readme.assets/image-20201026140251750.png" alt="image-20201026140251750" style="zoom:67%;" />
+
+2. 人称代词的句法作用
+
+   1. **做主语**
+
+      - **I** asked my mother if she'd lend me some money, but she said no.
+
+   2. **做宾语**
+
+      - Neither of **us** forgot about it. 
+      - ls sam there？ Let me talk to **him**.
+
+   3. **作表语**
+
+      - That must be **her** now.
+      - Who is **it**？
+
+   4. **it 的用法**
+
+      1. **指上文提及的某一物体、动物或其他事物。**
+         - <u>The company</u> was losing money and <u>it</u> had to let people go.
+      2. **尚不知性别的婴儿**
+         - She could compel him to support <u>the child</u> after <u>it</u> was born.
+         - Her baby's due next month. She hopes it will be a boy.
+      3. **指时间、距离、天气或环境等。**
+         - It's ten past twelve.
+         - It's time for lunch.
+         - It is raining.
+         - It 's two miles to the beach.
+      4. **指已经发生或正在发生的事件或情况。**
+         - When the factory closes, it will mean 500 people losing their jobs. 
+         - Stop it, you're hurting me！
+      5. **识别、分辨人**。
+         - It's your mother on the phone.
+         - Hello, Peter, it's Mike here.
+         - Was it you who put these books on my desk？
+      6. **强调句**
+         - It' s spain that they're going to, not Portugal.
+         - It was three weeks later that he heard the news.
+
+      ![image-20201026141619937](readme.assets/image-20201026141619937.png)
+
 ### 2.2 物主代词
+
+1. 定义
+
+   1. **形容词性物主代词**; + n = 名词性物主代词
+      - Anyone who drives <u>his</u> car at 100 miles an hour is asking for trouble.
+   2. **名词性物主代词（请背诵表格）** ; 避免名词重复出现
+      - He' s a friend **of** <u>mine</u> (= one of my friends). 双重所有格
+      - Which table is <u>ours</u>？
+      - I think she's a relation of <u>theirs</u>.
+
+2. 句法作用
+
+   1. 形容词性物主代词：句中**做定语**，修饰名词。
+
+      - Your mother is driving me crazy.
+
+      注意：在动名词的复合结构中，形容词性物主代词做名词的**逻辑主语**。
+
+      - She was somewhat surprised at my asking（= that I asked） for the book to be returned.
 
 ### 2.3 反身代词
 
