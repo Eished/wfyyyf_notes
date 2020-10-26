@@ -796,88 +796,278 @@
 5. **some, any, either 用法 (请背诵)**
 
    1. **some 用**于**肯定句**中，表示一些。
-
       1. <u>Some</u> lucky person will win more than $1,000,000 in the competition.
       2. <u>Some</u> have compared his work to Picasso's.
-
    2. **any 用法**：用**否定句，疑问句**。
-
       1. 表 “一点儿，若干”
          - There was <u>hardly any</u> food left by the time we got there.
+           - 我们到那儿的时候，几乎一点儿吃的都没了。
       2. 表 “任何一个，无论哪个”
          - <u>Any</u> of you should be able to answer this question.
+           - 我希望他再也不要给我们添任何麻烦了。
       3. 表 “略微，稍微”
          - Can't you run <u>any</u> faster？
-         - 不是所有单词能放到比较级之前
-
+           - 不是所有单词能放到比较级之前
+         - Those trousers don't look <u>any</u> different from the others.
+           - 那条裤子看起来和其他裤子没什么两样
    3. **either 用法**
-
       1. **否定句**中代表 also 或 too，表 “也”。
          - They do really good food at that restaurant and it 's not very expensive <u>either</u>.
+           - 那家餐厅饭菜做得很好，而且价格也不太贵。
       2. “**要么…要么**，不是…就是，**（两者中）任何一个**”
          - <u>Either</u> candidate would be ideal for the job.
+           - 这两个人哪一个都是做这项工作的理想人选
          - <u>Either</u> you leave now <u>or</u> I call the police!
+           - 要么你现在离开，要么我就叫警察！
 
-   4. **all, both, each, every用法**
+6. **all, both, each, every用法**
 
-      1. **all 的用法**
+   1. **all 的用法**
 
-         1. “每一个，**全部**，所有”，**修饰可数名词**。
+      1. “每一个，**全部**，所有”，**修饰可数名词**。
 
-            - <u>All animals</u> have to eat in order to live.
-            - The cast <u>all</u> lined up on stage to take their bow.
+         - <u>All animals</u> have to eat in order to live.
+         - The cast <u>all</u> lined up on stage to take their bow.
+           - 全体演员都在台上站成一排向观众鞠躬。
 
-         2. **“完全地”**
+      2. **“完全地”**
 
-            - The downstairs rooms were painted <u>all</u> in greens and blues.
+         - The downstairs rooms were painted <u>all</u> in greens and blues.
+           - 楼下的房间全都粉刷成了绿色和蓝色。
 
-         3. **固定搭配**
+      3. **固定搭配**
 
-            1. **all in all** : 总的说来，从各方面来说；总之
+         1. **all in all** : 总的说来，从各方面来说；总之
 
-            2. **all but** : 几乎，差不多
+         2. **all but** : 几乎，差不多
 
-            3.  **all round** : 全面地，在各方面
+         3.  **all round** : 全面地，在各方面
 
-               注意：**all 后面不能加 "the"**
+            注意：**all 后面不能加 "the"**
 
-      2. **both 用法**
+   2. **both 用法**
 
-         1. 表 “两个，两者”
-         2. 句中作主语，定语，宾语，同位语。
-            - <u>Both</u> my parents are teachers.
-            - Would you like milk or sugar or <u>both</u>？
-         3. 表 “两者都…” 时，用 ”both…and” 结构。
-            1. Both men and women have complained about the advertisement.
+      1. 表 “两个，两者”
+      2. 句中作主语，定语，宾语，同位语。
+         - <u>Both</u> my parents are teachers.
+         - Would you like milk or sugar or <u>both</u>？
+      3. 表 “两者都…” 时，用 ”both…and” 结构。
+         - Both men and women have complained about the advertisement.
+           - 男人和女人都抱怨过这个广告。
 
-      3. **each 用法**
+   3. **each 用法**
 
-         1. each 表 “**每一个**”，可做主语，宾语，定语以及同位语。
-            - We <u>each</u>（= every one of us） wanted the bedroom with the balcony, so we tossed a coin to decide. 主语
-            - <u>Each</u> answer is worth 20 points. 定语
+      1. each 表 “**每一个**”，可做主语，宾语，定语以及同位语。
+         - We <u>each</u>（= every one of us） wanted the bedroom with the balcony, so we tossed a coin to decide. 主语
+           - 我们大家都想住那间带阳台的卧室，所以只好扔硬币来决定
+         - <u>Each</u> answer is worth 20 points. 定语
+           - 每个答案值20分。
 
-      4. **every 用法**
+   4. **every 用法**
 
-         1. 表 **“每一个” + 单数名词**，不单独使用。
-            - <u>Every</u> player wants to be in a winning team.
-            - <u>Every</u> cook needs good knives and a chopping board.
-         2. every 后再次出现，every 用 **“it” 指代**； every 还表 **“每隔”**
-            - <u>Every</u> store has a manager in charge of it.
-            - <u>Every</u> area has its own park.
-            - There are buses into town <u>every</u> ten minutes.
-            - I leave the house <u>every</u> morning at 6 am.
-         3. everyday 表 “通常的，日常的” (**定语**)； every day 表 “每天" (**状语**)。
-            - In the Soviet Union, poetry was at the center of <u>everyday</u> life.
-            - The boys meet up <u>every day</u> in the park.
-         4. **everyone 表每个人**； every one 指代**上文提到过**的名词
-            - <u>Everyone</u> enjoyed themselves.
-            - I received more than a hundred letters from him while i was away and I've kept <u>every one</u>.
-         5. **every other + 名词**：表 “轮流，交替，每隔…”
-            - We have English lessons every other day.
+      1. 表 **“每一个” + 单数名词**，不单独使用。
+         - <u>Every</u> player wants to be in a winning team.
+           - 每一名玩家都想待在一个能赢的队伍里。
+         - <u>Every</u> cook needs good knives and a chopping board.
+           - 每个厨师都需要好的刀具以及案板。
+      2. every 后再次出现，every 用 **“it” 指代**； every 还表 **“每隔”**
+         - <u>Every</u> store has a manager in charge of it.
+           - 每个商店都有管理它的经理。
+         - <u>Every</u> area has its own park.
+           - 每个区域都有自己的公园
+         - There are buses into town <u>every</u> ten minutes.
+           - 每隔10分钟就有公交车发车去城里。
+         - I leave the house <u>every</u> morning at 6 am.
+           - 我每天早上6点离开家。
+      3. everyday 表 “通常的，日常的” (**定语**)； every day 表 “每天" (**状语**)。
+         - In the Soviet Union, poetry was at the center of <u>everyday</u> life.
+           - 在苏联，诗歌是日常生活的中心。
+         - The boys meet up <u>every day</u> in the park.
+      4. **everyone 表每个人**； every one 指代**上文提到过**的名词
+         - <u>Everyone</u> enjoyed themselves.
+         - I received more than a hundred letters from him while i was away and I've kept <u>every one</u>.
+           - 我离开的时候收到100多封他的信，我留着每一封。
+      5. **every other + 名词**：表 “轮流，交替，每隔…”
+         - We have English lessons every other day.
+           - 我们每隔一天上一次英语课。
+
+7. **否定代词 neither, no, none 用法**
+
+   1. **no 的用法**
+      1. “没有”
+         - There are <u>no</u> pockets in these trousers.
+           - 这些裤子没有裤兜。
+         - There's <u>no</u> chance（=no possibility ）of us getting there by eight.
+           - 我们不可能在8点之前到达那里。
+      2. 表 **否定答复**
+         - Would you like any more cake？No, thank you.
+           - 你想再来点蛋糕吗？不用，谢谢。
+         - Do you have any homework tonight？No.
+           - 你今晚有作业吗？没有。
+      3. 与形容词，副词连用，表“并不，毫不"。
+         - The exam is <u>no more difficult</u> than the tests you’ve been doing in class.
+           - 这次考试并不比你们一直做的课堂测验难
+         - The issues are of <u>no great interest</u> (=only a little interest) to me.
+           - 我对这些问题不大感兴趣。
+   2. **neither 的用法**
+      1. neither 表 **两个都不**，做主语时谓语动词**用单数**。
+         - Weve got <u>two TVs</u>, but <u>neither works</u> properly.
+           - 我们有两台电视，但没有一台是好的。
+         - Chris wasn't at the meeting and <u>neither was</u> her assistant.
+           - 克里斯没有出席会议，她的助手也没有
+      2. “neither… nor” 结构中，表 “**既不…不**” 。
+         - <u>Neither</u> my mother <u>nor</u> my father went to university.
+           - 我父母都没有上过大学。
+         - They speak <u>neither</u> French <u>nor</u> German, but a strange mixture of the two.
+           - 他们说的既不是法语也不是德语，而是两者的古怪混合。
+   3. **none 的用法**
+      1. none 表**两个以上**的人或物；
+      2. 表 “**所有人都不…**” 时，谓语动词**多用复数**；根据语境判断
+         - We have three sons but <u>none of them</u> **lives/live** nearby.
+           - 我们有三个儿子，但是他们都不住在附近/他们没有一个住在附近。
+      3. 表 “**其中一个不…**” 时，谓语动词**多用单数**。根据语境判断
+         - He told me all the news but <u>none of it</u> **was** very exciting.
+           - 他告诉了我全部的消息，但是没有一个是好消息。
+   4. **one 的用法**
+      1. **泛指"人们”**；
+         - <u>One</u> would think the airlines would have to close down.
+           - 人们认为航空公司将会倒闭
+         - The young comedian was awful； <u>One</u> felt embarrassed for him.
+           - 这个年轻的喜剧演员太糟糕了；人们为他感到羞愧。
+      2. **= you**;
+         - If <u>one</u> fails, then <u>one</u> must try harder next time.
+           - 如果你失败了，下一次你必须更努力。
+      3. **one's = his**。
+         - One must learn from <u>one's</u> mistakes.
+           - 人必须从他的错误中汲取教训。
+         - One must be conscientious about <u>one’s</u> dental hygiene.
+           - 人必须注意他的牙齿卫生。
+      4. 表**不确定的人或物**。
+         - <u>One</u> is hardly enough.
+           - 一个远远不够。
+         - <u>One</u> is purple, the other green.
+           - 一个是紫色，另一个是绿色。
+         - one…the other : 表示 两者中的一个…另一个…
+      5. 代替**前文提过的可数名词**，但并非指同一物
+         - Those are lovely scarves. I think I'll buy <u>one</u>.
+           - 这些围巾很可爱。我想买一条
+      6. 表**其中之一**。
+         - It's a present for <u>one of</u> my children.
+           - 这是我的一个孩子的礼物。
+         - We think of you as <u>one of</u> the family.
+           - 我们把你看做家庭的一份子。
+
+8. **other, the other, others, the others, another 用法**
+
+   1. **other 的用法**
+
+      1. **作限定词**后跟**不可数名词**或**复数名词**，**没有复数形式**。
+         - Some music calms people； <u>other music</u> has the opposite effect.
+           - 一些音乐能使人镇静，另外一些有相反的作用。
+      2. **作代词**， other **有单复数形式**
+         - He is always ready to help <u>others</u>.
+           - 他总是乐于助人。
+         - We have to solve this problem, more than any <u>other</u>, todday.
+           - 我们今天必须优先处理这个问题。
+         - She gave me one book last week and promised to bring the <u>others</u> on Wednesday.
+           - 上周她给了我一本书，并答应周三把其他的书带来。（特指时，可用 the others）
+      3. **作限定词**后不可跟单数名词，如要跟，需在 other 前加 **the other + 单数名词**
+         - I don' t like the red one. I prefer <u>the other color</u>.
+           - 我不喜欢红色的那件，我更喜欢其他的颜色
+
+   2. **the other 的用法**
+
+      1. **作限定词**：**+单数名词**，表两个中的**另外一个**; 
+
+         **作限定词**：**+复数名词**，表群体中**剩下的另一些**。
+
+         - This computer here is new. <u>The other computer</u> is about five years old.
+           - 这儿的这台电脑是新的，另外一台用了约5年了。（两台电脑）
+         - Where are <u>the other</u> two dinner <u>plates</u> I can only find four.
+           - 其他两个晚饭用的盘子呢？我只找到四个。（总共六个）
+
+      2. **作代词**：指代**上文提到过**的人或物。
+
+         - She has two kittens, one is black and <u>the other</u> is all white.
+           - 她有两只小猫，一只是黑色的，一只是白色的。
+
+   3. **another 的用法**
+
+      1. **作限定词**，后 **+单数名词**。
+         - Im going to have <u>another plece of cake</u>
+           - 我要再吃块蛋糕。
+         - We can fit <u>another person</u> in my car.
+           - 我车里还可以再坐一个人。
+      2. **作代词**，**指代单数**。
+         - She's finished with that boyfriend and found herself <u>another</u>（one）.
+           - 她和原来那个男朋友分手了，又另找了一个。
+         - Do you want to exchange this toaster for <u>another</u>（one ）or do you want your money back？
+           - 你是想另换一台烤面包机，还是要退货
+      3. **one another** “**互相，彼此**”
+         - They gave <u>one another</u> presents when they met at the airport.
+           - 他们在机场见面时互赠了礼物。
+         - **one way or another : 用某种方法，想方设法**
+           - We'll get out of this mess <u>one way or another.</u>
+             - 我们得想个什么办法摆脱这种困境。
+         - **one… after another : 一个接一个，接连**
+           - I'm not surprised he's feeling ill — he was eating <u>one</u> ice cream <u>after another</u>！
+             - 他生病我不觉得奇怪——他不停嘴地吃冰激凌！
 
 ### 2.8 互相代词
 
+1. **相互代词只有两个**：**each other** 和 **one another**，表示相互关系。
+
+2. 句法作用
+
+   **可作宾语、定语，不做主语。**
+
+   1. **作宾语：**
+      - They kept looking at <u>each other</u> and smiling.
+        - 他们一直微笑着看着对方。
+      - The two countries went to war with <u>one another</u> over oil prices.
+        - 因为油价，两国发生了战争。
+   2. **作定语：**
+      - They re always wearing <u>each other's</u> clothes.
+        - 他们总是换着衣服穿。
+      - Apes spend a great deal of time grooming <u>one another's</u>.
+        - 猴子花费大量时间互相梳理身上的皮毛
+
+3. 相互代词有时可以**拆分开**来使用，可**做主语**或主语同位语
+
+   - <u>Each</u> wants to know the <u>other's</u> income.
+     - 彼此都想知道对方的收入
+   - We <u>each</u> know what the <u>other</u> want.
+     - 我们知道对方要什么。
+
 ### 2.9 疑问代词
+
+1. 包括 what, who, whose, whom, which 引导特殊疑问句；可作**主语, 宾语，表语，定语**。
+
+   1. Who are all those people？
+      那些人是谁？
+   2. Whom did they invite？
+      他们邀请了谁？
+   3. Whose bag is this？（定语）
+      这个包是谁的？
+   4. What caused the accident？（主语）
+      是什么导致了那场事故？
+   5. Which doctor did you see- Seward？（定语）
+      你看的是哪一位医生—西沃兹医生吗？
+
+2. **-ever** 加在 who, which, what 后面加以**强调表惊讶**；表“**到底，究竟**"之意;
+
+   相当于 no matter who/which/what
+
+   1. Either Thursday or Friday – whichever day is best for you？
+      星期四或星期五都行—哪个日子你最方便？
+   2. Whoever is in charge of International Sales？
+      负责国际销售的人是谁？
+   3. Whatever is he doing with that rod？
+      他拿着那根竿子到底在做什么？
+
+<img src="readme.assets/image-20201026221426009.png" alt="image-20201026221426009" style="zoom:67%;" />
+
+<img src="readme.assets/image-20201026221557526.png" alt="image-20201026221557526" style="zoom:67%;" />
 
 
 
@@ -885,9 +1075,149 @@
 
 ### 3.1 基数词
 
+1. 表示**个位数词**，即1-10：
+
+   - one two three four five six seven eight nine
+
+2. 表示**“十几”**：
+
+   - 除了 11,12 为 eleven, twelve 之外，在所对应的个位数的词后加 **“-teen”**
+     9 nine — 19 nineteen
+   - 注意：thirteen, fiften, eighteen 的拼写。
+
+3. 表示**几十**，即 20-90：
+
+   - 在所对应的十位数的整数后加 **“-ty”**
+
+     12 twelve — 20 twenty
+
+     13 thirteen — 30 thirty
+
+     14 fourteen — 40 forty
+
+   - 注意：twenty, thirty, forty, fifty, eighty的拼写。
+
+4. 表示**几十几**，即 21-99：
+
+   - 十位数词加个位数词，
+
+     21— 20+1 — twenty one
+
+     32— 30+2 — thirty two
+
+5. **百位数词**及以上：
+
+   - 100 a/one hundred
+
+     1000 a/one thousand
+
+     10,000 ten thousand
+
+     100,000 a hundred thousand
+
+     1,000,000 a million
+
+     10,000,000 ten million
+
+     100,000,000 a hundred million trillion 万亿
+
+   - 注意：
+     - **在100以上的数中， hundred 之后加 and**；
+       - 2356 two thousand three hundred and fifty six
+       - 1012 one thousand and twelve
+       - 56789 fifty six thousand seven hundred and eighty nine
+     - **表示整数百时， hundred 后不能加 “s”**
+       - two hundreds（ x）
+       - two hundred （v）
+     - **基数词**可以用来表示**年龄**与**年代**
+       - He is his thirties. 
+         - 他 30 多岁 
+       - 1980’s. 
+         - 二十世纪八十年代
+
+6. **数字的写法&念法**
+
+   1. 百位与十位之间加 and；
+
+      十万位和万位，亿位和干万位之间加 and；
+
+   2. 英语大数字**从右向左看**，每隔**三位划一逗号**,
+
+      倒数第一个逗号之前要用 thousand, 
+
+      倒数第二个逗号之前要用 million，
+
+      倒数第三的逗号之前要用 billion 表示
+
+   <img src="readme.assets/image-20201026223607080.png" alt="image-20201026223607080" style="zoom:67%;" />
+
 ### 3.2 序数词
 
+表示顺序或在某个序列中所处的位置，“第几”
+
+1. 表示 **第1~3**：first, second, third，也可用1st，2nd，3rd 表示
+
+2. 表示 **第4~19**：
+
+   | fourth     | fifth     | sixth     | seventh     | eighth     |
+   | ---------- | --------- | --------- | ----------- | ---------- |
+   | ninth      | tenth     | eleventh  | twelfth     | thirteenth |
+   | fourteenth | fifteenth | sixteenth | seventeenth | eighteenth |
+   | nineteenth |           |           |             |            |
+
+3. 表示**第几十**：将相应的**基数词尾的 y 变为 i + eth**
+
+   1. 20 twenty = 第20 twentieth
+   2. 30 thirty = 第30 thirtieth
+   3. 40 forty = 第40 fortieth
+
+4. **第21~99**：**十位数用相应的基数词**，**个位数用相应的序数词**
+
+   1. 第21 twenty + frst = twenty first
+   2. 第32 thirty + second = thirty second
+   3. 第59 fifty + nine = fifty ninth
+
+5. **第100及以上**
+
+   1. **整数词**：在其相应的**基数词后加th**
+      1. 第100：hundredth
+      2. 第1000：thousandth
+      3. 第1000,000：millionth
+   2. **非整数词**：**保留相应的基数词**部分，但是对应的**个位要用序数词**
+      1. 第1001：one thousand and first.
+      2. 第2356：two thousand three hundred and fifty sixth.
+   3. 序数词用来**表示日期**
+      1. June 2nd, 6月2号
+      2. May 5th, 5月5号
+
 ### 3.3 数词的句法作用
+
+数词在句中可以做主语，宾语，表语，同位语，定语以及状语。
+
+1. **做主语**
+   - <u>Millions of people</u> live in poverty.
+   - <u>Three of his colleagues</u> were sacked yesterday.
+2. **作表语**
+   - There **were** <u>two hundred people</u> at the meeting.
+3. **作定语**; 后面有名词修饰
+   - We encompassed the city with <u>two</u> **divisions**.
+     - 我们用两个师包围了这座城市。
+   - She ticked off <u>three</u> **items** on the list.
+     - 她用记号标出表格上的三个项目。
+4. **作同位语**; 对 名词/代词 的解释说明
+   - <u>They four</u> tried to climb the mountain.
+     - 他们四个努力爬上山顶。
+   - <u>We three</u> finish the task together.
+     - 我们三个完成了这项任务。
+5. **做宾语**
+   - The children **arrived in** <u>twos and threes</u>.
+     - 孩子们三三两两地到了。
+   - The museum **was opened** on <u>25th June 2008</u>.
+6. **做状语**; 单独存在/修饰动词
+   - It's **happened** <u>hundreds of times</u>.
+     - 这件事发生了几百次。
+   - He **came** <u>tenth</u> in the new york marathon.
+     - 纽约马拉松他得了第10名。
 
 
 
