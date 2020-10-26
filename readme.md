@@ -253,9 +253,9 @@
       - Have a safe trip！
       - Let's go for a walk.
 
-![image-20201025225320224](readme.assets/image-20201025225320224.png)
+<img src="readme.assets/image-20201025225320224.png" alt="image-20201025225320224" style="zoom:67%;" />
 
-![image-20201025225349111](readme.assets/image-20201025225349111.png)
+<img src="readme.assets/image-20201025225349111.png" alt="image-20201025225349111" style="zoom:67%;" />
 
 
 
@@ -559,11 +559,11 @@
 
 
 
-![image-20201025225613928](readme.assets/image-20201025225613928.png)
+<img src="readme.assets/image-20201025225613928.png" alt="image-20201025225613928" style="zoom:67%;" />
 
 
 
-![image-20201026001831570](readme.assets/image-20201026001831570.png)
+<img src="readme.assets/image-20201026001831570.png" alt="image-20201026001831570" style="zoom:67%;" />
 
 
 
@@ -622,7 +622,7 @@
          - It' s spain that they're going to, not Portugal.
          - It was three weeks later that he heard the news.
 
-      ![image-20201026141619937](readme.assets/image-20201026141619937.png)
+      <img src="readme.assets/image-20201026141619937.png" alt="image-20201026141619937" style="zoom:67%;" />
 
 ### 2.2 物主代词
 
@@ -637,23 +637,243 @@
 
 2. 句法作用
 
-   1. 形容词性物主代词：句中**做定语**，修饰名词。
+   1. 形容词性物主代词：句中**做定语**，**修饰名词**。
 
-      - Your mother is driving me crazy.
+      - <u>Your mother</u> is driving me crazy.
 
-      注意：在动名词的复合结构中，形容词性物主代词做名词的**逻辑主语**。
+      注意：在**动名词**的复合结构中，形容词性物主代词做名词的**逻辑主语**。等同于定语从句
 
-      - She was somewhat surprised at my asking（= that I asked） for the book to be returned.
+      - She was somewhat surprised at **my asking** (= that I asked) for the book to be returned.
+
+   2. 名词性物主代词
+
+      1. **主语**
+         - <u>Ours</u> is the red car parked over there.
+      2. **表语**
+         - Whose bag is this？ It's <u>mine</u>.
+      3. **宾语**
+         - Let's go back to <u>yours</u> after the show.
 
 ### 2.3 反身代词
 
+1. 表“自己。
+
+2. 有人称和数的变化。
+
+   - Be careful with that knife or you’ll cut <u>yourself</u>！
+   - They asked <u>themselves</u> where they had gone wrong.
+
+   |   人称   |            单数            |    复数    |
+   | :------: | :------------------------: | :--------: |
+   | 第一人称 |           myself           | ourselves  |
+   | 第二人称 |          yourself          | yourselves |
+   | 第三人称 | himself / herself / itself | themselves |
+
+   <img src="readme.assets/image-20201026150046024.png" alt="image-20201026150046024" style="zoom:67%;" />
+
 ### 2.4 指示代词
+
+- this, that, these, those 做代词时为指示代词；
+
+- 表“这个，那个，这些，那些”；
+
+- 在句中做主语，宾语。
+
+  | 单数 | this  | that  |
+  | ---- | ----- | ----- |
+  | 复数 | these | those |
+
+1. 句法作用
+
+   1. **做主语**
+      - <u>These</u> are too heavy for me to carry.
+   2. **做宾语**
+      - I like this better than <u>that</u>.
+      - I don' t say no to <u>that</u>.
+   3. **作定语**
+      - Can I help you with <u>those</u> bags？
+      - I've never liked <u>that</u> cousin of hers.
+   4. **作表语**
+      - Who's <u>that</u>？ Is that the girl you told me about?
+      - What's <u>this</u>？Is this what you're looking for？
+
+2. 用法
+
+   1. this 和 these 指在时间或空间上**较近的人或物**， 
+
+      that 和 those 指在时间或空间上**较远的人或者事物**。
+
+      - <u>This</u> is a pen and <u>that’s</u> an eraser.
+
+   2. 为避免重复，用 that 或 those 来代替**前面已提到**的人或物；
+
+      用 this 或 these 来代替**下文中将要提**的人或物。
+
+      - She's very friendly and <u>that</u> is why we all love her.
+
+   3. **打电话**介绍自己时用 **this 指 “我”**，不用 l;
+
+      **询问对方**用 **that 指 “你”**，不用 you。
+
+      - Hello. <u>This</u> is Mary. Who's <u>that</u>？
+      - <u>This</u> is tom.
 
 ### 2.5 关系代词
 
+1. 用来**引导定语从句**；
+
+2. 在从句中**充当一定的句子成分**；
+
+3. 关系代词有**主格**，**宾格**和**属格**之分;
+
+4. 有指人与指物之分。
+
+   | 指人 | who, whom, whose, that, as |
+   | ---- | -------------------------- |
+   | 指物 | which, whose, that, as     |
+
 ### 2.6 连接代词
 
+- **疑问代词**在引导**从句**时，称为连接代词。
+  - who, whom whose, what, which whoever, whomever whichever, whatever
+
 ### 2.7 不定代词
+
+不定代词指代情况不详的人或物。
+
+1. **合成不定代词** : 复合不定代词
+
+   <img src="readme.assets/image-20201026153359446.png" alt="image-20201026153359446" style="zoom: 67%;" />
+
+2. 第二类不定代词
+
+   <img src="readme.assets/image-20201026153624088.png" alt="image-20201026153624088" style="zoom:67%;" />
+
+   1. 合成不定代词**谓语动词用单数**。
+      - There's <u>something</u> sharp in my shoes.
+      - <u>Nobody</u> agrees with me.
+   2. **-thing 结尾指物**；**-one, -body 结尾指人**。
+      - <u>Everyone</u> involved in the accident has been questioned by the police.
+      - She could be <u>anything</u>（= any age） between 30 and 40.
+   3. 合成不定代词
+      1. 只能作**主语**、**宾语**或**表语**，不能作定语； 
+      2. **some-， every-** 开头的不定代词用在**肯定句中**;
+      3. **any-** 常用在**否定句与疑问句**汇中； 
+      4. **no-** 用在**否定句**中。
+
+3. 合成不定代词句法功能
+
+   1. **做主语**
+      - <u>Anybody</u> can use the pool—you don't need to be a member.
+      - <u>Somebody</u> in the office will know.
+   2. **做宾语**
+      - The terrorists forced <u>everybody</u> to lie face down on the floor. 
+        - 主+谓+宾+宾补+地点状语
+      - You can't blame him for <u>everything</u>.
+   3. **作表语**
+      - A first I thought there was <u>no one</u> in the room.
+      - There' s never <u>anything</u> worth watching on TV.
+   4. **与 else 连用**：已经谈及一人或物，又想再提到另外的人或物，可在**合成不定代词后加 -else”** , 其余的 / 另外的
+      1. You'll have to ask <u>someone else</u>.
+      2. There's <u>nothing else</u> we can do to help.
+   5. 注意
+      1. 合成不定代词**前不能加定语**
+      2. 如表示限定，需在**其后加限定词**。
+         - an important somebody （x）
+         - somebody important （v）
+   6. **常用短语 (背诵)**
+      1. **anything but** = definitely not ; 绝不
+      2. **be/have nothing to do with somebody /something** = to have no connection with somebody/something ; 和人/事无关
+      3. **nothing but** = only； no more /less than ; 只是, 肯定句
+      4. **nothing like（informal 非正式）**= not at all like not nearly /not at all ; 
+
+4. **many, much, more, most, few, little用法（请背诵）**
+
+   - **a 肯定, 没 a 否定; 小(little) 不可数;**
+
+     <img src="readme.assets/image-20201026161348455.png" alt="image-20201026161348455" style="zoom:67%;" />
+
+5. **some, any, either 用法 (请背诵)**
+
+   1. **some 用**于**肯定句**中，表示一些。
+
+      1. <u>Some</u> lucky person will win more than $1,000,000 in the competition.
+      2. <u>Some</u> have compared his work to Picasso's.
+
+   2. **any 用法**：用**否定句，疑问句**。
+
+      1. 表 “一点儿，若干”
+         - There was <u>hardly any</u> food left by the time we got there.
+      2. 表 “任何一个，无论哪个”
+         - <u>Any</u> of you should be able to answer this question.
+      3. 表 “略微，稍微”
+         - Can't you run <u>any</u> faster？
+         - 不是所有单词能放到比较级之前
+
+   3. **either 用法**
+
+      1. **否定句**中代表 also 或 too，表 “也”。
+         - They do really good food at that restaurant and it 's not very expensive <u>either</u>.
+      2. “**要么…要么**，不是…就是，**（两者中）任何一个**”
+         - <u>Either</u> candidate would be ideal for the job.
+         - <u>Either</u> you leave now <u>or</u> I call the police!
+
+   4. **all, both, each, every用法**
+
+      1. **all 的用法**
+
+         1. “每一个，**全部**，所有”，**修饰可数名词**。
+
+            - <u>All animals</u> have to eat in order to live.
+            - The cast <u>all</u> lined up on stage to take their bow.
+
+         2. **“完全地”**
+
+            - The downstairs rooms were painted <u>all</u> in greens and blues.
+
+         3. **固定搭配**
+
+            1. **all in all** : 总的说来，从各方面来说；总之
+
+            2. **all but** : 几乎，差不多
+
+            3.  **all round** : 全面地，在各方面
+
+               注意：**all 后面不能加 "the"**
+
+      2. **both 用法**
+
+         1. 表 “两个，两者”
+         2. 句中作主语，定语，宾语，同位语。
+            - <u>Both</u> my parents are teachers.
+            - Would you like milk or sugar or <u>both</u>？
+         3. 表 “两者都…” 时，用 ”both…and” 结构。
+            1. Both men and women have complained about the advertisement.
+
+      3. **each 用法**
+
+         1. each 表 “**每一个**”，可做主语，宾语，定语以及同位语。
+            - We <u>each</u>（= every one of us） wanted the bedroom with the balcony, so we tossed a coin to decide. 主语
+            - <u>Each</u> answer is worth 20 points. 定语
+
+      4. **every 用法**
+
+         1. 表 **“每一个” + 单数名词**，不单独使用。
+            - <u>Every</u> player wants to be in a winning team.
+            - <u>Every</u> cook needs good knives and a chopping board.
+         2. every 后再次出现，every 用 **“it” 指代**； every 还表 **“每隔”**
+            - <u>Every</u> store has a manager in charge of it.
+            - <u>Every</u> area has its own park.
+            - There are buses into town <u>every</u> ten minutes.
+            - I leave the house <u>every</u> morning at 6 am.
+         3. everyday 表 “通常的，日常的” (**定语**)； every day 表 “每天" (**状语**)。
+            - In the Soviet Union, poetry was at the center of <u>everyday</u> life.
+            - The boys meet up <u>every day</u> in the park.
+         4. **everyone 表每个人**； every one 指代**上文提到过**的名词
+            - <u>Everyone</u> enjoyed themselves.
+            - I received more than a hundred letters from him while i was away and I've kept <u>every one</u>.
+         5. **every other + 名词**：表 “轮流，交替，每隔…”
+            - We have English lessons every other day.
 
 ### 2.8 互相代词
 
