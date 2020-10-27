@@ -1225,58 +1225,66 @@
 
 ### 4.1 冠词的基本含义及用法
 
-### 4.2 不定冠词 a/an
+- 冠词分为定冠词，不定冠词以及零冠词。
+  - After <u>the</u> long day, <u>the</u> cup of tea tasted particularly good.（定冠词）
+  - After <u>a</u> long day, <u>a</u> cup of tea tastes particularly good.（不定冠词）
+  - like to play basebal.（零冠词）
 
-### 4.3 零冠词
+1. **定冠词**
 
-1. 定冠词
-2. 不定冠词
-3. 零冠词
+   1. 特指
 
-#### （一）不定冠词 a / an 的用法
+      1. 表 “**这个，那个**”；替代 “this, that”;
+      2. **特指** 某个名词；
+      3. 后可 + 单数名词, 复数名词, 不可数名词。
+         - Please give me the nail.
 
-1.  不定冠词 a / an 用在单数名词的前面
-2.  a 用在辅音开头的词前面
-3.  an 用在元音开头的词前面
+   2. 表 上文已提到的人或物。
 
-**具体用法：**
+      - The girl's eight and the boy's fourteen.
 
-1. 泛指某一个人或物
+   3. 地球上具体地理位置点。
 
-   - There is <u>a dog</u> lying on the ground.
+      - the north pole 北极
+      - the equator 赤道
 
-     - *There is* 符合主谓一致的就近原则 
+   4. 某些江河湖海
 
-     - *lying on the ground* 非谓语动词作定语来修饰 *dog*
-     - *a* 泛指一只狗
+      - the nile 尼罗河
+      - the pacific 太平洋
+      - the Yangtze River 长江
 
-2. 表示类人或物，区别于其它种类
+   5. 唯一存在的事物
 
-   - <u>An elephant</u> is much stronger than <u>a man</u>.
-     - 元音 e 前面用 *an* ，辅音 m 前用 *a*
-     - *An elephant， a man* 表示类别
-     - 比较结构 *much stronger than*
+      - the sun太阳
+      - the wind风
+      - the world世界
+      - the earth地球
+      - the white house白宫
 
-3. 表示“一”这个数量
+      注意：如果提到上述的**唯一事物的具体情况**时，应使用**不定冠词**。
 
-   - There is <u>a table</u> and four chairs in that dining-room.
-     - *a table* 一张桌子  
-     - *four chairs* 四把椅子
-     - *there be* 句型 就近原则：根据后面名词是复数则用 *are* 单数用 *is*
+      - I could hear <u>the wind</u>.
+      - There's <u>a cold wind</u> blowing.
+      - What are your plans for <u>the future</u>？
+      - She has <u>a promising future</u> ahead of her.
 
-4. 用不定冠词的习惯用语
+   6. 最高级前使用 the；
 
-   > a bit (一点)	a little (一点)	a few (几个)	a lot (许多)
-   >
-   > a kind of (一种)     a pair of (一副、一双)    a number of (大量的)
-   >
-   > a piece of (一片)    half an hour (半小时)    have a good time (玩的开心)
-   >
-   > have a cold (感冒)    make a noise (发出噪音)    have/take a rest (休息一下) 等
+      表强调时使用 the
 
+      - The great Wall is <u>the place</u> to go.
+      - You dont mean you met <u>the Tony Blair</u>.
+      - He is <u>the strongest</u> among students.
 
+   7. 乐器前加 the
 
-#### （二）定冠词 the 的用法
+      - play the piano 弹钢琴
+      - play the flute 吹长笛
+
+<img src="readme.assets/image-20201027150038495.png" alt="image-20201027150038495" style="zoom:67%;" />
+
+**定冠词 the 的用法**
 
 1. 表特指的人或事物
    - <u>The man</u> with a flower in his hand is jack.
@@ -1319,7 +1327,138 @@
     - He began to play <u>the violin</u> at the age of 5.
       - *the violin* 乐器
 
-#### （三）零冠词
+
+
+### 4.2 不定冠词 a/an
+
+1. 泛指人或物，后**加单数可数名词**。
+2. 第一次提到某人/物之前。
+3. 不与代词连用
+   - My shirt is dirty.（v）
+   - The My shirt is dirty （x）
+   - This car is expensive.（v）
+   - This the car is expensⅳve.（×）
+   - One person is in the reception. （v）
+   - The one person is in the reception.（×）
+4. 和名词连用**作表语或同位语**，**表职业**。
+   - She is a student.
+     - 她是个学生。
+   - am an English teacher.
+     - 我是一个英语老师。
+   - am a builder.
+     - 我是一个工人。
+5. 用于**价格、速度、频率短语**。
+   - sⅸ kilometers an hour 
+     - 每小时60公里
+   - 4 times a day 
+     - 每天四次
+6. 固定短语
+   - take a break 休息一下; 
+   - as a matter of fact 事实上;
+   - have a good time 玩得开心;
+   - in a word 总而言之; 
+   - make a IIving 谋生;
+
+<img src="readme.assets/image-20201027152528218.png" alt="image-20201027152528218" style="zoom:67%;" />
+
+**不定冠词 a / an 的用法**
+
+1.  不定冠词 a / an 用在单数名词的前面
+2.  a 用在辅音开头的词前面
+3.  an 用在元音开头的词前面
+
+**具体用法：**
+
+1. 泛指某一个人或物
+
+   - There is <u>a dog</u> lying on the ground.
+
+     - *There is* 符合主谓一致的就近原则 
+
+     - *lying on the ground* 非谓语动词作定语来修饰 *dog*
+     - *a* 泛指一只狗
+
+2. 表示类人或物，区别于其它种类
+
+   - <u>An elephant</u> is much stronger than <u>a man</u>.
+     - 元音 e 前面用 *an* ，辅音 m 前用 *a*
+     - *An elephant， a man* 表示类别
+     - 比较结构 *much stronger than*
+
+3. 表示“一”这个数量
+
+   - There is <u>a table</u> and four chairs in that dining-room.
+     - *a table* 一张桌子  
+     - *four chairs* 四把椅子
+     - *there be* 句型 就近原则：根据后面名词是复数则用 *are* 单数用 *is*
+
+4. 用不定冠词的习惯用语
+
+   > a bit (一点)	a little (一点)	a few (几个)	a lot (许多)
+   >
+   > a kind of (一种)     a pair of (一副、一双)    a number of (大量的)
+   >
+   > a piece of (一片)    half an hour (半小时)    have a good time (玩的开心)
+   >
+   > have a cold (感冒)    make a noise (发出噪音)    have/take a rest (休息一下) 等
+
+
+
+### 4.3 零冠词
+
+1. 广义的概念
+
+   - Religion is an important issue.
+   - Mexican food is spicy.
+   - People are worried about rising crime.
+   - Information is important to any organization.
+
+2. 人名，书名，剧名
+
+   - I have read Romeo and juliet.
+   - Shakespeare.
+
+3. 某些城镇，城市，州或国家名
+
+   - Cape Town.
+   - Vietnam.
+
+   注意：含有 state（s）， kingdom, republic, union的国名除外。
+
+   - The USA, The UK, The Netherlands, The Czech Republic, The Philippines
+
+4. 某些湖泊，单独岛屿，大洲或山名
+
+   - Lake victoria 
+   - Jamaica 
+   - Asia 
+   - Mt Fuji
+
+5. 星球
+
+   - Mars 火星
+   - Jupiter 木星
+   - Saturn 土星
+
+6. 球类：棋类：语言：学科
+
+   - 例如：soccer, tennis
+   - i like to play baseball.
+   - My sister was always good at math.
+   - i have studied french for 3 years.
+
+7. 早中晚餐; 季节；日期
+
+   - 例如：breakfast, lunch, dinner, supper等
+   -  Let's go out for dinner tonight.
+   - It' s August 28th.
+   - Winter is coming.
+
+<img src="readme.assets/image-20201027154618136.png" alt="image-20201027154618136" style="zoom:67%;" />
+
+
+
+**零冠词**
 
 1. <u>专有名词</u> 和 <u>第一次使用一些不可数名词</u> 时前面通常不用
    - <u>China</u> is a very large country.
@@ -1377,6 +1516,8 @@
 10. 头衔、职位、称呼前一般不用
     - This is <u>Doctor Li</u>.
     - The guards took the American to <u>General Lee</u>.
+
+<img src="readme.assets/image-20201027155657788.png" alt="image-20201027155657788" style="zoom:67%;" />
 
 ## 五、形容词、副词
 
