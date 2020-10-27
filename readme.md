@@ -1523,17 +1523,188 @@
 
 ### 5.1 形容词
 
+- 形容词常见形容词后缀（阅读并背诵）
+
+| -able, -ible | comfortable, inevitable, incredible, invisible |
+| ------------ | ---------------------------------------------- |
+| -al, -ial    | normal, industrial, official, beneficial       |
+| -ful         | beautiful, harmful, peaceful, wonderful        |
+| -ic          | economic, heroic, romantic                     |
+| -ical        | aeronautical, political, economical            |
+
 #### 5.1.1 形容词的分类
+
+1. **属性形容词**：表示人或物所具有的属性
+
+   | active     | 主动的, 活跃的 |
+   | ---------- | -------------- |
+   | adaptable  | 适应性强的     |
+   | adroit     | 灵巧的, 机敏的 |
+   | aggressive | 有进取心的     |
+   | alert      | 机灵的         |
+   | ambitious  | 有雄心壮志的   |
+
+   - **属性形容词前可加 “rather” 或 “very” 修饰。**
+     - Actually, i did <u>rather well</u> in my exams.
+     - The situation is <u>very serious</u>.
+
+2. **类属形容词**：指明事物所属的类别
+
+   | financial  | electric     | classic  | central     | modern    | international |
+   | ---------- | ------------ | -------- | ----------- | --------- | ------------- |
+   | economic   | intellectual | historic | proper      | legal     | internal      |
+   | annual     | alternative  | blind    | social      | local     | eternal       |
+   | domestic   | considerable | ideal    | rural       | separate  | empty         |
+   | industrial | official     | basic    | traditional | potential | inevitable    |
+
+   1. 表示国籍的词属于类属形容词
+      1. British island 英国岛屿
+      2. American people 美国人
+   2. **类属形容词没有比较级与最高级**，且前可**不加 “rather” 或 “very“ 修饰**。
+
+3. **颜色形容词**：
+
+   | blue   | green | purple | yellow | red   |
+   | ------ | ----- | ------ | ------ | ----- |
+   | pink   | brown | black  | grey   | white |
+   | orange |       |        |        |       |
+
+   1. 表示**浅色**可在颜色形容词前加 **“light”**
+   2. **深色**可在颜色形容词前加 **”dark”** 或 **“deep”** 另外可用 “pale, bright” 等词。
+      - light brown 浅褐色
+      - light green 浅绿色
+      - dark blue 深蓝色
+
+4. **强调形容词**：强调作用
+
+   1. **常见：absolute, utter, total, entire, sheer等。**
+      - We have absolute confidence in victory.
+      - This is a sheer fabrication.
+
+5. **-ing&-ed 形容词**
+
+   1. 某人，某事或某个情景的性格或特点。表 “…ing, **令人感觉…”**
+
+   2. 形容感觉或情感，表 “…ed, **自己感觉…**”
+
+      - He is bored.
+        - He is boring.
+      - I am confused.
+        - I am confusing.
+
+   3. **常见 -ing 与 -ed 形容词（建议阅读并背诵）**
+
+      | alarmed -alarming       | charmed -charming           |
+      | ----------------------- | --------------------------- |
+      | amused -amusing         | confused -confusing         |
+      | annoyed - annoying      | convinced - convincing      |
+      | astonished- astonishing | depressed- depressing       |
+      | astounded -astounding   | disappointed -disappointing |
+      | challenged -challenging | discouraged-discouraging    |
+
+      
+
+6. **复合形容词**：两个单词构成的形容词，用连字符连接
+
+   1. **复合形容词常见形式**
+      1. 形容词 + 名词 + -ed
+      2. 形容词/副词 + 过去分词
+      3. 形容词/副词/名词 + 现在分词
+      4. 名词 + 形容词
+         - He is a <u>well-known</u> writer.
+         - That was a <u>record-breaking</u> jump.
+         - She is a <u>world-famous</u> singer.
+         - It was a <u>last-minute</u> decision
 
 #### 5.1.2 形容词词序
 
-#### 5.1.3 形容词的句法作用
+- (限定词+程度副词) + 描绘性形容词+表大小 (长短、高低形状+表状态的形容词+表年龄 (新旧) 的形容词+表颜色的形容词+表图案形容词+表国籍或产地的形容词+表物质材料的形容词+表类别或用途的形容词+名词。
 
-#### 5.1.4 形容词的原级、比较级与最高级
+1. 限定词
+   - a, an, the, my your, four, those, some等。
+2. 描绘性形容词
+   - beautiful, boring stupid, delicious, useful, lovely comfortable等。
+3. 大小
+   - big, small, tall huge, tiny
+4. 形状，重量，长短
+   - round, square, circular, skinny fat, heavy straight, long short
+5. 状态
+   - broken, cold, hot wet, hungry, rich, easy, difficult, dirty
+6. 年龄
+   - old, young, new, ancient, antique
+7. 颜色
+   - green, white, blue, reddish purple
+8. 图案
+   - striped, spotted checked, flowery
+9. 国籍
+   - American British Italian eastern Australian Chilean
+10. 物质材料
+    - gold wooden, silk paper, synthetic, cotton woolen
+11. 类别或用途
+    - sleeping（bag）， wedding（dress）
 
-#### 5.1.5 形容词比较级的用法
+<img src="readme.assets/image-20201027165608824.png" alt="image-20201027165608824" style="zoom:67%;" />
 
-#### 5.1.6 形容词最高级的用法
+- 练习
+  - **一个紫色漂亮的大木桌子**
+    - a beautiful big purple wooden desk
+    - **（限定词+描述性+大小+颜色+材质+名词）**
+  - 个旧的漂亮的黑色的日本的方形木制小写字桌。
+    - a pretty little square old black Japanese wooden writing desk
+    - 限定词+描述词1+描述词2+形状词+颜色+国籍+材质+类别+名词
+
+#### 5.1.3 句法作用
+
+1. **作定语**
+   - It is big fat dog.
+   - The car is big enough.
+2. **作表语**
+   - The news is exciting.
+   - The garden is completely dry.
+3. **作补语**
+   - Money doesnt always make us <u>happy</u>.
+   - Noises drive me <u>crazy</u>.
+   - The was found <u>open</u>.
+4. **作状语**: 有没有修饰名词, 没有就是状语, 表状态
+   - He arrived home, <u>hungry</u> and <u>tired</u>.
+   - Hard to say, he is a <u>mild</u> boy.
+5. **“The + 形容词”** 表某一类人
+   - the rich 
+   - the poor 
+   - the old 
+   - the young
+
+#### 5.1.4 原级、比较级与最高级
+
+1. 规则变化
+
+   |                         规则                         |    原级    |     比较级     |      最高级      |
+   | :--------------------------------------------------: | :--------: | :------------: | :--------------: |
+   | **单音节词**及少数双音节词的比较级直接后加 -er，-est | clean warm | cleaner warmer | cleanest warmest |
+   | **元音+辅音** 字母结尾，**辅音字双写**后加 -er，-est |  hot big   | hotter bigger  | hottest biggest  |
+
+2. 不规则变化
+
+   |   原级    |     比较级      |      最高级       |
+   | :-------: | :-------------: | :---------------: |
+   | good/well |     better      |       best        |
+   |    bad    |      worse      |       worst       |
+   | many/much |      more       |       most        |
+   |  little   |      less       |       least       |
+   |    far    | farther/further | farthest/furthest |
+   |    old    |   older/elder   |   oldest/eldest   |
+
+#### 5.1.5 比较级的用法
+
+1. 单独使用，前**可加修饰语**
+   - a lot, much, a little, a bit 及表数量的词。
+     - You should be <u>more careful</u>.
+     - The city is <u>a lot more crowded</u> these days.
+2. **与 than 连用**, 表两者的对比
+   - It is <u>more stressful than</u> simultaneous interpreting.
+   - It was <u>much further</u> to the town center <u>than</u> I remembered.
+
+#### 5.1.6 最高级的用法
 
 #### 5.1.7 易混淆形容词辨析（阅读并背诵）
 
