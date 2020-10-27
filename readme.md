@@ -1697,26 +1697,417 @@
 #### 5.1.5 比较级的用法
 
 1. 单独使用，前**可加修饰语**
+
    - a lot, much, a little, a bit 及表数量的词。
      - You should be <u>more careful</u>.
      - The city is <u>a lot more crowded</u> these days.
+       - 这个城市这几天过于拥挤。
+
 2. **与 than 连用**, 表两者的对比
+
    - It is <u>more stressful than</u> simultaneous interpreting.
+     - 它比同声传译压力更大。
    - It was <u>much further</u> to the town center <u>than</u> I remembered.
+     - 去市中心的路比我印象中要长得多。
+
+3. 其他特殊结构
+
+   1. **more and more “越来越…”**
+
+      - The weather is getting <u>hotter and hotter</u>.
+        - 天气越来越热。
+      - The country is becoming <u>more and more prosperous</u>.
+        - 这个国家越来越繁盛了
+
+   2. **the more…the more + 句子(主谓)**
+
+      - <u>The longer</u> the war lasts, <u>the more</u> the people suffer.
+        - 战争持续越久，人们受难就越多。
+      - <u>The thicker</u> a mammal's skin is, <u>the less</u> hair it has.
+        - 哺乳动物的皮越厚，毛发越稀疏。
+
+   3. **more than** 用法
+
+      1. **more than + 名词 = not only**
+      2. **more than + 数词 = over** 
+      3. **more than + 形容词 = very**
+
+      - Hibernation is <u>more than sleep</u>.
+        - 冬眠不仅仅是睡觉。
+      - <u>More than 10 million</u> has witnessed tremendous changes.
+        - 超过1000万人见证了巨大的变化。
+      - They are <u>more than happy</u> to see us.
+        - 见到我们，他们非常高兴。
+
+   4. **more … than **
+
+      1. **比 … 多 **
+      2. **与其 … 不如…**
+
+      - The book is <u>more useful than</u> that one.
+        - 这本书比那本书有用。
+      - She is <u>more a singer</u> <u>than an actress</u>.
+        - 与其说她是个演员，不如说是个歌唱家。
+
+   5. no more than 与 not more than
+
+      1. **no more than;**      **仅仅, 只有**
+      2. **not more than;**     **不超过, 不多余**
+
+      - She has <u>no more than</u> three books.
+        - 她只有3本书。
+      - She has <u>not more than</u> three books.
+        - 她至多有3本书。
+
+   6. no more than 与 not more than
+
+      1. **no more … than;** = either … nor ; **既不…也不**
+      2. **not more … than;**  = not so … as ; **不如, 不及**
+
+      - He is <u>no more</u> a musician <u>than</u> a painter.
+        - 他既不是音乐家，也不是作家。
+      - She is <u>not more</u> diligent <u>than</u> he is.
+        - 她不如他勤奋。
+
+   7. **less than “少于”**
+
+      - The interest for music had lasted for <u>less than</u> two years.
+        - 对音乐的兴趣维持了不到两年。
+
+   8. **no less than “多达”**
+
+      - We ran <u>no less than</u> three miles.
+        - 我们跑了3英里之远。
+
+   9. **no less…(形容词/副词)than** ; 和…一样 ;
+
+      = **as…(形容词/副词)as;** 
+
+      = **the same as (名词);**
+
+      = **the identical with (名词);**
+
+      - He is <u>no less clever than</u> you.
+        - 他跟你一样聪明。
+
+   10. **not less than;** 不少于
+
+       - He has <u>not less than</u> seven cars.
+         - 他至少有七辆车。
+
+   <img src="readme.assets/image-20201027221217653.png" alt="image-20201027221217653" style="zoom:67%;" />
 
 #### 5.1.6 最高级的用法
 
+1. **前一般加 the**
+
+   - He is <u>the strongest</u> student in his class.
+   - What is <u>the least</u> expensive way of travelling in UK？
+
+2. **可单独使用**
+
+   - Mary is my best friend.
+   - She's the youngest musician in the piano.
+
+3. 最高级前**可以添加修饰语**
+
+   - far, mostly, almost, by far, very, much, quite 等。
+     - This method is by <u>far the least</u> complicated.
+       - 这个方法是目前为止最简单的。
+     - This is <u>quite the most</u> irresponsible behavior i have ever seen.
+       - 这是我见过的最不负责任的行为。
+       - ir-responsible : **ir- 否定前缀**
+       - im-m/p/b = 否定前缀
+       - il- 否定前缀
+
+4. **at + 形容词最高级** ; 表 “处于最….的状态”
+
+   - I knew she was <u>at her worst</u>.
+     - 我知道她这时情绪最糟。
+
+   - The game was <u>at its peak</u>.
+     - 游戏正是高潮的时候。
+
+5. **“a most + 形容词”** 时，意为 “非常” = **very** = **more than**
+
+   - It is <u>a most important</u> occasion.
+     - 这是一个非常重要的时刻。
+   - It was <u>a most beautiful</u> morning.
+     - 那是个十分美丽的早晨。
+
+<img src="readme.assets/image-20201027223722915.png" alt="image-20201027223722915" style="zoom:67%;" />
+
 #### 5.1.7 易混淆形容词辨析（阅读并背诵）
 
+| 英文                                        | 中文                                                         | 英文                                                      | 中文                                                         |
+| ------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
+| historic<br/>  historical                   | 历史上著名的,有历史意义的<br/>历史的,有关历史的              | economic <br/>economical                                  | 经济的,经济上的 <br/> 省钱的,节约的                          |
+| industrial<br/> industrious                 | 工业的 <br/> 勤劳的,勤奋的                                   | considerable<br/> considerate                             | 相当多(大)的,可观的 <br/> 体贴的,周到的                      |
+| sensible<br/> sensitive                     | 明智的 <br/> 敏感的                                          | intense<br/> intensive: deep and thorough                 | 强烈的,剧烈的 <br/> 密集的,集中的,加强的                     |
+| respectable <br/>respectful <br/>respective | 值得(别人)尊重的<br/>表示尊敬(别人)<br/>分别的,各自的        | intelligent<br/> intelligible<br/> intellectual           | 有才智的,聪明的<br/>易懂的<br/>智力的,脑力的                 |
+| contemptible<br/> contemptuous              | 可卑的,卑劣的 <br/>轻视的,轻蔑的                             | credible<br/> credulous <br/>editable: that brings credit | 可信的,可靠的<br/>轻信的,易上当的<br/>值得称赞的,可信的      |
+| alternate <br/>alternative                  | 轮流的,交替的<br/>选择的,两者选一的                          | comparable <br/>comparative                               | 可替代的,可烘选择的<br/>比较而言的,相当的                    |
+| beneficial <br/>beneficent                  | 有益的<br/>行善的,慈善的                                     | official<br/> officious                                   | 官方的<br/>爱指手画脚的,自以为是的                           |
+| confident <br/>confidential                 | 自信的<br/>机密的                                            | negligent<br/> negligible                                 | 疏忽的,失职的<br/>微不足道的,可忽略的                        |
+| momentary <br/>momentous                    | 瞬时的,片刻的<br/>重大的,重要的                              | social <br/>sociable                                      | 社会的<br/>善社交的                                          |
+| distinct<br/> distinctive                   | 明显的,显著的<br/>与众不同的,独特的,特别的                   | classic <br/>classical                                    | 经典的;优秀的;一流的<br/>古典的                              |
+| comprehensible <br/>comprehensive           | 可理解的,易于理解的<br/>全面的,综合的                        | disinterested <br/>uninterested                           | 客观的,公平的<br/>冷漠的,不关心的                            |
+| effective <br/>efficient <br/>effectual     | 有效的<br/>效率高的;有能力的;有效的;生效的<br/>卓有成效的,有效的;奏效的 | ingenious <br/>ingenuous                                  | (人)灵巧的;(物品等)制作精巧的;(方法等)巧妙的<br/>天真的      |
+| regretful <br/>regrettable                  | 感到遗憾的<br/>使人悔恨的;令人遗憾的;不幸的;可悲的           | spiritual<br/> spirituous                                 | 精神的,心灵的<br/>含有酒精的                                 |
+| temporal <br/>temporary                     | 世间的,世俗的,现世的<br/>暂时的,临时的                       | alive<br/> live<br/>living<br/>lively                     | 活着的,作表语,作定语时后置<br/>活的,现场直播的<br/>活着的,作定语可前可后,可修饰人也可修饰物<br/>活泼的,栩栩如生的 |
 
+- We watched the live broadcast of the opera on TV.
+  - 我们通过电视观看了这部歌剧的直播
+- There was a tank of live lobsters in the restaurant.
+  - 饭馆里有一箱活龙虾
+- Who is the world's greatest living architure?
+  - 谁是现在还健在的世界上最伟大的建筑学家?
+- She is a lively young girl.
+  - 她是个活泼可爱的小姑娘
+
+<img src="readme.assets/image-20201027231407828.png" alt="image-20201027231407828" style="zoom:67%;" />
+
+<img src="readme.assets/image-20201027231449838.png" alt="image-20201027231449838" style="zoom:67%;" />
 
 ### 5.2 副词
 
 #### 5.2.1 副词分类
 
+1. **时间副词**
+
+   1. 表示时间
+
+      **tomorrow, now, this year, next week, soon, then, yesterday, lately, recently, immediately**
+
+      - I will see you <u>tomorrow</u>.
+      - I never get up <u>early</u> at the weekends.
+
+   2. **频度副词:** 表示频繁程度
+
+      **always, sometimes, never, once a week, hourly, every day, once a month twice a year, four times a day, every other week, daily, monthly**
+
+      - I <u>always</u> go to bed before 11 p.m.
+      - I'm <u>usually</u> home by 6 o'clock.
+
+      <img src="readme.assets/image-20201027232011279.png" alt="image-20201027232011279" style="zoom:67%;" />
+
+2. **地点副词**: 表示地点
+
+   **here, there, everywhere, inside, outside, home, upstairs, downstairs, across, along, round, around, in out, above, below, up, down, back, forward**
+
+   - you should go <u>upstairs</u> and do your homework
+   - The author's name was printed <u>below</u> the title.
+     - 作者的名字登在标题之下.(介词)
+   - The cars <u>below</u> looked like insects.
+     - 下面的汽车像昆虫一样.(副词)
+   - They live in that old house <u>on</u> the hill.
+     - 他们住在山上的那间旧农舍里.(介词)
+   - It's very cold so put a coat <u>on</u>.
+     - 天很冷,穿上一件外套吧.(副词)
+
+3. **方式副词**: 表明方式行为
+
+   **carefully, slowly, loudly, suddenly, fast, well, calmly, politely, proudly, soft**
+
+   - Can you move it <u>carefully</u>?
+   - Walk <u>slowly</u>.
+   - The boring speech finished and everyone clapped <u>politely</u>.
+     - 这个无聊的演讲结束了,每个人礼貌地鼓了鼓掌.
+
+4. **程度副词**: 表示动作的程度
+
+   **very, extremely, rather, almost, nearly, too, fully, absolutely slightly, simply**
+
+   - He was conscious that he was talking rather too much.
+     - 他意识到他说的太多了
+   - The bottle's nearly empty.
+
+5. **疑问副词**: 构成特殊疑问句
+
+   **how, when, where, why**
+
+   - How does it work?
+   - When can i see you?
+
+6. **强调副词**: 强调动词,形容词
+
+   **absolutely, completely, entirely, just, perfectly, purely, quite, really, totally, utterly, really, especially, mainly, particularly, generally, largely, only**
+
+   - The lecture was not <u>particularly</u> interesting.
+     - 这次的课不是特别有趣.
+   - I love Rome, <u>especially</u> in the spring.
+     - 我喜欢罗马,尤其是春天的罗马.
+   - This behavior is <u>totally</u> unacceptable.
+     - 完全不能接受这样的行为.
+
+7. **连接副词**
+
+   1. **how, when, where, why** 引导**主语从句, 宾语从句, 表语从句**.
+
+      - Do you remember <u>how</u> the kids always loved going there?
+        - 你记得孩子们是怎么样爱上去那里的吗?
+      - I wonder <u>where</u> they will take us to.
+        - 我在想他们会带我们到哪里去.
+      - That's <u>why</u> I left so early.
+        - 这就是我为什么早早离开.
+
+   2. 引导并列结构
+
+      then, however, consequently, therefore 等
+
+      - He drank a glass of whisky, <u>then</u> another and then another.
+        - 他喝了一杯威士忌,然后一杯接一杯.
+      - We thought the figures were correct. <u>However</u> , we have now discovered some errors.
+        - 我们认为数字是正确的,然而,我们现在发现了错误.
+
+8. **关系副词**: 引导定语从句
+
+   when, where, why 
+
+   - It's one of the few countries <u>where</u> people drive on the left.
+     - 它是少数人们可以左驾的国家之
+   - There are times <u>when</u> I wonder why I do this job.
+     - 好几次我都想为什么我要做这份工作.
+   - The reason <u>why</u> he disappeared is under inspection.
+     - 他失踪的原因正在调查中.
+
+9. **句子副词**: 修饰整个句子
+
+   apparently, actually, chiefly, chiefly, interestingly 等
+
+   - <u>Personally</u>, I think the show was great.
+     - 个人来讲,我认为这个表演很不错
+   - <u>Actually</u>, I've been very busy.
+     - 说实话,我很忙.
+
+<img src="readme.assets/image-20201027234642482.png" alt="image-20201027234642482" style="zoom:67%;" />
+
 #### 5.2.2 副词的构成
 
+1. **以 -ly 结尾的副词**
+
+   1. 许多副词与形容词有很大的关联,译为"…地", 
+
+      通常 **副词 = 形容词 + ly**, 此类副词词量最大.
+
+      - beautiful→ beautifully 
+      - important→ importantly 
+      - apparent→ apparently 
+      - former→ formerly
+
+   2. **以 -y 结尾**的形容词变为副词, **变 -y 为 i 加 -ly** 
+
+      - easy→ easily 
+      - busy→busy 
+      - lucky→ luckily
+
+   3. **以元音 +e 结尾**的直接**加 -ly** 
+
+      - definite→ definitely 
+      - unfortunate - unfortunately 
+      - extreme→ extremely 
+      - absolute→ absolutely
+
+2. **-wards, -wise 结尾**的副词
+
+   - -wards: inwards, eastwards, upwards, downwards
+   - -wise: clockwise, lengthwise, likewise
+
+3. **形容词副词同形**的词
+
+   - **traight, tight, fast, hard, early, late, high, low, right, wrong, straight, long, daily, weekly, monthly, yearly** 
+     - Adam has a <u>fast</u> car.(形容词)
+     - Adam speak**s** <u>fast</u>.(副词) 
+       - 找动词的三种形态, 动词后面是副词
+
+4. **与形容词无关的副词**
+
+   - just, quite, so, soon, too, very
+
+   **注意:**
+
+   - 由于发音的关系, **-ly 结尾的形容词不可变为副词** 
+   - friendly, manly, womanly, brotherly, sisterly, wifely, comradely husbandly, homely, worldly, early, silly, ugly
+
 #### 5.2.3 副词的用法
+
+1. 副词的位置
+
+   1. 句首
+
+      - <u>Quickly</u> , I changed my opinion.
+        - 很快我就改变了主意.
+      - <u>Suddenly</u> , I felt afraid.
+        - 突然间我感觉害怕
+
+   2. **句尾** (单个副词,建议放句尾, 两个首尾各一个)
+
+      - He speaks <u>clearly</u>.
+        - 他说的很清楚.
+      - She drinks <u>quickly</u>.
+        - 她喝的很快.
+
+   3. 句中
+
+      - He <u>normally</u> gets good marks in exams.
+        - 他通常会在考试中取得好成绩.
+      - I put the china <u>carefully</u> on the table/
+        - 我把陶器小心地放在桌子上.
+
+      注意:
+
+      - **谓语动词与宾语之间不可以加入副词.**
+
+        - I put carefully the china on the table. ( x )
+
+      - **地点副词**置与**否定副词**置于**句首**时, 句子**要倒装**, 详见"倒装句".
+
+        |   类型   |                             位置                             |                             例子                             |
+        | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+        | 方式副词 |   1.置于句末<br/>2.句子宾语过长时, 用在主语与谓语动词之间    | I read the book **quickly**.<br/>I **quickly** read the book and play games. |
+        | 地点副词 |                          句首或句末                          | **Here** she is.<br/> **Outside**, where was a small garden. |
+        | 时间副词 |                          句首或句末                          | **Yesterday** I met her.<br/>will go to London **tomorrow**. |
+        | 频度副词 | 句首,句中,句末均可,遵守上述规则.<br/>注意: always, seldom, rarely, hardly, ever never 不可用于句首. | I **usually** get up late on weekends.<br/> **Sometimes** I go by car. |
+        | 强调副词 |                             句中                             | Fame is often **simply** a matter of being in the right place at the right time. |
+        | 句子副词 |                   单独使用,<br/>句首或句末                   |   **Frankly**, I couldn 't care less what happens to him.    |
+
+2. 副词的句法
+
+   1. 1
+      - We could only get seats at the back.
+        - 我们只能拿到后面的位置.
+      - Walk across the road carefully!
+        - 过马路小心点.
+   2. 2
+      - Do you stay home?
+        - 你待在家里吗?
+      - Is Mary around?
+        - 玛丽在附近吗?
+   3. 3
+      - The letter was sent to the above address.
+        - 此信件已被送往上述地址.
+      - Do you usually wear your skirts above or below the knee?
+        - 你通常穿露膝裙还是过膝裙?
+   4. 4
+      - I saw him back.
+        - 我看见他回来了.
+
+3. 副词的比较级与最高级构成
+
+   1. 规则类
+      - quickly-more quickly-(the )most quickly 
+      - beautifully-more beautifully-( the )most beautifully 
+      - carefully-more carefully-( the )most carefully
+   2. 其他类
+      - soon-sooner-soonest 
+      - fast -faster-fastest 
+      - late -later- latest
+   3. 不规则类
+      - far-farther/further- farthest/furthest 
+      - well-better-best 
+      - little-less-least 
+      - much-more-most 
+      - badly-worse-worst
 
 
 
