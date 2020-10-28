@@ -2073,31 +2073,34 @@
 
 2. 副词的句法
 
-   1. 1
-      - We could only get seats at the back.
+   1. **作状语**
+      - We could only get seats <u>at the back</u>.
         - 我们只能拿到后面的位置.
-      - Walk across the road carefully!
+      - Walk across the road <u>carefully</u>!
         - 过马路小心点.
-   2. 2
-      - Do you stay home?
+   2. **作表语**
+      - Do you stay <u>home</u>?
         - 你待在家里吗?
-      - Is Mary around?
+      - Is Mary <u>around</u>?
         - 玛丽在附近吗?
-   3. 3
-      - The letter was sent to the above address.
+   3. **作定语**
+      - The letter was sent to the <u>above</u> address.
         - 此信件已被送往上述地址.
-      - Do you usually wear your skirts above or below the knee?
+      - Do you usually wear your skirts <u>above or below</u> the knee?
         - 你通常穿露膝裙还是过膝裙?
-   4. 4
-      - I saw him back.
+   4. **作宾补**
+      - I saw him **back**.
         - 我看见他回来了.
 
-3. 副词的比较级与最高级构成
+3. **副词的比较级与最高级**
 
    1. 规则类
-      - quickly-more quickly-(the )most quickly 
-      - beautifully-more beautifully-( the )most beautifully 
-      - carefully-more carefully-( the )most carefully
+      - quickly
+        - -more quickly-(the )most quickly 
+      - beautifully
+        - -more beautifully-( the )most beautifully 
+      - carefully
+        - -more carefully-( the )most carefully
    2. 其他类
       - soon-sooner-soonest 
       - fast -faster-fastest 
@@ -2109,21 +2112,294 @@
       - much-more-most 
       - badly-worse-worst
 
+<img src="readme.assets/image-20201028145111697.png" alt="image-20201028145111697" style="zoom:67%;" />
+
 
 
 ## 六、介词
 
 ### 6.1 介词的分类
 
+1. **单个介词**
+
+   | about   | beside  | near     | to         |
+   | ------- | ------- | -------- | ---------- |
+   | above   | between | of       | towards    |
+   | across  | beyond  | off      | under      |
+   | after   | by      | on       | underneath |
+   | against | despite | like     | unlike     |
+   | along   | down    | opposite | until      |
+   | among   | during  | out      | up         |
+   | around  | except  | over     | via        |
+   | as      | for     | past     | with       |
+   | at      | from    | round    | since      |
+   | before  | in      | through  | than       |
+   | behind  | inside  | beneath  | below      |
+
+2. **合成介词**
+
+   - within, without, onto, into, upon, out of, alongside, toward, outside,throughout
+
+3. **分词介词**
+
+   - concerning, considering, following, regarding, including, excluding
+
+4. **短语介词**
+
+   | ahead of   | except for     | instead of    | owing to  |
+   | ---------- | -------------- | ------------- | --------- |
+   | apart from | in addition to | near to       | such as   |
+   | as for     | in front of    | on account of | thanks to |
+   | as well as | in place of    | on top of     | up to     |
+   | because of | in spite of    | out of        |           |
+   | due to     | inside of      | outside of    |           |
+
 ### 6.2 介词词义分类
+
+1. 表示**时间的介词**
+
+   - **at** 6 o'cock
+   - **on** February 9th
+   - **in** Spring 
+   - **in** the morning 
+   - **for** several months几个月
+   - **during** 1942在1942年期间
+   - 表示**其他时间概念的介词**有 
+     - before, after, since, until, till, between, up to,from, prior to等.
+
+2. 表示**地点的介词**
+
+   |             英文             |         中文          |
+   | :--------------------------: | :-------------------: |
+   |              at              |     表示在小地方      |
+   |              in              |     表示在大地方      |
+   |              on              | 表示毗邻,接壤,在…上面 |
+   |              to              |     表示在…范围外     |
+   |       above, over, on        |         在…上         |
+   |         below under          |        在…下面        |
+   | in front of, in the front of |        在…前面        |
+   |            behind            |       在…的后面       |
+   |            beside            |      表示在…旁边      |
+   |             near             |        在…旁边        |
+   |            inside            |        在…里面        |
+   |           outside            |        在…外面        |
+   |            within            |       在…范围内       |
+   |            beyond            |         超越…         |
+   |           against            |         靠着…         |
+   |           opposite           |        在…对面        |
+   |         through/via          |         穿过…         |
+   |            along             |         沿着…         |
+
+   - I was sitting **at** my desk.
+     - 我坐在我的书桌上.
+   - Dublin is **on** the east coast of Ireland.
+     - 都柏林位于爱尔兰东海岸线.
+   - The apartment **below** is owned by a French couple.
+     - 下面的公寓为一对法国夫妇所有.
+   - The metro station is right **beneath** the airport.
+     - 地铁站位于机场的正下方.
+
+3. 表示**方式的介词**
+
+   - 表示 "方式,方法" 的介词常用 by, with, through 等
+   - **by** bicycle 骑自行车
+   - **with** scissors 用剪力
+
+4. 表示**原因的介词**
+
+   - 表示原因常用 for, because of, sInce 
+   - I wear these old trousers **for** painting.
+     - 我穿这些旧裤子是为了画画.
 
 ### 6.3 介词短语的构成
 
+介词是一种虚词,表示句中词与词之间的关系,在句中不充当任何成分.介词其后的成分构成介词短语,能构成介词短语的词类如下:
+
+1. **介词 + 名词**
+   - What's the reason **for your unhappiness**?
+     - 你为什么不开心呢?
+   - She did some research **into the causes orack pain**.
+     - 她对背部疼痛的原因做了一些调查.
+2. **介词 + 代词**
+   - I saw you **with her**.
+     - 我看到你和她在一起.
+   - The boy did not want to play **with them**.
+     - 小男孩不愿意和他们在一起玩.
+3. **介词 + 动名词/动名词** 复合结构
+   - Thank you **for** coming here.
+     - 感谢你来到这里.
+   - They are good **at** painting.
+     - 他们擅长画画.
+   - I agree **with** your researching there.
+     - 我同意你在这做调研.
+4. **介词 + 形容词**
+   - **from** young **to** old
+     - 从年轻到年老
+   - Her behavior is far **from** satisfactory.
+     - 她的行为还远远不能让人满意.
+5. **介词 + 副词**
+   - I’ve changed my mind **since then**.
+     - 从那以后我改变了主意.
+   - I was unaware of his existence **until recently**.
+     - 最近我才知道有他这么个人.
+6. **介词 + 动词**
+   - Robert accused her **of stealing** his idea.
+     - 罗伯特起诉她抄袭他的想法.
+   - Getting to the final depends **on winning** the semi-final.
+     - 嬴了半决赛才能去决赛.
+   - **On arriving** at the city he called up her.
+     - 一到城里他就给她打了一个电话.
+7. **介词 + 不定式**
+   - I had no choice **but to compromise**.
+     - 我别无选择只有妥协.
+   - It had no effect **except to make** him angry.
+     - 除惹他生气外,没产生任何效果.
+8. **介词 + 从句**
+   - I am worried **about where** she is going.
+     - 我担心她去哪了.
+   - The film **at which** I fell asleep was very boring.
+     - 电影太无聊了,我睡着了.
+9. **介词 + 数词**
+   - It's **about 6** pm.
+     - 差不多下午6点.
+   - **Over 100** people are at the meeting.
+     - 会上有100多人.
+10. **介词 + 介词**
+    - They've moved **far into** the country.
+      - 他们搬到很远的乡下去了.
+    - They left the party **just before** us.
+      - 他们走的比我们稍早一点.
+
 ### 6.4 介词短语的句法作用
+
+1. **作定语**
+   - a meeting **in the morning**.
+     - 早晨的一个会议
+   - the road **to success**
+     - 成功的道路
+2. **做状语**
+   - She lives **in Beijing**.
+     - 她住在北京.
+   - They visit the wall **by bike**.
+     - 他们骑自行车参观了城墙.
+   - The barbecue was canceled **because of rain**.
+     - 因为下雨,烧烤被取消了.
+3. **作表语**
+   - The waiter is **in** a good mood.
+     - 那个服务员心情不错.
+   - Is it **in** your hand?
+     - 在你手里吗?
+4. **作补语**
+   - Tom put some books **on the table**.
+     - Tom放了些书在桌上.
+   - Dad left his wallet **in a taxi**.
+     - 爸爸把钱包忘在了一辆出租车里
+   - He worked **as a consultant**.
+     - 他的工作是一名咨询师.
+5. **作定语**
+   - It's story **about the pilgrim**.
+     - 这是关于朝圣的故事.
+   - The man **in the house** is my teacher.
+     - 屋子里的人是我的老师.
+6. **作同位语**
+   - **As a teacher**, she is responsible for her students.
+     - 作为一名老师,她对她的学生负责.
 
 ### 6.5 常见介词的辨析
 
 ### 6.6. 介词的常见固定搭配
+
+1. **表示时间 on/in/at**
+   1. at
+      - at 5 o'clock 
+      - at midnight 
+      - at the weekend 
+      - at the New Year
+   2. on
+      - On August 24, 2017
+      - On Monday 
+      - On your graduation day
+   3. in
+      - in2017
+      - in September 
+      - in the morning 
+      - in Spring 
+      - in the 21 century
+2. **表示地点 on/in/at**
+   1. at
+      - Tom lives at No 12 Woodville Road 
+      - He works hard at Netease 
+      - at bus station
+   2. in
+      - in London 
+      - What is in the wrapped box?
+        - 包装过的盒子里是什么?
+      - He found it difficult to concentrate in class
+        - 他觉得自己很难在课堂上集中注意力
+   3. on
+      - The office is on the 15 th floor
+        - 办公室在15层.
+3. **表示方位 on/in/to**
+   1. in
+      - Chengdu lies in the southwest of China.
+        - 成都位于中国的西南部.(成都在中国内部)
+      - Shanxi lies to the east of Liaoning.
+        - 山西在辽宁东边.(山西与辽宁不接壤)
+      - Canada lies on the north of America.
+        - 加拿大位于美国北部.(加拿大与美国接壤)
+   2. to
+      - He drives the car to the south.
+        - 他开车朝着那边去.
+   3. on
+      - on the left, on the right
+4. **in front of / in the front of**
+   - There is a tall tree in front of the house.
+     - 房子前面有一棵大树.
+   - We sit in the front of the bus.
+     - 我们坐在公共汽车的前部.
+5. **in / into**
+   1. in
+      - She' s gone for a walk in the garden.
+        - 她在花园里散步.
+      - She walked into the garden.
+        - 她走进了花园.
+   2. into
+      - Can you put the milk in/into the fridge?
+        - 你能把牛奶放进冰箱吗?
+6. **on / onto**
+   1. on
+      - Your keys are on the table.
+        - 你的钥匙在桌子上
+      - The cat climbed onto the roof.
+        - 猫爬上了屋顶
+   2. onto
+      - The hotel is on the road opposite the beach.
+        - 酒店的海滩对面的路上.
+      - The path leads onto the main road.
+        - 这条路一直到主路上.
+7. **below / under / beneath**
+   1. below
+      - The metro station is right beneath the airport.
+        - 地铁站就在机场下面.
+      - His shoes were under his bed.
+        - 他的鞋在他的床下.
+      - There was a big clock below the painting.
+        - 画下面有一口大钟.
+   2. under
+      - Under a white coat, she wore an amazing red dress. (v)
+        - Below a white coat, she wore an amazing red dress. (x)
+   3. 3
+      - We finished the proje ct in under a year.(√)
+        - We finished the project in below a year. ( x)
+      - The roof of the new building is just below the height of the schoo.(v)
+        - The roof of the new building is just under the height of xpo scnool.(x)
+   4. 4
+      - We buy it for just under 300 pounds. (v)
+        - We buy it for just beneath 300 pounds.(x)
+      - The temperature was below 10 on that day. (V)
+        - The temperature was beneath 10 on that day. (x)
+   5. 5
+      - The job is beneath my expectations.
 
 
 
@@ -2131,20 +2407,234 @@
 
 ### 7.1 动词的分类
 
+#### 7.1.1 实义动词
+
+- Cats meow loudly.
+  - 猫叫的很大声.
+- Students learn new material.
+  - 学生们学习新的材料.
+
+1. bring, send, owe, contain, buy, show, take, tell, verify, check, get Wash, finalize, annoy,lay,lend,ofer,edit,make, phone 等词后面必须跟宾语.
+   - His constant joking was beginning to annoy her.
+     - 他不停的嘲笑渐渐惹恼了她.
+   - He offered some useful advice.
+     - 他提供了一些有用的建议.
+2. come,explode,laugh, sit,rise,excel, respond, run, cough, swim emigrate, smile, act, cry, immigrate, lie arrive, continue, die, go 只能充当不及物动词.
+   - If she continues to be late for work the boss will fire her.
+     - 如果她继续迟到,老板就会开除她.
+   - The bomb exploded in the city center.
+     - 炸弹在市中心爆炸.
+3. 很多词既能充当及物动词,也能充当不及物动词.
+   set, leave, give, study, sit, grow, smell, dance, sing, write, teach burn, eat, paint, drive, manage, stop, climb, run, check, cost, go, pay, Improve 等.
+   - The actress wiped the tears from her eyes.
+     - 女演员把眼泪从眼中擦掉.(有宾语)
+   - The windshield wipers wiped across the windshield.
+     - 风挡刮水器在挡风玻璃上刮来刮去.(无宾语)
+
+#### 7.1.2 助动词和情态动词
+
+1. 基本助动词
+
+   1. 1
+
+      - He is always spilling things. 他总是洒东西.
+      - This sentence was written. 这个句子被写.
+
+      注意:
+
+      - He is in horrible pain. 他很痛.
+      - China is not no longer what it used to be. 
+        - 中国不再是过去的样子.
+
+   2. 2
+
+      - I have read many, many books. 
+        - 我已经读了很多很多的书.
+
+      - Jerry has bought a new shirt. 
+        - 杰瑞买了一件新衬衫.
+
+      注意:
+
+      - He has a large coffee stain on his shirt. 
+        - 他的衬衫上有一大片咖啡渍.
+      - Let's have a cup of tea. 我们喝杯茶. 
+
+   3. 3
+
+      - He didn't put his coffee in a cup with a lid. 
+        - 他没把咖啡倒进有盖的杯子里.
+      - Why did you do that?
+        - 你为什么那么做?
+      - Do come with us.
+        - 请一定要和我们一起去.
+
+      注意:
+
+      - We will do what we can to help.
+        - 我们会做我们能做的事情来帮忙.
+
+2. 情态动词
+
+   1. can/could
+      - I could fly via Amsterdam if I leave the day before.
+        - 如果我昨天能出发的话, 我可以飞过阿姆斯特丹
+      - You could take the tour of the castle tomorrow.
+        - 你可以带明天城堡的团.
+   2. may/might 
+      - You may start your exam now.
+        - 你现在可以开始答题了.
+      - We'd better phone tomorrow; they might be eating their dinner now.
+        - 我们最好明天打电话,他们现在可能在吃晚饭.
+   3. must 
+      - You must have a passport to cross the border.
+        - 你必须有护照才能通过边境.
+   4. should/shall/ought to 
+      - Shall I help you with your luggage?
+        - 我可以帮你提行李吗?
+      - I think we should check everything again.
+        - 我认为我们应该再检查一遍所有的东西.
+      - You ought to have your car serviced before the winter.
+        - 你应该在冬天之前保养你的车.
+   5. would/will 
+      - I'll do that for you if you like.
+        - 如果你喜欢,我可以为你做.
+      - Would you mind if I brought a colleage ith me?
+        - 你介意我带一位同事和我一起吗?
+      - Would you prefer tea or coffee? "-"I'd like tea please
+        - "你想要茶还是咖啡"?—"茶."
+      - When I was a child, I would spend hours playing with my train set.
+        - 我小的时候, 我经常花大量的时间玩玩具火车.
+
+#### 7.1.3 静态动词
+
+- 表示思想的词- believe, doubt,know, understand
+
+- 表示拥有的词-have,own,want, contain
+
+- 表示感觉的词-hear,see, smell
+
+- 表示情感的词-ove,hate,want,need
+
+  - I know a lot of English words.
+    - 我知道很多英语词汇.
+  - I hear music coming from his apartment.
+    - 我听到音乐从他的公寓传来.
+  - He has a Mercedes.
+    - 他有一辆奔驰.
+
+- 其他常见静态动词(填写中文含义且阅读并背诵)
+
+  |      |      |      |      |
+  | ---- | ---- | ---- | ---- |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+  |      |      |      |      |
+
+#### 7.1.4 动词短语
+
+- Be sure to put on a life jacket before getting into the boat.
+  - 坐船之前请确定穿上了救生衣.
+- I'm having some trouble working out the solution to this equation.
+  - 我在找这个等式的解决方法上陷入了困难.
+- We're going to have to put off our vacation until next year.
+  - 我们得把假期推到明年.
+- Take off your shoes before you walk on the carpet.
+  - 你走到地毯上之前脱掉鞋子.
+
+
+
 ### 7.2 动词的形式
+
+#### 7.2.1 动词原形
+
+#### 7.2.2 动词的第三人称单数
+
+#### 7.2.3 动名词与现在分词
+
+#### 7.2.4 过去式与过去分词
+
+
 
 ### 7.3 动词的语法 - 时态
 
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+
+#### 7.3.1 一般现在时
+
+#### 7.3.2  一般过去时
+
+#### 7.3.3  一般将来时
+
+#### 7.3.4 现在进行时
+
+#### 7.3.4 现在完成时
+
+#### 7.3.4 过去完成时
+
+
+
 ### 7.4 动词时态 - 语态
+
+1. 定义
+2. 主动改被动步骤
+3. 各个时态的被动语态
 
 ### 7.5 动词语法 - 非谓语动词
 
+#### 7.5.1 动名词
+
+#### 7.5.2 分词
+
+#### 7.5.3 动词不定式
+
+
+
 ### 7.6. 动词语法 - 虚拟语气
+
+1. 语气
+2. 虚拟语气
 
 
 
 ## 八、连词
 
 ### 8.1 并列连词
+
+1. 第一,表示"和,同,或"
+2. 第二,表示转折意义"但是"
+3. 第三,表示"否则"
+4. 第四,表示因果关系
 
 ### 8.2 从属连词
