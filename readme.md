@@ -2475,110 +2475,141 @@
    5. 表能力, 地位, 期望低时, **用 beneath; 抽象概念**
       - The job is **beneath** my expectations.
 
-
+<img src="readme.assets/image-20201029220616298.png" alt="image-20201029220616298" style="zoom:67%;" />
 
 ## 七、动词
 
 ### 7.1 动词的分类
 
-#### 7.1.1 实义动词
+#### 7.1.1 实义动词 (行为动词)
 
-- Cats meow loudly.
-  - 猫叫的很大声.
-- Students learn new material.
-  - 学生们学习新的材料.
+1. 用来表示动作
+2. 分及物动词与不及物动词
+   - Cats meow loudly.
+     - 猫叫的很大声.
+   - Students learn new material.
+     - 学生们学习新的材料.
 
-1. bring, send, owe, contain, buy, show, take, tell, verify, check, get Wash, finalize, annoy,lay,lend,ofer,edit,make, phone 等词后面必须跟宾语.
-   - His constant joking was beginning to annoy her.
+**及物动词**
+
+1. bring, send, owe, contain, buy, show, take, tell, verify, check, get, wash, finalize, annoy, lay, lend, offer, edit, make, phone 等词**后面必须跟宾语**.
+   - His constant joking **was beginning** to annoy her.
      - 他不停的嘲笑渐渐惹恼了她.
-   - He offered some useful advice.
+   - He **offered** some useful advice.
      - 他提供了一些有用的建议.
-2. come,explode,laugh, sit,rise,excel, respond, run, cough, swim emigrate, smile, act, cry, immigrate, lie arrive, continue, die, go 只能充当不及物动词.
-   - If she continues to be late for work the boss will fire her.
+
+**不及物动词**
+
+1. come, explode, laugh, sit, rise,excel, respond, run, cough, swim, emigrate, smile, act, cry, immigrate, lie arrive, continue, die, go 只能充当不及物动词.
+   - If she **continues** to be late for work the boss will fire her.
      - 如果她继续迟到,老板就会开除她.
-   - The bomb exploded in the city center.
+   - The bomb **exploded** in the city center.
      - 炸弹在市中心爆炸.
-3. 很多词既能充当及物动词,也能充当不及物动词.
+
+**及物动词&不及物动词**
+
+1. 很多词既能充当及物动词,也能充当不及物动词.
    set, leave, give, study, sit, grow, smell, dance, sing, write, teach burn, eat, paint, drive, manage, stop, climb, run, check, cost, go, pay, Improve 等.
-   - The actress wiped the tears from her eyes.
+   - The actress **wiped** <u>the tears</u> from her eyes.
      - 女演员把眼泪从眼中擦掉.(有宾语)
-   - The windshield wipers wiped across the windshield.
+   - The windshield wipers **wiped** <u>across the windshield</u>.
      - 风挡刮水器在挡风玻璃上刮来刮去.(无宾语)
 
 #### 7.1.2 助动词和情态动词
 
+①协助主要动词构成谓语的词叫助动词;
+②**没有实际意义, 不可单独使用**
+③**构成时态, 语态, 否定句, 强调句, 疑问句**
+④主要有: have/do/be
+
 1. 基本助动词
 
-   1. 1
-
-      - He is always spilling things. 他总是洒东西.
-      - This sentence was written. 这个句子被写.
-
-      注意:
-
-      - He is in horrible pain. 他很痛.
-      - China is not no longer what it used to be. 
+   1. **be 动词** 构成**进行时** & **被动语态**
+      
+   - He **is** always **spilling** things. 
+        - 他总是洒东西.
+      
+   - This sentence **was** **written**. 
+        - 这个句子被写.
+      
+   **注意:**
+      
+   be 动词作**系动词**, 引表语 & 表语从句
+      
+   - He **is** in horrible pain. 
+        - 他很痛.
+      - China **is** not no longer what it used to be. 
         - 中国不再是过去的样子.
-
-   2. 2
-
-      - I have read many, many books. 
+      
+   2. have **现在完成时** / **完成进行时**
+      
+   - I **have** read many, many books. 
         - 我已经读了很多很多的书.
-
-      - Jerry has bought a new shirt. 
+      
+   - Jerry **has** bought a new shirt. 
         - 杰瑞买了一件新衬衫.
-
-      注意:
-
-      - He has a large coffee stain on his shirt. 
+      
+   **注意:**
+      
+   have 作实义动词, 意为"有";
+      有时, have 与 eat, drink 意义相同.
+      
+   - He **has a large coffee** stain on his shirt. 
         - 他的衬衫上有一大片咖啡渍.
-      - Let's have a cup of tea. 我们喝杯茶. 
+      - Let's **have a cup** of tea. 
+        - 我们喝杯茶. 
+      
+   3. do **疑问句** & **否定句** & **强调句**
 
-   3. 3
-
-      - He didn't put his coffee in a cup with a lid. 
-        - 他没把咖啡倒进有盖的杯子里.
-      - Why did you do that?
+      - He **didn't** put his coffee in a cup with a lid. 
+      
+      - 他没把咖啡倒进有盖的杯子里.
+      
+      - Why **did** you do that?
         - 你为什么那么做?
-      - Do come with us.
+   - **Do** come with us.
         - 请一定要和我们一起去.
 
-      注意:
-
-      - We will do what we can to help.
+      **注意:**
+      
+      do作实义动词 "做,干"
+      
+      - We will **do** what we can to help.
         - 我们会做我们能做的事情来帮忙.
 
-2. 情态动词
+2. **情态动词**: 有含义, 和<u>**动词原形**</u>一起构成谓语.
 
-   1. can/could
-      - I could fly via Amsterdam if I leave the day before.
+   1. **can / could** 表"推测" "允许" "能力;
+      - I **could** fly via Amsterdam <u>if</u> I leave the day before.
         - 如果我昨天能出发的话, 我可以飞过阿姆斯特丹
-      - You could take the tour of the castle tomorrow.
+      - You **could** take the tour <u>of</u> the castle tomorrow.
         - 你可以带明天城堡的团.
-   2. may/might 
-      - You may start your exam now.
+   2. **may / might** 表"推测" "允许" "请求" "祝愿;
+      - You **may** start your exam now.
         - 你现在可以开始答题了.
-      - We'd better phone tomorrow; they might be eating their dinner now.
+      - We'd better phone tomorrow; they <u>**might** be eating</u> their dinner now.
         - 我们最好明天打电话,他们现在可能在吃晚饭.
-   3. must 
-      - You must have a passport to cross the border.
+   3. **must** 表"命令" "肯定推测";
+      - You **must** have a passport to cross the border.
         - 你必须有护照才能通过边境.
-   4. should/shall/ought to 
-      - Shall I help you with your luggage?
+   4. **should/shall/ought to** 表"义务,要求" "推测" "征求意见";
+      - **Shall** I help you with your luggage?
         - 我可以帮你提行李吗?
-      - I think we should check everything again.
+      - I think we **should** check everything again.
         - 我认为我们应该再检查一遍所有的东西.
-      - You ought to have your car serviced before the winter.
+      - You **ought to** have your car serviced before the winter.
         - 你应该在冬天之前保养你的车.
-   5. would/will 
-      - I'll do that for you if you like.
+   5. **would/will** 表"意愿" "请求"; 
+      - **I'll** do that for you if you like.
         - 如果你喜欢,我可以为你做.
-      - Would you mind if I brought a colleage ith me?
+      - **Would** you mind if I brought a colleage ith me?
         - 你介意我带一位同事和我一起吗?
-      - Would you prefer tea or coffee? "-"I'd like tea please
+      - **Would** you prefer tea or coffee? "-"I'd like tea please
         - "你想要茶还是咖啡"?—"茶."
-      - When I was a child, I would spend hours playing with my train set.
+      - When I was a child, I **would** spend hours playing with my train set.
         - 我小的时候, 我经常花大量的时间玩玩具火车.
+
+<img src="readme.assets/image-20201030012956672.png" alt="image-20201030012956672" style="zoom:67%;" />
 
 #### 7.1.3 静态动词
 
