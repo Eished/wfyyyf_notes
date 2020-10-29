@@ -2254,13 +2254,13 @@
      - 我别无选择只有妥协.
    - It had no effect **except to make** him angry.
      - 除惹他生气外,没产生任何效果.
-8. **介词 + 从句**
+8. **介词 + 从句**  谓语是动词短语; 宾语从句, 定语从句
    - I am worried **about where** she is going.
      - 我担心她去哪了.
    - The film **at which** I fell asleep was very boring.
      - 电影太无聊了,我睡着了.
 9. **介词 + 数词**
-   - It's **about 6** pm.
+   - It's **about** 6 pm.
      - 差不多下午6点.
    - **Over 100** people are at the meeting.
      - 会上有100多人.
@@ -2272,12 +2272,12 @@
 
 ### 6.4 介词短语的句法作用
 
-1. **作定语**
+1. **作定语**  有被修饰的名词
    - a meeting **in the morning**.
      - 早晨的一个会议
    - the road **to success**
      - 成功的道路
-2. **做状语**
+2. **作状语**  没有被修饰的对象
    - She lives **in Beijing**.
      - 她住在北京.
    - They visit the wall **by bike**.
@@ -2311,95 +2311,169 @@
 
 1. **表示时间 on/in/at**
    1. at
+      
+      1. 后跟**具体的时刻**;
+      2. 一天中**具体的时间点**;
+      3. **周末**以及**具体的节庆**.
+      
       - at 5 o'clock 
       - at midnight 
       - at the weekend 
       - at the New Year
+      
    2. on
+
+      1. 后跟具体的时间.
+
+         即**某年某月某日, 星期几**.
+
       - On August 24, 2017
       - On Monday 
       - On your graduation day
+
    3. in
+
+      1. 后跟**年,月**;
+      2. **早,中,晚;**
+      3. **季节.**
+
       - in2017
       - in September 
       - in the morning 
       - in Spring 
       - in the 21 century
+
 2. **表示地点 on/in/at**
    1. at
+      
+      1. 某个**具体的位置;**
+      2. **工作地点或商店**;
+      3. 后加**小地点**
+      
       - Tom lives at No 12 Woodville Road 
       - He works hard at Netease 
       - at bus station
+      
    2. in
+   
+      1. 后接**大地点** 或 **班级**
+   
       - in London 
       - What is in the wrapped box?
         - 包装过的盒子里是什么?
       - He found it difficult to concentrate in class
         - 他觉得自己很难在课堂上集中注意力
+   
    3. on
+   
+      1. 表在某物**表面上**
+      2. 后加**楼层**.
+   
       - The office is on the 15 th floor
         - 办公室在15层.
-3. **表示方位 on/in/to**
+   
+3. **表示方位 on/in/to** (易错点)
+   
+   **in: 表A在B的内部;** 
+   
+   **on: 表AB接壤;** 
+   
+   **to: 表AB不接壤.**
+   
    1. in
-      - Chengdu lies in the southwest of China.
+      - Chengdu lies **in** the southwest of China.
         - 成都位于中国的西南部.(成都在中国内部)
-      - Shanxi lies to the east of Liaoning.
+      - Shanxi lies **to** the east of Liaoning.
         - 山西在辽宁东边.(山西与辽宁不接壤)
-      - Canada lies on the north of America.
+      - Canada lies **on** the north of America.
         - 加拿大位于美国北部.(加拿大与美国接壤)
+      
    2. to
-      - He drives the car to the south.
+   
+      1. 还可表**方向**
+   
+      - He drives the car **to** the south.
         - 他开车朝着那边去.
+   
    3. on
-      - on the left, on the right
+   
+      1. 在**左边**; 在**右边**
+   
+      - **on** the left, **on** the right
+   
 4. **in front of / in the front of**
-   - There is a tall tree in front of the house.
+
+   1. in front of: 表在某物**范围外**的前面; 
+   2. in the front of: 表在某物**范围内**的前面.
+
+   - There is a tall tree **in front of** the house.
      - 房子前面有一棵大树.
-   - We sit in the front of the bus.
+   - We sit **in the front of** the bus.
      - 我们坐在公共汽车的前部.
+
 5. **in / into**
-   1. in
+
+   1. in 静态概念
+      
+      1. in: **表在里面**/内部; 
+      
       - She' s gone for a walk in the garden.
         - 她在花园里散步.
       - She walked into the garden.
         - 她走进了花园.
-   2. into
-      - Can you put the milk in/into the fridge?
+      
+   2. into 动态
+
+      1. into: 常与动词连用, **表动作**朝着里面去.
+      2. 有些动词两个介词均可 put, fall, jump,dive
+
+      - Can you **put** the milk **in/into** the fridge?
         - 你能把牛奶放进冰箱吗?
+
 6. **on / onto**
-   1. on
+
+   1. on / upon : 表示**在某物的表面上**; 静态
       - Your keys are on the table.
         - 你的钥匙在桌子上
       - The cat climbed onto the roof.
         - 猫爬上了屋顶
-   2. onto
+      
+   2. onto : 通常与动词连用, 表动作**朝着…之上**; 动态
       - The hotel is on the road opposite the beach.
         - 酒店的海滩对面的路上.
       - The path leads onto the main road.
         - 这条路一直到主路上.
+      
+   3. 表示**在河流, 道路**等之上时用 on;
+
+      表示**沿着河流, 道路**朝着某个方冋时用 onto.
+
 7. **below / under / beneath**
-   1. below
+
+   均表 "在…之下"
+
+   1. under 表示**在…之下**, below 表示某物**低于某物**;
       - The metro station is right beneath the airport.
         - 地铁站就在机场下面.
       - His shoes were under his bed.
         - 他的鞋在他的床下.
       - There was a big clock below the painting.
         - 画下面有一口大钟.
-   2. under
+   2. 表示某物**接触或覆盖**某物时, 用 **under** 不用 below;
       - Under a white coat, she wore an amazing red dress. (v)
         - Below a white coat, she wore an amazing red dress. (x)
-   3. 3
-      - We finished the proje ct in under a year.(√)
+   3. 表**时间, 重量**时, 用 **under**; 表**温度**高低时, 用 **below**.
+      - We finished the proje ct in **under a year**.(√)
         - We finished the project in below a year. ( x)
-      - The roof of the new building is just below the height of the schoo.(v)
-        - The roof of the new building is just under the height of xpo scnool.(x)
-   4. 4
-      - We buy it for just under 300 pounds. (v)
+      - The roof of the new building is just **below the height** of the schoo.(v)
+        - The roof of the new building is just under the height of the scnool.(x)
+   4. **below, under 后可加数字, beneath 不可加.**
+      - We buy it for just **under 300** pounds. (v)
         - We buy it for just beneath 300 pounds.(x)
-      - The temperature was below 10 on that day. (V)
+      - The temperature was **below 10** on that day. (V)
         - The temperature was beneath 10 on that day. (x)
-   5. 5
-      - The job is beneath my expectations.
+   5. 表能力, 地位, 期望低时, **用 beneath; 抽象概念**
+      - The job is **beneath** my expectations.
 
 
 
