@@ -2611,67 +2611,78 @@
 
 <img src="readme.assets/image-20201030012956672.png" alt="image-20201030012956672" style="zoom:67%;" />
 
-#### 7.1.3 静态动词
+# 7.1.3 静态动词
 
-- 表示思想的词- believe, doubt,know, understand
+- 表示思想的词
 
-- 表示拥有的词-have,own,want, contain
+  - believe, doubt, know, understand
 
-- 表示感觉的词-hear,see, smell
+- 表示拥有的词
 
-- 表示情感的词-ove,hate,want,need
+  - have, own,want, contain
 
-  - I know a lot of English words.
-    - 我知道很多英语词汇.
-  - I hear music coming from his apartment.
-    - 我听到音乐从他的公寓传来.
-  - He has a Mercedes.
-    - 他有一辆奔驰.
+- 表示感觉的词
 
-- 其他常见静态动词(填写中文含义且阅读并背诵)
+  - hear,see, smell
 
-  |      |      |      |      |
-  | ---- | ---- | ---- | ---- |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
-  |      |      |      |      |
+- 表示情感的词
+
+  - ove, hate, want, need
+    - I like ice cream.
+    - I know a lot of English words.
+      - 我知道很多英语词汇.
+    - I hear music coming from his apartment.
+      - 我听到音乐从他的公寓传来.
+    - He has a Mercedes.
+      - 他有一辆奔驰.
+
+- 其他**常见静态动词(填写中文含义且阅读并背诵)**
+
+  |       英文       | 中文 |     英文     | 中文 |
+  | :--------------: | :--: | :----------: | :--: |
+  |      adore       |      |    agree     |      |
+  |   appear(seem)   |      |  appreciate  |      |
+  |    be(exist)     |      |   believe    |      |
+  |    belong to     |      |   concern    |      |
+  |    consist of    |      | contain cost |      |
+  |       deny       |      |  depend on   |      |
+  |     deserve      |      |    detest    |      |
+  |     disagree     |      |   dislike    |      |
+  |      doubt       |      |    equal     |      |
+  |       feel       |      |     hate     |      |
+  | have(possession) |      |     hear     |      |
+  |     imagine      |      |   include    |      |
+  |     involve      |      |     know     |      |
+  |       lack       |      |     like     |      |
+  |      loathe      |      |  look(seem)  |      |
+  |       love       |      |    matter    |      |
+  |       mean       |      |   measure    |      |
+  |       mind       |      |     need     |      |
+  |       owe        |      |     own      |      |
+  |     possess      |      |   promise    |      |
+  |     realize      |      |  recognize   |      |
+  |     remember     |      |   resemble   |      |
+  |     satisfy      |      |     see      |      |
+  |       seem       |      |    smell     |      |
+  |      sound       |      |   suppose    |      |
+  |     surprise     |      |    taste     |      |
+  |  think(opinion)  |      |  understand  |      |
+  |       want       |      |    weigh     |      |
+  |       wish       |      |              |      |
 
 #### 7.1.4 动词短语
 
-- Be sure to put on a life jacket before getting into the boat.
-  - 坐船之前请确定穿上了救生衣.
-- I'm having some trouble working out the solution to this equation.
-  - 我在找这个等式的解决方法上陷入了困难.
-- We're going to have to put off our vacation until next year.
-  - 我们得把假期推到明年.
-- Take off your shoes before you walk on the carpet.
-  - 你走到地毯上之前脱掉鞋子.
+1. 构成: 
+   - **动词 + 介词** 或 **动词+副词**;
+2. 通常**与原动词含义不同**.
+   - Be sure to put on a life jacket before getting into the boat.
+     - 坐船之前请确定穿上了救生衣.
+   - I'm having some trouble working out the solution to this equation.
+     - 我在找这个等式的解决方法上陷入了困难.
+   - We're going to have to put off our vacation until next year.
+     - 我们得把假期推到明年.
+   - Take off your shoes before you walk on the carpet.
+     - 你走到地毯上之前脱掉鞋子.
 
 
 
@@ -2679,61 +2690,930 @@
 
 #### 7.2.1 动词原形
 
+- do,have,make,work等
+
 #### 7.2.2 动词的第三人称单数
+
+- ①一般现在时中
+  ②主语为第三人称单数;
+  ③谓语动词要用第三人称单数形式.
+
+1. 直接动词**词尾加 -s**
+   - ask---asks
+     work---works
+     get---gets
+     stay---stays
+2. 以字母 **s, x, ch, sh或 o 结尾的动词, 词尾加 -es**
+   - watch-watches
+     wish---wishes
+     fix— fixes
+     do---does
+     go-goes
+     pass---passes
+3. **辅音字母 -y, 变 y 为  i 加 -es;**
+   - try-tries
+     study -studiestry-tries
+     study -studies
+4. **不规则变化**
+   - be - am, is, are
+     have- has
 
 #### 7.2.3 动名词与现在分词
 
+1. 直接**词尾加 ing**
+   - play-playing
+     cry-crying
+     bark-barking
+2. **词尾为 -e, 去掉 e 加 ing**
+   - slide-sliding
+     ride -riding
+3. **词尾为 ie, 变 e 为 y 加 ing**
+   - die-dying
+     tie-tying
+4. **辅音+元音+辅音, 双写词尾加 ing**
+   - beg-begging
+     begin-beginning
+
 #### 7.2.4 过去式与过去分词
 
+1. ①规则动词的过去式加"ed
+   ②以e结尾的动词的词尾直接加"-d
 
+   - play→ played
+     listen→ listened
+     love→ loved
+
+2. 不规则动词的过去式
+
+   |   动词    |  过去式  | 过去分词 |
+   | :-------: | :------: | :------: |
+   |   arise   |  arose   |  arisen  |
+   |  babysit  | babysat  | babysat  |
+   |    be     | was/were |   been   |
+   |   beat    |   beat   |  beaten  |
+   |  become   |  bacame  |  become  |
+   |   bend    |   bent   |   bent   |
+   |   begin   |          |          |
+   |    bet    |          |          |
+   |   bind    |          |          |
+   |   bite    |          |          |
+   |   bleed   |          |          |
+   |   blow    |          |          |
+   |   break   |          |          |
+   |   breed   |          |          |
+   |   bring   |          |          |
+   | broadcast |          |          |
+   |   build   |          |          |
+   |    buy    |          |          |
+   |   catch   |          |          |
+   |  choose   |          |          |
+   |   come    |          |          |
+   |   cost    |          |          |
+   |    cut    |          |          |
+   |   deal    |          |          |
+   |    dig    |          |          |
+   |    do     |          |          |
+   |   draw    |          |          |
+   |   drink   |          |          |
+   |   drive   |          |          |
+   |    eat    |          |          |
+   |   fall    |          |          |
+   |   feed    |          |          |
+   |   feel    |          |          |
+   |   fight   |          |          |
+   |    fly    |          |          |
+   |  forbid   |          |          |
+   |  forget   |          |          |
+   |  forgive  |          |          |
+   |  freeze   |          |          |
+   |    get    |          |          |
+   |   give    |          |          |
+   |    go     |          |          |
+   |   grow    |          |          |
+   |   hang    |          |          |
+   |   have    |          |          |
+   |   hear    |          |          |
+   |   hide    |          |          |
+   |    hit    |          |          |
+   |   hold    |          |          |
+   |   hurt    |          |          |
+   |   keep    |          |          |
+   |   know    |          |          |
+   |    lay    |          |          |
+   |   lead    |          |          |
+   |   leave   |          |          |
+   |   lend    |          |          |
+   |    let    |          |          |
+   |    lie    |          |          |
+   |   light   |          |          |
+   |   lose    |          |          |
+   |   make    |          |          |
+   |   mean    |          |          |
+   |   meet    |          |          |
+   |    pay    |          |          |
+   |    put    |          |          |
+   |   quit    |          |          |
+   |   read    |          |          |
+   |   ride    |          |          |
+   |   ring    |          |          |
+   |   rise    |          |          |
+   |    run    |          |          |
+   |    say    |          |          |
+   |    see    |          |          |
+   |   sell    |          |          |
+   |   send    |          |          |
+   |    set    |          |          |
+   |   shake   |          |          |
+   |   shine   |          |          |
+   |   shoot   |          |          |
+   |   show    |          |          |
+   |   shut    |          |          |
+   |   sing    |          |          |
+   |   sink    |          |          |
+   |    sit    |          |          |
+   |   sleep   |          |          |
+   |   slide   |          |          |
+   |   speak   |          |          |
+   |   spend   |          |          |
+   |   spin    |          |          |
+   |  spread   |          |          |
+   |   stand   |          |          |
+   |   steal   |          |          |
+   |   stick   |          |          |
+   |   sting   |          |          |
+   |  strike   |          |          |
+   |   swear   |          |          |
+   |   sweep   |          |          |
+   |   swim    |          |          |
+
+   |    动词    | 过去式 | 过去分词 |
+   | :--------: | :----: | :------: |
+   |    take    |        |          |
+   |   teach    |        |          |
+   |    tear    |        |          |
+   |    tell    |        |          |
+   |   think    |        |          |
+   |   throw    |        |          |
+   | understand |        |          |
+   |    wake    |        |          |
+   |    wear    |        |          |
+   |    win     |        |          |
+   |  withdraw  |        |          |
+   |   write    |        |          |
+   |   swing    |        |          |
+
+   
+
+3. 三大变形金刚
+
+   1. 名词/代词: (单复数; 主格/ 宾格/ 属格/ 反身代词)
+   2. 形容词/副词: (比较级/ 最高级)
+   3. 动词: (单三/ **现在分词**/ <u>过去分词</u>/ **动名词**/ <u>过去式</u>)
 
 ### 7.3 动词的语法 - 时态
 
-|      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
+|          |        现在时        |     过去时      |           将来时            |           过去将来时           |
+| :------: | :------------------: | :-------------: | :-------------------------: | :----------------------------: |
+|   一般   |       ask/asks       |      asked      |       shall/will ask        |       should/ would ask        |
+|   进行   |  am/is/ are asking   | was/were asking |    shall /will be asking    |     should/would be asking     |
+|   完成   |    have/has asked    |    had asked    |    shall/will have asked    |    should/would have asked     |
+| 完成进行 | have/has been asking | had been asking | shall/will have been asking | should/ would have been asking |
+
+<img src="readme.assets/image-20201030150227367.png" alt="image-20201030150227367" style="zoom:67%;" />
 
 #### 7.3.1 一般现在时
 
+1. 形式
+   - ①肯定形式: **第三人称单数**的 "三单变化"; 其他用**动词的原形**
+   - ②否定形式: 主语 + **do/does + not** + 谓语**动词原形**
+   - ③疑问形式: 疑问词 + **do/does** + 主语 + 谓语**动词原形**
+2. 用法
+   - **现在**时段发生的动作.
+     - I **feel** great!
+   - **习惯性动作**&常发生的动作.
+     - I never **drink** coffee before 12.00.
+       - 部分否定 : 肯定一部分, 否定一部分; all / both / every + not
+       - 全部否定 : 否定, 肯定谓语动词+否定意义的单词
+       - 双重否定 : 否定 + 否定
+     - Every monday and thursday I **go** to the gym.
+   - 表示**客观真理**
+     - The earth **goes** round the sun.
+     - Water **is** liquid at room temperature.
+     - Gold **isn't** liquid at room temperature.
+   - 用于**电影, 赛事, 时间的评论, 独白, 报道**等.
+     - The picture **shows** us how they built the road last year.
+   - 谈论**时间表,日程表**
+     - The train **leaves** at half past four
+     - The course **starts** on 1 July
+   - **一般现在时表将来**
+     - 当主句为将来时态或表将来意义时,时间和条件的状语从句必须用一般现在时表将来
+     - I'Il write to her when I **have** time.
+       - 主将从现
+
 #### 7.3.2  一般过去时
+
+1. 形式
+   - ①肯定形式: **主语 + 动词过去式**
+     ②否定形式: **主语 + did not + 动词原形**
+     ③疑问形式: **疑问词 + did + 主语 + 动词原形**
+     - I **lived** in London ten years ago.
+     - We **didn't** like the film.
+     - Where **did** they meet richard?
+2. 用法
+   - 表过去发生的动作
+     - Last night I **played** my guitar loudly and the neighbors **complained**.
+     - They **didn't** study so they **didn't** pass the test.
 
 #### 7.3.3  一般将来时
 
+1. 形式
+   - ①肯定形式:主语+ will + **动词原形**
+     ②否定形式:主语+ won't(will not) + **动词原形**
+     ③疑问形式:疑问词+ Will + 主语 + **动词原形**
+   - They **won' t see** Jane when she comes back from India
+2. 用法
+   - 表还没发生,未来发生的行为,动作,事件
+     - We **won't** meet them at the station
+     - I **will** learn a new language
+   - 其它表将要发生
+     - **be going to**
+     - **be to do**
+     - **be about to do**
+
 #### 7.3.4 现在进行时
+
+1. 形式
+   - ①肯定形式:主语+ be动词 +**动词ing**
+     ②否定形式:主语+ be动+not +**动词ing**
+     ③疑问形式:疑问词+ be动词 +主语 +**动词ing**
+   - You **are cooking**.
+2. 用法
+   - ①说话的时刻正在发生的动作
+     - **I'm watching** a film on TV now.
+   - ②**常与 always, constantly, continually, forever, repeatedly等词连用**; 含有**抱怨语气**.
+     - Her husband **is always complaining** about his health.
+       - 她老公总是抱怨他的健康.
+   - ③**现在进行时表示将来, 多用于已经安排好的事情**
+     - My son **is taking** his girlfriend to dinner **tonight**.
+   - ④ **be going to** 很快就要发生
+     - 计划, 安排的动作
+       - We **are going to** sing at the party
+     - 确定将来会发生的事情
+       - Look at that car it **is going to** crash into the yellow one
+   - 注意
+     有些动词**不能用于现在进行时**, 用一般现在时
+     1. **情感类**: love, hate, prefer
+     2. **所属类**: have, own, want, belong
+     3. **感官类**: see, hear, smell, seem
+     4. **思想类**: know, believe, remember
+     5. **测量类**: contain, consist, fit
 
 #### 7.3.4 现在完成时
 
+1. 现在完成时
+
+   - ①肯定形式:主语+ have/has +**过去分词**
+   - ②否定形式:主语+ haven' t(have not) hasnt( has not) +**过去分词**
+   - ③疑问形式:疑问词+ have/has +**过去分词**
+     - They **have finished** the letter.
+     - **Has** he/she **finished** the letter.
+
+2. 用法
+
+   - ①表**过去完成**的动作;
+
+     - 这个动作对现在造成影响或与现在有关
+     - 常与 **still, yet, already, always**连用.
+       - **Has** he **repaired** the lawn-mower yet?
+         - 你修除草机了吗?
+
+   - ②讨论**个人的经历**.
+
+     - I **haven 't seen** her this month.
+     - **I've** already **moved** house twice this year.
+
+   - 过去已经开始的动作**一直延续到现在**,;
+
+     甚至有**可能继续延续**下去;
+
+     常与 **before, since, for, already, many times, so far,yet**连用.
+
+     - He has driven a car since 2002
+     - They've sold 110 so far.
+       - 到目前为止他们已经卖了110
+
 #### 7.3.4 过去完成时
 
-
+1. 形式
+   - ①肯定形式:主语+**had+过去分词**
+     ②否定形式:主语+ **hadn't( had not)+过去分词**
+     ③疑问形式:疑问词+had+主语+**过去分词**
+     - They **had** already **met** Sarah before the party.
+       - 在聚会前,他们早己见过萨拉.
+     - I **hadn't met** Sarah before the party.
+       - 在聚会前,我没见过萨拉.
+     - **Had** he **met** Sarah before the party?
+       - 聚会前他见过萨拉吗?
+2. 用法
+   - ①表过去的某个动作之前发生的动作
+     - She said she **had** **written** three letters the day before.
+       - 她说那天之前她已经写了3封信.
+     - They **had** **lived** in york before they moved to Liverpool.
+       - 在他们搬去利物浦之前,他们住在纽约.
+   - ②与 **after, as soon as, the moment that, unti** 连用.
+     - After she **had moved** out , I found her notes.
+       - 他搬出去之后,我找了她的笔记.
+     - I didn't say anything until she **had finished** talking.
+       - 知道她说完了之后我才讲了一些.
+   - ③与 **before,when, by the time**连用.
+     - Before I knew it, she **had** **run** out the door
+       - 我知道之前,她已经跑出了家门.
+     - I washed the floor when the painter **had** **gone**
+       - 画家离开之后我才拖了地.
+     - By the time he phoned her, she **had** **found** someone new
+       - 他给她电话之时,她已经有了新的人选.
 
 ### 7.4 动词时态 - 语态
 
 1. 定义
+
+   1. 1
+      - Monkeys adore bananas
+        猴子喜欢香蕉.
+      - The dog chased the squirrel
+        狗追松鼠.
+   2. 2
+      - After the earthquake, aid was sent to the people of Haiti.
+        - 地震后,救援被送到了海地人民手里.
+      - The electricity was cut off because the bill hadn’t been paid.
+        - 因为没缴费,所以电被切断了.
+      - Whales must be protected by an international ban on whaling.
+        - 鲸鱼应该受到国家禁止扑杀鲸鱼的保护.
+
 2. 主动改被动步骤
+
+   1. He gave the book to me
+      The book was given to me by hi
+   2. Someone broke into the pet shop
+      The pet shop was broken into
+   3. They looked for the baby.
+      The baby was looked for
+   4. Someone shouts at the man
+      The man is shouted at.
+   5. They listen to the music.
+      Music is listened to
+
 3. 各个时态的被动语态
+
+   |           时态           |                    助动词+过去分词                     |                             举例                             |
+   | :----------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |
+   |        一般现在时        |                    am, is, are+made                    |                        Wine is made.                         |
+   |        现在进行时        |                 am, is, are+being+sent                 |                 The document is being sent.                  |
+   |        一般过去式        |                   was, were+invited                    |                        I was invited.                        |
+   |        过去进行时        |              was, were+<br/>being +washed              |                Their cars were being washed.                 |
+   |        一般将来时        | will be +signed<br/>am, is, are+<br/>going to be+built | The contract will be signed.<br/>The houses are going to be built. |
+   |        现在完成时        |                  has, have+been+sold                   |                  The business has been sold                  |
+   |        过去完成时        |                     had+been+hired                     |                The new manager had been hired                |
+   |        将来完成时        |                will+have been+finished                 |                The car will have been loaded                 |
+   | 情态动词 can/should must |                  情态动词+be+ issued                   |                a passport can only be issued                 |
+   |         have to          |         have to, has to<br/>had to+be+arranged         | His party has to be arranged<br/>His plans have to be arranged |
+
+   
 
 ### 7.5 动词语法 - 非谓语动词
 
 #### 7.5.1 动名词
 
+1. 形式
+
+2. 用法
+
+   1. Jogging is a hobby of mine
+      慢跑是我的爱好.
+      Reading helps you learn English
+      阅读帮你学习英语.
+
+   2. He quit smoking a year ago
+      他一年前戒烟了.
+
+      I look forward to helping you paint the house
+      我期待帮你刷房子.
+
+      注意:
+      It is no use telling him not to worry.
+      告诉他别担心没有用.(i作形式主语)
+
+      此类动词还包括betr, wonderful, enjoyable, interesting, foolish, difficult
+      useless, senseless, worthwhile
+
+   3. My job is teaching
+      我的工作是教书.
+      Seeing is believing.
+      眼见为实.
+
+   4. a swimming pool== a pool for swimming游泳池
+      a moving truck搬家汽车= a truck for moving
+      drinking water饮用水
+      swimming suit游泳衣
+      sleeping pil安眠药
+      writing paper信纸
+      operating table手术室
+      reading room阅览室
+      washing machine洗衣机
+      washing powder洗衣粉
+      fishing pole钓鱼杆
+
+3. 以下动词及句型后常跟动名词作宾语(查明词义并背诵)
+
+   |      英文       | 中文 |       英文       | 中文 |
+   | :-------------: | :--: | :--------------: | :--: |
+   |   be used to    |      |   it’s no use    |      |
+   |   can’t help    |      | it’s worthwhile  |      |
+   |   can’t stand   |      | look forward to  |      |
+   |     end up      |      |    spend time    |      |
+   |    feel like    |      |    waste time    |      |
+   |     finish      |      |     be busy      |      |
+   |   get used to   |      |    don’t mind    |      |
+   |     give up     |      |    how about     |      |
+   |      go on      |      |  it’s(no) good   |      |
+   | have difficulty |      |   it’s no use    |      |
+   |  have problems  |      |    there’s no    |      |
+   |  have trouble   |      | there’s no point |      |
+   |   what about    |      |      afford      |      |
+   |      agree      |      |      appear      |      |
+   |     arrange     |      |      offer       |      |
+   |       ask       |      |       plan       |      |
+   |      care       |      |     prepare      |      |
+   |     decide      |      |     pretend      |      |
+   |     demand      |      |     promise      |      |
+   |     expect      |      |      refuse      |      |
+   |      fail       |      |     remember     |      |
+   |     forget      |      |       seem       |      |
+   |      hope       |      |       stop       |      |
+   |      learn      |      |    volunteer     |      |
+   |     manage      |      |       wait       |      |
+   |      mean       |      |       want       |      |
+   |      wish       |      |      worth       |      |
+
+   
+
 #### 7.5.2 分词
 
+1. 现在分词
+
+   1. 形式
+
+      | 现在分词 |      主动      |        被动         |
+      | :------: | :------------: | :-----------------: |
+      |  一般式  |    writing     |    being written    |
+      |  完成式  | having written | having been written |
+
+      1. 1
+         - Tom came sauntering up the path
+           汤姆来了,在路上闲逛.
+           Reaching for the flower, I lost my balance
+           靠近花朵,我失去了平衡.
+           Not being able to win the game, I lost my confidence.
+           没能赢得比赛,我失去了信心.
+      2. 2
+         - Having heard the news, he quickly sold his brothers record collection.
+           听完这个消息,他迅速卖了他哥哥收集的磁带.
+           Not having finished his work, he could not leave the office.
+           还没有完成工作,所以他不能离开办公室.
+
+   2. 句法作用
+
+      1. 1
+         - The man carrying the bricks (=who carrying the bricks) is my father
+           扛砖的男人是我的父亲.
+         - The old woman, thinking all was safe, (=who thinks all was safe
+           attempted to cross the road
+           认为完全安全的老妇人试图穿过马路
+         - There is someone knocking at the door. someone who is knocking)
+           有人在敲门.
+      2. 2
+         - The news is encouraging
+           这消息令人鼓舞.
+           The present situation is terrifying
+           目前形势令人惊恐.
+           My job is really tiring. I don' t get home until 10 pm sometimes
+           我的工作太累了.有时晚上10点才到家.
+           注意:现在分词做表语相当于一个形容词,表示主语的特征,此类词还包括
+           amusing, charming, discouraging, exciting, interesting, inviting
+           missing, amazing, shocking, surprising amusing, charming,
+           discouraging, exciting, interesting, inviting, missing, amazing,
+           shocking, surprising 
+      3. 现在分词作状语表示调语动词发生的时间、方式、伴随、让步等, 相当于一状语
+         从句,现在分词作状语时的逻辑主语就是句子的主语.
+         - He was talking to her friend and forgot everything around her.
+           =Talking to her friend she forgot everything around her.
+           由于和她的朋友聊天,所以她忘记了所有的事情.
+           Since we watch the news every day we know what’s going on in the world.
+           Watching the news every day we know what’s going on in the world.
+           因为我们每天都看新闻,所以我们知道世界上发生了什么.
+         - The dog wagged its tail and bit the postman
+           -Wagging its tail the dog bit the postman
+           狗摇着尾巴,咬了邮递员.
+           The man was sitting in the cafe. He was reading a paper.
+           -The man was sitting in the cafe reading a paper.
+           那个男人坐在咖啡店,读报纸.
+         - While she was tidying up her room she found some old photos
+           -Tidying up her room she found some old photos
+           整理房间时,她发现了一些旧照片.
+         - If they do not have enough money they will spend their holidays at home
+           ast year.
+           Not having enough money they will spend their holidays at home next
+           year
+           如果没有足够的钱,他们明年就在家度过假期.
+         - Carbon burns in oxygen or air, thereby forms carbon dioxide
+           Carbon burns in oxygen or air, thereby forming carbon dioxide
+           碳在氧气中燃烧,形成二氧化碳.
+
+2. 过去分词
+
+   1. 句法作用
+      1. 过去分词作表语,表示谓语动词所处的状态.
+         - I was alarmed by the loud bang.
+           听到巨大的响声,我受到了惊吓.
+         - He was amused to hear his little son singing in the bath
+           听到他的小儿子在浴室里低声唱歌,他被逗笑了.
+      2. 过去分词做可以置于名词之前做前置定语,也可以构成短语置于名词之后做后置定
+         语.过去分词作定语相当于一个定语从句,与其逻辑主语构成被动关系,
+         A burnt child(=a child who is burnt )dreads fire
+         烧伤的男孩害怕火.
+         The musicians stood up, surrounded by thunderous applause. (=who is
+         surrounded by thunderous applause
+         音乐家们站起来,受到雷鸣般的掌声.
+         This is the last photograph taken of my grandmother. which is taken of my
+         grandmother
+         这是最后一张给奶奶照的照片.
+      3. 过去作状语表示谓语动词发生的时间,方式,伴随,让步等,相当于一个状语从句,
+         过去分词作状语时的逻辑主语就是句子的主语.
+         - Battered by the wind, John fell to his knees
+           Because he was battered by the wind, John fell to his knees
+           由于受到大风猛吹,约翰跪倒在地.
+           Deceived by his friends, he committed suicide
+           -since he was deceived by his friends, he committed suicide.
+           受到朋友欺骗,他自杀了.
+         - Seen from the hill, the town looks magnificent.
+           =when it is seen from hill, the town looks magnificent.
+           从山上看,这座城市非常美.
+         - Given another chance, I will do better
+           如果再给我一次机会,我会做的更好.
+         - Exhausted by the working, they went on studying at night
+           尽管工作已经很累了,他们还是坚持在晚上学习.
+
 #### 7.5.3 动词不定式
+
+1. 形式
+
+   |            |        主动        |       被动        |
+   | :--------: | :----------------: | :---------------: |
+   |   一般式   |       to do        |    to be done     |
+   |   进行式   |    to be doing     |                   |
+   |   完成式   |    to have done    | to have been done |
+   | 完成进行式 | to have been doing |                   |
+
+2. 动词不定式的句法作用
+
+   1. 1
+
+      - To learn is very important
+        学习非常重要.
+        To drive in the right is not allowed here
+        右驾在这里不被允许.
+        To go to college is a good idea.
+        去上大学是一个好主意.
+
+      注意
+
+      - it is/was +adj. +to do
+        - It was difficult to answer the question
+          很难回答这个问题.
+      - it is/was+n. +to do
+        - It's a big house to clean.
+          有个大房子要清理.
+      - it is/was tadj +for something/somebody+to do
+        - It is necessary for this door to be locked
+          锁门很重要.
+      - it is/was+adj +of sb+to do
+        - It is very kind of you to help me
+          能帮我你太好了.
+      - n, +adj +to do
+        - He was ashamed to speak to her again
+          再次和她说话,他感到很羞愧.
+
+   2. 2
+
+      - The most important thing is not to give up
+        最重要的事情是不要放弃.
+
+   3. 3
+
+      - I want to swim in the pool
+        我想在泳池游泳
+        The question was difficult to answer.
+        这个问题很难回答.
+        A good translator is hard to find
+        很难找到一个好的翻译.
+
+   4. 4
+
+      - Give him an ornament to polish.
+        给他件装饰品擦亮
+      - I need a volunteer to take the minutes
+        我需要一位志愿者做记录.
+
+   5. 
+
+      - The officer returned to help
+        工作人员返回来帮忙.
+        le will complete the mission to set an example
+        他会完成任务,做表率.
+        I am going to the store to buy a 100-watt light bulb
+        我打算去商店买一个100瓦特的灯泡.
+      - My parents will be happy to meet you
+        见到你我父母很开心.
+        He was ashamed to speak to her again
+        再次和她说话,他感到很羞愧
+
+   6. 常见带to不定式
+
+      |     英文     | 中文 |        英文        | 中文 |      英文       | 中文 |
+      | :----------: | :--: | :----------------: | :--: | :-------------: | :--: |
+      |    afraid    |      |       amazed       |      |     anxious     |      |
+      |   ashamed    |      |       bound        |      | careful certain |      |
+      |   content    |      |     delighted      |      |   determined    |      |
+      |    eager     |      | eligible fortunate |      |      glad       |      |
+      |    happy     |      |      hesitant      |      |     liable      |      |
+      | likely lucky |      |      pleased       |      |      proud      |      |
+      |    ready     |      |     reluctant      |      |   sad shocked   |      |
+      |    sorry     |      |     surprised      |      |      like       |      |
+      |     love     |      |       prefer       |      |      begin      |      |
+      |    start     |      |       agree        |      |       try       |      |
+      |   attempt    |      |       choose       |      |    continue     |      |
+      |    intend    |      |      propose       |      |     desire      |      |
+      |     wish     |      |        want        |      |      hate       |      |
+      |   dislike    |      |        hope        |      |     expect      |      |
+      |   promise    |      |       refuse       |      |      fear       |      |
+      |   remember   |      |       forget       |      | learn and offer |      |
+
+3. 省略to的不定式
+
+   - I felt her heart beat
+     我感觉到她的心跳.
+     I saw it happen
+     I watched it happen
+     I'll have her copy the document right away
+     Our boss let us leave early.
+     That film made me cry.
+   - 注意:
+     (1)
+     (2)
+     I often help my friends( to )to buy food on the Internet
+     我经常帮我的朋友在网上买食物.
+     The college's aim is to help students
+     r aspirations
+     大学意在帮助学生实现志向.
+     I want to lie down and sleep
+     我想躺下睡觉.
+
+**总结一 动名词与现在分词的区别**
+
+**总结二 现在分词与过去分词的区别**
+
+- the rising sun正在升起的太阳
+  the risen sun升起的太阳
+  falling leaves正在落的叶子
+  fallen leaves落下叶子
+  boiling water正在沸腾的水
+  boiled water烧开了的水
+
+**总结三 动名词与动词不定式的区别**
+
+1. begin, continue, hate, intend, like, love, prefer, start
+
+2. 1
+
+   |        英文        |         中文         |
+   | :----------------: | :------------------: |
+   |  forget to do sth  |  表示忘记要去做某事  |
+   |  forget doing sth  |     忘记做过某事     |
+   | remember to do sth |    记得要去做某事    |
+   | remember doing sth |     记得做过某事     |
+   |   stop to do sth   | 停下来去做另外一件事 |
+   |   stop doing sth   |   停下正在做的事情   |
+   |  regret to do sth  |    遗憾要去做某事    |
+   |  regret doing sth  |     遗憾做过某事     |
+   |   try to do sth    |      努力做某事      |
+   |   try doing sth    |      试验做某事      |
+   |   mean to do sth   |      打算做某事      |
+   |   mean doing sth   |       意味着…        |
+
+   
+
+**总结四 现在分词作定语**
+现在分词作定语,我们必须注意以下三点:
+
+- The teacher criticized the student having broken the window
+  The teacher criticized the student who had broken the window
+  Do you know anyone having lost a car
+  Do you know anyone who have lost a car
+  Anybody being outside after ten o clock will be criticized
+  Anybody who is outside after ten o' clock will be criticized.
+  he boy bringing us milk everyday is my brother
+  The boy who brings us milk everyday is my brother.
+
+
+
+**总结五 现在分词作状语**
+现在分词作状语,我们必须注意以下四点:
+
+- The secretary worked late into the night, preparing a long speech for the president.
+
+  He sent me an E-mail, hoping to get further information.
+
+  Having suffered from heart trouble for years, Professor White has to take some medicine with him whenever he goes.
+
+  Having finished his homework, the boy went out to play football
+
+- Looking out of the window of our hotel room, ye ould see lots of mountains around
+
+  They came into the classroom, talking and laughing.
+
+  Mr.Smith being absent, the meeting had to be put off.
+
+  It being a fine day, we all wanted to go outing.
+
+- When talking to you, I always feel happy.
+  Be careful while crossing the street.
+- Having been told many times, but he still couldn 't understand it.
+  Having been told many times, he still couldnt understand it.
 
 
 
 ### 7.6. 动词语法 - 虚拟语气
 
 1. 语气
+
+   1. 1
+      - I saw something today that really annoyed me
+        我今天看见了一些让我非常生气的东西.
+        That is a beautiful painting
+        那是一幅漂亮的画作
+        How much wood does a woodchuck chuck?
+        如果土拨鼠会扔木头那它会扔多少木头?
+        Keep reading
+        接着读.
+        Do not forget your homework
+        别忘了你的作业.
+   2. 2
+   3. 3
+
 2. 虚拟语气
+
+   - If I were a rich man, then I would have all the money in the world.
+     如果我是一个有钱人,我就会拥有世界上所有的钱
+   - Had the man been driving carefully, he would not have crashed into the
+     如果这个人开车时谨慎点,那他就不会撞上树了.
+
+   1. if 引导非真实条件句
+
+      |                           |              主句谓语动词               | 从句谓语动词                                                 |
+      | :-----------------------: | :-------------------------------------: | :----------------------------------------------------------- |
+      | 表示与现在<br/>相反的情况 |    should/would/<br/>might/could+do     | ①一般过去时<br/>②be动词用were                                |
+      | 表示与过去<br/>相反的情况 | should/would/might/<br/>could+have done | had done                                                     |
+      | 表示与将来<br/>相反的情况 |    should/would/<br/>might/could+do     | ① were to do<br/>② should+do<br/>③动词一般过去式(be动词用were) |
+
+      1. 表示与现在相反的情况
+         If I read six books at once, I would confuse all the plots and characters.
+         如果我现在同时读6本书,我会把所有的情节和人物混淆.
+         Even if he had a million dollars, he still would complain about not having enough.
+         即使他有现在有一百万,他还是会抱怨钱不够.
+
+      2. 表示与过去相反的情况
+         If her mother had taken the doctor's advice, she would/might have got well earlier.
+         如果她妈妈当时采纳了医生的建议,她就会好得更早.
+
+         If you had worked harder, you would have got through the exams.
+         如果你当时努力学习,你当时就会通过考试了.
+
+         If I had won the lottery, I would have built a house in the country
+         如果我当时中了彩票,我当时就会在乡下建一座房子
+
+      3. 表示与将来相反的情况
+         If I were to win the lottery, I finally would buy a new car.
+         如果我将来中了彩票,我到时候就会买一辆新车.
+         If he were to be the next Picasso, I would be very happy to have known
+         him for so long
+         如果我将来成为下一个毕加索,认识他这么长时间我会非常开心.
+         If he were rich, he'd buy a house
+         如果他将来变得富有,他就会买一栋房子.
+         注意
+         If it rains tomorrow, we won' t go to a park
+         如果明天下雨,我们就不去公园了.
+
+   2. if 引导的非真实条件句的倒装
+
+      - If it were rain tomorrow, our picnic would be canceled
+        变为
+        Were it to rain tomorrow, our picnic would be canceled
+      - If it had not been for the storm we would have arrived in time.
+        变为
+        Had it not been for the storm we would have arrived
+      - If the earth should stop running, what would happen?
+        变为
+        Should the earth stop running, what happen?
+
+   3. 错综时间条件句
+
+      - If she had taken the doctor's advice, she might still be alive
+        如果她当时采纳了医生的意见,她现在可能还活着.
+        If I were you, I would have accepted their terms
+        如果我是你,我当时就会接受他们的条件.
+        If I hadn ' t stood under the ladder to catch you when you fell, you wouldn' t be
+        miling now
+        当你掉下来时,如果不是我在梯子下面把你接住,恐怕你现在就不会笑了.
+
+   4. 无引导的虚拟语气
+
+      1. 1
+         - Without air, there would be no living things
+           没有空气,就没有活的物体.
+           But for your help, I couldn t have done it
+           要不是你的帮助,我就不可能完成它.
+           We didn't know his telephone number, otherwise we would have tele-
+           honed hi
+           我们不知道他的电话,否则,我们就给他打电话了.
+           In that case we could have achieved our goal
+           要是那样的话我们肯定就达成目标了.
+           Under that condition we could have lived more comfortably
+           如果在那种情况下我们本可以过的很舒适.
+      2. 2
+         1. 1
+            - I wish I were a bit taller
+              我个子再高一点就好了.
+              I wish I hadn' t eaten so much
+              我真希望自己没吃那么多.
+         2. 2
+            - I suggested that he implement a budget cut in March
+              我建议3月他开始缩减预算.
+              I demand that you be at school on time
+              我要求你按时上学.
+              I recommend that Sammi do her homework at home
+              我建议萨米在家做作业.
+              They insisted that all swear words be deleted from the article
+              他们坚决要求删除文章中所有皙言相关的话语.
+              注意:
+              He suggests that I am not suited for the job
+              他暗示我不适合这份工作.
+              He insisted that he was innocent
+              他坚持说自己是无辜的.
+         3. 3
+            - Id rather you came another time
+              我宁愿你下次来.
+              She would rather he werent so angry.
+              她情愿他不那么生气.
+              I would just as soon you had told me the truth yesterday.
+              我宁愿你昨天告诉我真相.
+         4. 4
+            1. 1
+               - It is necessary that the issue be addressed
+                 必须解决这个问题.
+                 It is proper that law should govern any one of the citizens
+                 法律应制裁以下的任何人.
+            2. 2
+               - It is high time you started off
+                 是你该动身的时候了.
+                 It's high time that we left.
+                 是我们该走的时候了.
+            3. 3
+               - If only we could just get on and read it and forget about all the other stuff.
+                 要是我们能够继续读下去并且忘记所有其他的员工就好了.
+                 If only I knew the answer, I'd tell you
+                 要是我知道答案,我就告诉你.
+                 If only I had revised more, I would have done better on my exam
+                 倘若我做更多的修正,我考试成绩就会更好.
+               - He talks as if he knew her.
+                 他说话的样子,好像他认识她.
+                 It looks as if it might rain.
+                 看起来好像要下雨了.
+            4. 4
+               - I shouldn't have interfered
+                 我不应该打断.(事实上已经打断了)
+                 You should have taken my advice
+                 你本应该采纳我的意见.(事实上没有采纳)
 
 
 
 ## 八、连词
+
+We were wet and tired
+我们浑身透湿,精疲力竭.
+She's very hard-working but not very imaginative.
+她工作很努力,但缺乏想象力.
+She walked home by herself although she knew that it was dangerous
+她一个人步行回的家,尽管她知道那样做很危险.
 
 ### 8.1 并列连词
 
