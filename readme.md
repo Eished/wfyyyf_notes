@@ -3037,31 +3037,37 @@
 
 1. 定义
 
-   1. 1
-      - Monkeys adore bananas
+   1. **主语是动作的执行者**(即某人做某事), 叫**主动语态**;
+      - **Monkeys** adore bananas.
         猴子喜欢香蕉.
-      - The dog chased the squirrel
+      - The **dog** chased the squirrel.
         狗追松鼠.
-   2. 2
-      - After the earthquake, aid was sent to the people of Haiti.
+      - **She** said she had written three letters the day before.
+      - **They** had lived in York before they moved to Liverpool.
+   2. **主语是动作的承受者**(即某事被做), 叫**被动语态**.
+      - After the earthquake, **aid** was sent to the people of Haiti.
         - 地震后,救援被送到了海地人民手里.
-      - The electricity was cut off because the bill hadn’t been paid.
+      - The **electricity** was cut off because the bill hadn’t been paid.
         - 因为没缴费,所以电被切断了.
-      - Whales must be protected by an international ban on whaling.
+      - **Whales** must be protected by an international ban on whaling.
         - 鲸鱼应该受到国家禁止扑杀鲸鱼的保护.
 
-2. 主动改被动步骤
+2. **主动改被动步骤**
 
-   1. He gave the book to me
-      The book was given to me by hi
-   2. Someone broke into the pet shop
-      The pet shop was broken into
-   3. They looked for the baby.
-      The baby was looked for
-   4. Someone shouts at the man
+   ①将主动语态的**宾语**改为被动语态的**主语**;
+   ②将主动语态的谓语动词改为 ”**be+过去分词结构**”;
+   ③将主动语态的**主语**改为介词**by之后的宾语**, 放在谓语动词之后(有时可省略).
+
+   1. **He** gave the **book** to me.
+      The **book** <u>was</u> given to me **by him**.
+   2. **Someone** broke into the **pet shop**.
+      The **pet shop** <u>was</u> broken into. 省略未知人物
+   3. They looked for the **baby**.
+      The **baby** <u>was</u> looked for.
+   4. Someone shouts at the man.
       The man is shouted at.
    5. They listen to the music.
-      Music is listened to
+      Music is listened to.
 
 3. 各个时态的被动语态
 
@@ -3078,50 +3084,108 @@
    | 情态动词 can/should must |                  情态动词+be+ issued                   |                a passport can only be issued                 |
    |         have to          |         have to, has to<br/>had to+be+arranged         | His party has to be arranged<br/>His plans have to be arranged |
 
-   
+4. **补充1:** **双宾的被动语态**
+
+   1. 把**间接宾语**改为被动语态的**主语**, 直接宾语仍保留原位;
+   2. 把**直接宾语**改为被动语态的**主语**, **间接宾语**前要加介词 **to 或 for**
+      - **His teacher gave him a dictionary.**
+        1. **He** <u>was given</u> a **dictionary** by <u>his teacher</u>.
+        2. a **dictionary** <u>was given</u> to **him** by <u>his teacher</u>.
+
+5. **补充2:** **宾补的被动语态**
+
+   1. 主动语态的宾语改为主语,宾补在被动语态中做主语补足语.
+      - I paint the house white.
+        - The house is painted white by me.
+
+6. **补充3:** **加to**
+
+   1. **不带 to 的动词**不定式作宾补的主动语态, 被动语态时不定式要 加to
+   2. **感官动词** 和 **使役动词**
+      - **The boss** <u>made</u> the poor man <u>work</u> 12 hours a day.
+        - **The poor man** <u>was</u> made **to** work 12 hours a day.
+
+7. **补充4: 动词短语作谓语**
+
+   1. **短语动词**改被动语态时要保持其**完整性**, **介词或副词**不可遗漏.
+      - The girl **takes good care of** her little brother.
+        - The girls little brother is **taken good care of** by her
 
 ### 7.5 动词语法 - 非谓语动词
+
+**非谓语动词 "4有1不" **
+
+**非谓语动词有语态和时态的变化**
+
+1. **现在式**与谓语动词表示的动作同时发生.
+2. **完成式**表示的动作发生在谓语动词表示的动作之前.
+3. **进行式**与谓语动词表示的动作同时发生,表示动作正在进行.
+4. **完成进行时**表示的动作发生在谓语动词表示的动作之前,且动作持续.
 
 #### 7.5.1 动名词
 
 1. 形式
 
+   1. ①动名词与现在分词同形(ving);
+      ②起到名词的作用.
+
 2. 用法
 
-   1. Jogging is a hobby of mine
-      慢跑是我的爱好.
-      Reading helps you learn English
-      阅读帮你学习英语.
+   1. 主语
 
-   2. He quit smoking a year ago
-      他一年前戒烟了.
+      谓语动词为**单数**
 
-      I look forward to helping you paint the house
-      我期待帮你刷房子.
+      - **Jogging** is a hobby of mine
+        慢跑是我的爱好.
+        **Reading** helps you learn English
+        阅读帮你学习英语.
 
-      注意:
-      It is no use telling him not to worry.
-      告诉他别担心没有用.(i作形式主语)
+   2. 宾语
 
-      此类动词还包括betr, wonderful, enjoyable, interesting, foolish, difficult
-      useless, senseless, worthwhile
+      ①有的动词**直接加动名词**做其宾语;
+      ②有的**加介词后加动名词**作其宾语.
 
-   3. My job is teaching
-      我的工作是教书.
-      Seeing is believing.
-      眼见为实.
+      - He quit **smoking** a year ago
+        他一年前戒烟了.
 
-   4. a swimming pool== a pool for swimming游泳池
-      a moving truck搬家汽车= a truck for moving
-      drinking water饮用水
-      swimming suit游泳衣
-      sleeping pil安眠药
-      writing paper信纸
-      operating table手术室
-      reading room阅览室
-      washing machine洗衣机
-      washing powder洗衣粉
-      fishing pole钓鱼杆
+      - I look forward to **helping** you paint the house
+        我期待帮你刷房子.
+
+        注意:
+
+        **it+形容词+动名词**
+
+        **It** is **no use telling** him not to worry.
+        告诉他别担心没有用.(i作形式主语)
+
+        此类动词还包括:
+
+        better, wonderful, enjoyable, interesting, foolish, difficult, useless, senseless, worthwhile
+
+   3. 表语
+
+      对主语进一步说明, **相当于一个名词**
+
+      - My job **is teaching.**
+        我的工作是教书.
+        Seeing **is believing.**
+        眼见为实.
+
+   4. 定语
+
+      表示用途或性质.
+
+      - a swimming pool = a pool for swimming 游泳池
+        a moving truck 搬家汽车 = a truck for moving
+        drinking water饮用水
+        swimming suit游泳衣
+        sleeping pil安眠药
+        writing paper信纸
+        operating table手术室
+        reading room阅览室
+        washing machine洗衣机
+        washing powder洗衣粉
+        fishing pole钓鱼杆
 
 3. 以下动词及句型后常跟动名词作宾语(查明词义并背诵)
 
@@ -3159,7 +3223,18 @@
 
 #### 7.5.2 分词
 
-1. 现在分词
+①**现在分词**的形式同动名词一样, 在动词后面**加 -ing**.
+②**过去分词**的形式则在动词后面**加 -ed**.
+
+1. **现在分词**
+
+   a) 现在分词为动词的 ing 形式; 
+
+   b) 有**时态**和**语态**的变化; 
+
+   c) 在句中**相当于一个动词**;
+
+   d) 在句中可做**定,状或表**.
 
    1. 形式
 
@@ -3168,68 +3243,98 @@
       |  一般式  |    writing     |    being written    |
       |  完成式  | having written | having been written |
 
-      1. 1
-         - Tom came sauntering up the path
+      1. **一般式**
+
+         表示的**动作与主语动作同时发生**.
+
+         - Tom came **sauntering** up the path.
            汤姆来了,在路上闲逛.
-           Reaching for the flower, I lost my balance
+         - **Reaching** for the flower, I lost my balance.
            靠近花朵,我失去了平衡.
-           Not being able to win the game, I lost my confidence.
-           没能赢得比赛,我失去了信心.
-      2. 2
-         - Having heard the news, he quickly sold his brothers record collection.
-           听完这个消息,他迅速卖了他哥哥收集的磁带.
-           Not having finished his work, he could not leave the office.
-           还没有完成工作,所以他不能离开办公室.
+         - Not **being able to** win the game, I lost my confidence.
+           没能赢得比赛, 我失去了信心.
+
+      2. **完成式**
+
+         表示该**动作发生**在**谓语动词之前**且**已经完成**.
+
+         - **Having heard** the news, he quickly sold his brothers record collection.
+           听完这个消息, 他迅速卖了他哥哥收集的磁带.
+         - Not **having finished** his work, he could not leave the office.
+           还没有完成工作, 所以他不能离开办公室.
 
    2. 句法作用
 
-      1. 1
-         - The man carrying the bricks (=who carrying the bricks) is my father
+      1. **作定语**
+
+         可置于名词之前做**前置定语**;
+
+         也可**构成短语**置于名词之后做**后置定语**;
+
+         相当于一个**定语从句**.
+
+         - The man **carrying** the bricks (=who carrying the bricks) is my father.
            扛砖的男人是我的父亲.
-         - The old woman, thinking all was safe, (=who thinks all was safe
+         - The old woman, **thinking** all was safe, (=who thinks all was safe.)
            attempted to cross the road
            认为完全安全的老妇人试图穿过马路
-         - There is someone knocking at the door. someone who is knocking)
+         - There is someone **knocking** at the door. (someone who is knocking)
            有人在敲门.
-      2. 2
-         - The news is encouraging
+
+      2. **作表语**
+
+         - The news is **encouraging**.
            这消息令人鼓舞.
-           The present situation is terrifying
+
+         - The present situation is **terrifying**.
            目前形势令人惊恐.
-           My job is really tiring. I don' t get home until 10 pm sometimes
+
+         - My job is really **tiring**. I don' t get home until 10 pm sometimes.
            我的工作太累了.有时晚上10点才到家.
-           注意:现在分词做表语相当于一个形容词,表示主语的特征,此类词还包括
-           amusing, charming, discouraging, exciting, interesting, inviting
+
+           注意: 现在分词做表语**相当于一个形容词**, 表示主语的特征, 此类词还包括
+
+           **amusing**, charming, discouraging, exciting, interesting, inviting
+
            missing, amazing, shocking, surprising amusing, charming,
+
            discouraging, exciting, interesting, inviting, missing, amazing,
+
            shocking, surprising 
-      3. 现在分词作状语表示调语动词发生的时间、方式、伴随、让步等, 相当于一状语
-         从句,现在分词作状语时的逻辑主语就是句子的主语.
-         - He was talking to her friend and forgot everything around her.
-           =Talking to her friend she forgot everything around her.
-           由于和她的朋友聊天,所以她忘记了所有的事情.
-           Since we watch the news every day we know what’s going on in the world.
-           Watching the news every day we know what’s going on in the world.
-           因为我们每天都看新闻,所以我们知道世界上发生了什么.
-         - The dog wagged its tail and bit the postman
-           -Wagging its tail the dog bit the postman
-           狗摇着尾巴,咬了邮递员.
-           The man was sitting in the cafe. He was reading a paper.
-           -The man was sitting in the cafe reading a paper.
-           那个男人坐在咖啡店,读报纸.
+
+      3. **作状语**
+
+         表示**谓语动词**发生的**时间、方式、伴随、让步**等, 相当于**状语从句**,
+
+         现在分词作状语时的**逻辑主语**就是**句子的主语**.
+
+         - **原因状语**
+           - He was talking to her friend and forgot everything around her.
+             =Talking to her friend she forgot everything around her.
+             由于和她的朋友聊天,所以她忘记了所有的事情.
+           - **Since** we watch the news every day we <u>know</u> what’s going on in the world.
+             =**Watching the news** every day we know what’s going on in the world.
+             因为我们每天都看新闻,所以我们知道世界上发生了什么.
+         - 
+           - The dog wagged its tail and bit the postman
+             -Wagging its tail the dog bit the postman
+             狗摇着尾巴,咬了邮递员.
+             The man was sitting in the cafe. He was reading a paper.
+             -The man was sitting in the cafe reading a paper.
+             那个男人坐在咖啡店,读报纸.
          - While she was tidying up her room she found some old photos
            -Tidying up her room she found some old photos
            整理房间时,她发现了一些旧照片.
          - If they do not have enough money they will spend their holidays at home
            ast year.
            Not having enough money they will spend their holidays at home next
-           year
+           year.
            如果没有足够的钱,他们明年就在家度过假期.
-         - Carbon burns in oxygen or air, thereby forms carbon dioxide
-           Carbon burns in oxygen or air, thereby forming carbon dioxide
+         - Carbon burns in oxygen or air, thereby forms carbon dioxide.
+           Carbon burns in oxygen or air, thereby forming carbon dioxide.
            碳在氧气中燃烧,形成二氧化碳.
 
-2. 过去分词
+2. **过去分词**
 
    1. 句法作用
       1. 过去分词作表语,表示谓语动词所处的状态.
@@ -4159,7 +4264,7 @@ She walked home by herself although she knew that it was dangerous
       Should you need a hand, I will be more than happy to help you.
       如果你需要帮助,我非常高兴能帮你.
 
-### 三.完全倒装
+#### 三.完全倒装
 
 1. 1
    1. There is a good restaurant nearby
