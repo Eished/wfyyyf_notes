@@ -3309,68 +3309,95 @@
          现在分词作状语时的**逻辑主语**就是**句子的主语**.
 
          - **原因状语**
-           - He was talking to her friend and forgot everything around her.
-             =Talking to her friend she forgot everything around her.
-             由于和她的朋友聊天,所以她忘记了所有的事情.
+           - **He** was talking to her friend and forgot everything around her.
+             =Talking to her friend **he** forgot everything around her.
+             由于和她的朋友聊天,所以他忘记了所有的事情.
            - **Since** we watch the news every day we <u>know</u> what’s going on in the world.
-             =**Watching the news** every day we know what’s going on in the world.
+             =**Watching the news** every day we <u>know</u> what’s going on in the world.
              因为我们每天都看新闻,所以我们知道世界上发生了什么.
-         - 
-           - The dog wagged its tail and bit the postman
-             -Wagging its tail the dog bit the postman
+         - **伴随状语**
+           - The dog **wagged** its tail and **bit** the postman.
+             -**Wagging** its tail the dog **bit** the postman.
              狗摇着尾巴,咬了邮递员.
-             The man was sitting in the cafe. He was reading a paper.
-             -The man was sitting in the cafe reading a paper.
+           - The man was **sitting** in the cafe. He was **reading** a paper.
+             =The man was **sitting** in the cafe **reading** a paper.
              那个男人坐在咖啡店,读报纸.
-         - While she was tidying up her room she found some old photos
-           -Tidying up her room she found some old photos
-           整理房间时,她发现了一些旧照片.
-         - If they do not have enough money they will spend their holidays at home
-           ast year.
-           Not having enough money they will spend their holidays at home next
-           year.
-           如果没有足够的钱,他们明年就在家度过假期.
-         - Carbon burns in oxygen or air, thereby forms carbon dioxide.
-           Carbon burns in oxygen or air, thereby forming carbon dioxide.
-           碳在氧气中燃烧,形成二氧化碳.
+         - **时间状语 **= 时间状语从句
+           - **While** she was tidying up her room she found some old photos.
+             =**Tidying up** her room **she found** some old photos.
+             整理房间时,她发现了一些旧照片.
+         - **条件状语**
+           - If they do not have enough money they will spend their holidays at home next year.
+             =**Not having enough money** they will spend their holidays at home next
+             year.
+             如果没有足够的钱,他们明年就在家度过假期.
+         - **结果状语**
+           - Carbon burns in oxygen or air, thereby **forms** carbon dioxide.
+             =Carbon burns in oxygen or air, thereby **forming** carbon dioxide.
+             碳在氧气中燃烧,形成二氧化碳.
 
 2. **过去分词**
 
    1. 句法作用
-      1. 过去分词作表语,表示谓语动词所处的状态.
-         - I was alarmed by the loud bang.
+
+      1. **作表语**
+
+         表示谓语动词所处的状态.
+
+         - I was **alarmed** by the loud bang.
            听到巨大的响声,我受到了惊吓.
-         - He was amused to hear his little son singing in the bath
+         - He was **amused** to hear his little son singing in the bath.
            听到他的小儿子在浴室里低声唱歌,他被逗笑了.
-      2. 过去分词做可以置于名词之前做前置定语,也可以构成短语置于名词之后做后置定
-         语.过去分词作定语相当于一个定语从句,与其逻辑主语构成被动关系,
-         A burnt child(=a child who is burnt )dreads fire
-         烧伤的男孩害怕火.
-         The musicians stood up, surrounded by thunderous applause. (=who is
-         surrounded by thunderous applause
-         音乐家们站起来,受到雷鸣般的掌声.
-         This is the last photograph taken of my grandmother. which is taken of my
-         grandmother
-         这是最后一张给奶奶照的照片.
-      3. 过去作状语表示谓语动词发生的时间,方式,伴随,让步等,相当于一个状语从句,
-         过去分词作状语时的逻辑主语就是句子的主语.
-         - Battered by the wind, John fell to his knees
-           Because he was battered by the wind, John fell to his knees
-           由于受到大风猛吹,约翰跪倒在地.
-           Deceived by his friends, he committed suicide
-           -since he was deceived by his friends, he committed suicide.
-           受到朋友欺骗,他自杀了.
-         - Seen from the hill, the town looks magnificent.
-           =when it is seen from hill, the town looks magnificent.
-           从山上看,这座城市非常美.
-         - Given another chance, I will do better
-           如果再给我一次机会,我会做的更好.
-         - Exhausted by the working, they went on studying at night
-           尽管工作已经很累了,他们还是坚持在晚上学习.
+
+      2. **作定语**
+
+         ①过去分词做可以置于名词之前做前置定语, 也可以构成短语置于名词之后做后置定
+         语.
+
+         ②过去分词作定语相当于一个**定语从句**, 与其逻辑主语构成**被动关系,**
+
+         - A **burnt** child (=a child who **is burnt** ) dreads fire.
+           烧伤的男孩害怕火.
+         - The musicians stood up, **surrounded** by thunderous applause. (=who **is**
+           **surrounded** by thunderous applause.)
+           音乐家们站起来,受到雷鸣般的掌声.
+         - This is the last photograph **taken of** my grandmother. (which **is taken of** my
+           grandmother.)
+           这是最后一张给奶奶照的照片.
+
+      3. **做状语**, 和过去分词相同
+
+         过去作状语表示谓语动词发生的**时间, 方式, 伴随, 让步**等,
+
+         相当于一个**状语从句**,
+
+         过去分词作状语时的**逻辑主语**就是句子的主语.
+
+         - **原因状语**
+           - **Battered** by the wind, John fell to his knees.
+             **=Because** he **was battered** by the wind, John fell to his knees.
+             由于受到大风猛吹,约翰跪倒在地.
+           - **Deceived** by his friends, he committed suicide.
+             =since he **was deceived** by his friends, he committed suicide.
+             受到朋友欺骗,他自杀了.
+         - **时间状语**
+           - **Seen from** the hill, the town looks magnificent.
+             =when it **is seen** from hill, the town looks magnificent.
+             从山上看,这座城市非常美.
+         - **条件状语**
+           - **Given** another chance, I will do better
+             如果再给我一次机会,我会做的更好.
+         - **让步状语**
+           - **Exhausted** by the working, they went on studying at night
+             尽管工作已经很累了,他们还是坚持在晚上学习.
 
 #### 7.5.3 动词不定式
 
 1. 形式
+
+   肯定式: **to+动词原形**
+
+   否定式: **not to+动词原形**
 
    |            |        主动        |       被动        |
    | :--------: | :----------------: | :---------------: |
@@ -3379,70 +3406,78 @@
    |   完成式   |    to have done    | to have been done |
    | 完成进行式 | to have been doing |                   |
 
-2. 动词不定式的句法作用
+2. **动词不定式的句法作用**
 
-   1. 1
+   1. **作主语**
 
-      - To learn is very important
+      - **To learn** is very important
         学习非常重要.
-        To drive in the right is not allowed here
+      - **To drive** in the right is not allowed here
         右驾在这里不被允许.
-        To go to college is a good idea.
+      - **To go to college** is a good idea.
         去上大学是一个好主意.
 
       注意
 
-      - it is/was +adj. +to do
-        - It was difficult to answer the question
-          很难回答这个问题.
-      - it is/was+n. +to do
-        - It's a big house to clean.
-          有个大房子要清理.
-      - it is/was tadj +for something/somebody+to do
-        - It is necessary for this door to be locked
-          锁门很重要.
-      - it is/was+adj +of sb+to do
-        - It is very kind of you to help me
-          能帮我你太好了.
-      - n, +adj +to do
-        - He was ashamed to speak to her again
-          再次和她说话,他感到很羞愧.
+      ①不定式**作主语**时, 可置**句首**;
+      ②如果过长,可采用作**形式主语**, 不定式**后置**的结构
 
-   2. 2
+      1. 结构1
+         - **it is/was +adj. +to do**
+           - It was difficult to answer the question.
+             很难回答这个问题.
+         - **it is/was+n. +to do**
+           - It's a big house to clean.
+             有个大房子要清理.
+      2. 结构2
+         - **it is/was tadj +for something/somebody+to do**
+           - It is necessary for this door to be locked.
+             锁门很重要.
+         - **it is/was+adj +of sb+to do**
+           - It is very kind of you to help me.
+             能帮我你太好了.
+      3. 结构3
+         - **n.+adj +to do**
+           - He was ashamed **to speak** to her again.
+             再次和她说话,他感到很羞愧.
 
-      - The most important thing is not to give up
+   2. **作表语**
+
+      - The most important thing is not **to give up**.
         最重要的事情是不要放弃.
 
-   3. 3
+   3. **做宾语**
 
-      - I want to swim in the pool
+      - I want **to swim** in the pool.
         我想在泳池游泳
-        The question was difficult to answer.
+        The question was difficult **to answer**.
         这个问题很难回答.
-        A good translator is hard to find
+        A good translator is hard **to find**.
         很难找到一个好的翻译.
 
-   4. 4
+   4. **作定语**
 
-      - Give him an ornament to polish.
+      - Give him an ornament **to polish**.
         给他件装饰品擦亮
-      - I need a volunteer to take the minutes
+      - I need a volunteer **to take** the minutes.
         我需要一位志愿者做记录.
 
-   5. 
+   5. **做状语**
 
-      - The officer returned to help
-        工作人员返回来帮忙.
-        le will complete the mission to set an example
-        他会完成任务,做表率.
-        I am going to the store to buy a 100-watt light bulb
-        我打算去商店买一个100瓦特的灯泡.
-      - My parents will be happy to meet you
-        见到你我父母很开心.
-        He was ashamed to speak to her again
-        再次和她说话,他感到很羞愧
+      - **表目的**
+        - The officer returned **to help**.
+          工作人员返回来帮忙.
+        - He will complete the mission **to set** an example.
+          他会完成任务,做表率.
+        - I am going to the store **to buy** a 100-watt light bulb.
+          我打算去商店买一个100瓦特的灯泡.
+      - **表原因**
+        - My parents will be happy **to meet** you.
+          见到你我父母很开心.
+        - He was ashamed **to speak** to her again.
+          再次和她说话,他感到很羞愧
 
-   6. 常见带to不定式
+   6. **常见带to不定式**
 
       |     英文     | 中文 |        英文        | 中文 |      英文       | 中文 |
       | :----------: | :--: | :----------------: | :--: | :-------------: | :--: |
@@ -3463,42 +3498,89 @@
       |   promise    |      |       refuse       |      |      fear       |      |
       |   remember   |      |       forget       |      | learn and offer |      |
 
-3. 省略to的不定式
+   7. **省略to的不定式**
 
-   - I felt her heart beat
-     我感觉到她的心跳.
-     I saw it happen
-     I watched it happen
-     I'll have her copy the document right away
-     Our boss let us leave early.
-     That film made me cry.
-   - 注意:
-     (1)
-     (2)
-     I often help my friends( to )to buy food on the Internet
-     我经常帮我的朋友在网上买食物.
-     The college's aim is to help students
-     r aspirations
-     大学意在帮助学生实现志向.
-     I want to lie down and sleep
-     我想躺下睡觉.
+      **感官动词后** see,hear,feel, watch 等.
 
-**总结一 动名词与现在分词的区别**
+      - I felt her heart beat.
+        我感觉到她的心跳.
+      - I saw it happen.
+      - I watched it happen.
+      - I'll have her copy the document right away.
+      - Our boss let us leave early.
+      - That film made me cry.
 
-**总结二 现在分词与过去分词的区别**
+      **注意:**
 
-- the rising sun正在升起的太阳
-  the risen sun升起的太阳
-  falling leaves正在落的叶子
-  fallen leaves落下叶子
-  boiling water正在沸腾的水
-  boiled water烧开了的水
+      **用于被动语态时不定式符号to要添加**
 
-**总结三 动名词与动词不定式的区别**
+      **①使役动词:** 
 
-1. begin, continue, hate, intend, like, love, prefer, start
+      - make,let,have 等后作宾补时 **省略to**;  动词help后作宾补语的to可带可不带.
 
-2. 1
+      ②当两个或两个以上的动词**不定式并列使用时**, 只有**第一个不定式前带to**, 后面的**省略to**.
+
+      - I often help my friends( **to** )to buy food on the Internet.
+        我经常帮我的朋友在网上买食物.
+      - The college's aim is **to** help students (**to**)achieve their aspirations
+        大学意在帮助学生实现志向.
+      - I want **to** lie down **and** sleep.
+        我想躺下睡觉.
+
+
+
+#### **总结一 动名词与现在分词的区别**
+
+<img src="readme.assets/image-20201103010527690.png" alt="image-20201103010527690" style="zoom:67%;" />
+
+1. **作表语**
+
+   1. 现在分词作表语主要用以**说明主语的性质**, 不能与主语换位置.
+      - The story is interesting.
+      - 不可改为: Interesting is the story.
+   2. **动名词与主语指的是同一件事**此时系动词相当于"是", 通常把主语和表语的位置互换, 语法和意思不变.
+      - My hobby is swimming.
+      - 可改为: Swimming is my hobby.
+      - 即: 可将原句中的主语与表语位置互换.
+
+2. **作定语**
+
+   ①**动名词**修饰名词时主要表示该名词的**用途**;
+
+   ②**现在分词**修饰名词时**状态或动作**等.
+
+   - **a swimming boy** 和 **a swimming suit**
+     - ①现在分词 swimming表示被修饰名词boy的动作.即: a boy who is swimming
+     - ②动名词"游泳衣". 即: a suit for swimming, 表示 suit 的用途.
+   - **a sleeping child** 和 **a sleeping car**
+     - 现在分词: "—个正在睡觉的孩子"即 a child who is sleeping,表被修饰名词chid正处于的状态;
+     - 动名词: "卧车(被用来睡觉的车厢),即 a car which is used for sleeping,表car的用途.
+
+#### **总结二 现在分词与过去分词的区别**
+
+- ①现在分词表**主动或正在进行.**
+
+  ②过去分词表**被动已完成**.
+
+  - the **rising** sun 正在升起的太阳
+    - the **risen** sun 升起的太阳
+  - **falling** leaves 正在落的叶子
+    - **fallen** leaves 落下叶子
+  - **boiling** water 正在沸腾的水
+    - **boiled** water 烧开了的水
+
+  
+
+#### **总结三 动名词与动词不定式的区别**
+
+1. 有些动词后跟动名词和不定式均可, **意义差别不大.**
+
+   - begin, continue, hate, intend, like, love, prefer, start
+
+2. 有些动词后面跟**动名词**和**不定式**均可, 但**意义差别较大**
+
+   - ① **forget to do sth.** 表示忘记要去做某事
+   - ② **forget doing sth.** 忘记做过某事
 
    |        英文        |         中文         |
    | :----------------: | :------------------: |
@@ -3517,7 +3599,8 @@
 
    
 
-**总结四 现在分词作定语**
+#### **总结四 现在分词作定语**
+
 现在分词作定语,我们必须注意以下三点:
 
 - The teacher criticized the student having broken the window
@@ -3531,7 +3614,8 @@
 
 
 
-**总结五 现在分词作状语**
+#### **总结五 现在分词作状语**
+
 现在分词作状语,我们必须注意以下四点:
 
 - The secretary worked late into the night, preparing a long speech for the president.
@@ -3709,7 +3793,7 @@
                  You should have taken my advice
                  你本应该采纳我的意见.(事实上没有采纳)
 
-
+<img src="readme.assets/image-20201103012827108.png" alt="image-20201103012827108" style="zoom:67%;" />
 
 ## 八、连词
 
