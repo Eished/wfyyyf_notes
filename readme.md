@@ -2611,7 +2611,7 @@
 
 <img src="readme.assets/image-20201030012956672.png" alt="image-20201030012956672" style="zoom:67%;" />
 
-# 7.1.3 静态动词
+#### 7.1.3 静态动词
 
 - 表示思想的词
 
@@ -3618,8 +3618,575 @@ She walked home by herself although she knew that it was dangerous
 ### 8.1 并列连词
 
 1. 第一,表示"和,同,或"
+
+   1. and和or表示"和;或"
+      1. Televisions and computers are dominating our daily life.(名词+名词)
+         电视和电脑正在主宰着我们的生活.
+         I have to shower and change.(动词+动词)
+         我得去洗个澡,换身衣服.
+         The photos are black and white.(形容词+形容词)
+         这些照片是黑白的.
+         My best friend and my father' s father both come f/ Yales.(句子+句子)
+         我最好的朋友和我的祖父都来自威尔士.
+         She got to the door and put the key in the
+      2. She came in and took her coat off
+         她进来,脱掉了大衣.
+         I got dressed and had my breakfast
+         我穿好衣服,吃了早饭.
+      3. Is it a boy or a girl?
+         是男孩还是女孩?
+         There are people without homes, jobs or family.
+         有人无家可归,没有工作或家庭.
+   2. both…and, either…or…, neither"nor"
+      1. Both men and women have complained about the advertisement
+         男人和女人都抱怨过这个广告.
+         Either you leave now or I call the police!
+         要么你现在离开,要么我就叫警察!
+         Neither my mother nor my father went to university
+         我父母都没有上过大学.
+      2. I want to visit Andrew as well as Martin
+         我想去拜访安德鲁,还有马丁.
+         They visited some factories, hospitals as well as the schoot.'
+         他们参观了这所学校,还参观了工厂和医院
+         as well as连接两个井列的名词或代词做主语,谓i
+         新的名代
+         Mary as well as her parents likes mug
+         玛丽和她的父母都喜欢音乐.
+   3. not only… but also不但…而且…
+      1. She not only wrote the text but also selected the illustrations
+         她不仅写文章而且还挑选插画.(连接两个谓语动词
+         If this project fails, it will affect not only our department, but also the whole
+         organization
+         如果这个项目失败,不仅会影响到我们部门,还会对整个机构产生影响.(连接两
+         个宾语)
+         以下结构语法结构不对称
+         He not only plays the piano but also the violin. (x)
+      2. Not only did he turn up late, he also forgot his books.
+         他不但迟到了,还忘了带书.
+      3. Not only you but also he is a students.
+
 2. 第二,表示转折意义"但是"
+
+   1. but
+
+      1. She' s very hard-working but not very imaginative.
+         她工作很努力,但缺乏想象力.
+
+      2. i had no choice but to sign the contract.
+         除了签下合同,我别无选择
+
+         He's anything but mild.
+         他一点也不温柔.
+
+   2. not…but
+
+      1. This is not caused by evil, but by simple ignorance.
+         这并不是恶意而为,只是由于无知.
+         She's not a painter but a musician.
+         她不是画家而是音乐家.
+
+   3. however
+
+      1. He was feeling bad. He went to work, however, and tried to concentrate.
+         他感觉不舒服.然而,他还是去上班了,努力集中注意力.
+         We thought the figures were correct. However, we have now discovered
+         some errors.
+         我们认为数字是正确的.但是,我们已经发现了一些错误.
+
+   4. whereas 与 while
+
+      1. We thought she was arrogant, whereas in fact she was just very shy.
+         我们认为她傲慢,但是事实上她只是非常害羞.
+         While Tom's very good at science, his brother is absolutely hopeless.
+         汤姆非常擅长科学,但是他哥哥在这方面完全没戏.
+
 3. 第三,表示"否则"
+
+   1. or
+      1. He must like her, or he wouldn't keep callinng her.
+         他肯定喜欢她,否则他不可能一直给
+   2. or else
+      1. We must be there by six, or else we'll miss the beginning.
+         我们一定要在6点前赶到那里,要不然就会错过开场.
+   3. otherrwise
+      1. I'd better write it down, otherwise I'll forget it.
+         我最好把它写下来,否则我会忘了的
+
 4. 第四,表示因果关系
 
+   1. for
+      1. She remained silent, for her heart was heavy and her spirits low.
+         由于心情沉重情绪低落,她一直沉默不语.
+   2. so
+      1. legs started hurting so I stopped running.
+         我的腿开始疼痛,因此我停下来不再跑了.
+         I was lost so I bought a street map.
+         我迷路了,所以买了一张街道地图.
+   3. hence
+      1. I fell off my bike yesterday, hence the bruises.
+         我昨天骑自行车摔倒了,所以青一块紫一块的.
+         The town was built among the hills, hence the name Hilltown.
+         该城镇修建在群山之中,故取名" Hilltown
+   4. therefore
+      1. We were unable to get funding and therefore had to abandon the project.
+         我们无法筹到资金,因此不得不放弃计划.
+   5. thus
+      1. Agriculture has developed rapidly, thus providing light industry with ample
+         raw materials.
+         农业迅速发展,从而为轻工业提供了充足的原料.
+
 ### 8.2 从属连词
+
+从属连词表示从属关系,可引导状语从句与名词性从句.
+
+| 状语从句类型 | 从属连词                                                     |
+| :----------: | :----------------------------------------------------------- |
+| 时间状语从句 | then, while, as, before, after, immediately                  |
+| 地点状语从句 | where, wherever                                              |
+| 原因状语从句 | because, in that,snce,as等                                   |
+| 让步状语从句 | although, though, while, however, wh-ever, nomatter wh-等    |
+| 目的状语从句 | in order that, so that, in case, for fear that, for the purpose that 等 |
+| 结果状语从句 | so that, such that                                           |
+| 条件状语从句 | it, unless, as long as,等                                    |
+| 方式状语从句 | as,asif, as though等                                         |
+| 比较状语从句 | than, not so-as, as-as,等                                    |
+
+1. 时间状语从句
+
+   1. When did you leave?
+      你什么时候离开?
+
+      The phone rang while we were having dinner.
+      我们吃晚饭的时候,电话响了.
+      She gave everyone a present before she left.
+      她离开前给每个人送了礼物.
+      No one left the room until the talk ended.
+      谈话结束后人们才离开.
+      As you get older, moving house gets harder.
+      随着你变老,搬家变得越来越困难.
+      Three months after they moved out, the house was still empty.
+      他们搬出去3个月了,这座房子仍然空着.
+
+      **注意: "一…就" 的英文表述**
+
+      1. as soon as
+         He made a phone call to me as soon as he came back.他一回来就给我打了
+         个电话.
+
+      2. once
+         Once seeing it(= Once you see it ) you can never forget it.
+         见到了就永远不会忘记.
+
+      3. at the sight/hearing/sound/( bare )thought/idea of
+         At the hearing of news, he rushed out. 一听到这个消息, 他冲出去了.
+         At the hearing of the police officers they ran off. 一看见警官,他们便逃
+         跑了
+
+      4. hardly… when-…, scarcely… when, no sooner…than…
+
+         Hardly had I left home when it began to rain.
+         我刚刚离开家门,天就下雨了
+         He had no sooner returned than he bought a house.
+         他一回来就买了一套房子.
+
+      5. the moment the minute, the instant the second.
+         I recognized him the instant/the minute/the moment/the second I saw.
+         我一看到他,就认出他来了.
+
+   2. 地点状语从句
+
+      1. I like to have him next to me where i can keep an eye on him
+         我想让他挨着我,这样我就可以顺便照看他了.
+         Wherever I go I always seem to meet him
+         无论去哪儿,我似乎总是能碰见他.
+
+   3. 原因状语从句
+
+      1. Just because I dont complain, people think I'm satisfied.
+         就是因为我不抱怨,所以大家认为我满意了.
+         As it was getting too late, I decided to book into a hotel.
+         因为太晚了,我决定找家酒店投宿.
+         The research is important in that it confirms the link between aggression and alcohol.
+         因为它证实了攻击行为和酗酒之间的联系
+
+   4. 让步状语从句
+
+      1. Although/ Though he is very old, he is quite healthy
+         他虽然年纪大了,身体还很健康.
+         Hard as/though he works, he makes little progress
+         尽管他学习很努力,但几乎没取得什么进步.
+         Despite repeated assurances that the product is safe, many people have stopped buying it.
+         尽管已反复保证了该产品的安全性,很多人还是不再购买.
+         In spite of its election success, the government is still deeply distrusted on
+         key health and education issues
+         尽管选举成功,但是在主要医疗教育问题上,政府仍然不受信任.
+         This job is open to all, regardless of previous experience
+         这份工作任何人都可以应聘,不管其以前的工作经历如何.
+         Whether you believe it or not, it's true.
+         无论你是否相信,这都是真的
+
+         No matter what happened, he would persist.(=Whatever happened he would persist)
+         无论发生了什么事情,他都会坚持的.
+         No matter who you are, you must comply with the low. (=Whoever you are, you must comply with the law.)
+         不管你是谁,你都需要遵纪守法.
+         When anyone does something for you, no matter how small, you should say ”Thank you”.
+         只要任何人替你做了一件事,不管事情多么微不足道,你都应该说声"谢谢".
+
+         However(=No matter how expensive it might be, I'll buy it
+         无论它有多贵,我也要买下它.
+         They'll stand by you even if you don,t succeed
+         即使你不成功,他们也会支持你.
+         Even though it's hard work, I enjoy it.
+         星然工作艰苦,我还是很喜欢.
+
+   5. 目的状语从句
+
+      1. In order that he should not be late, his mother woke him up at 6.
+         为了让他不迟到,他母亲六点就叫醒了他.
+         He walked fast for fear that he should be late
+         他快走,以防迟到.
+         He works hard at his lessons so that he could perform in the exams
+         他努力学习功课,争取考试能获得好成绩.
+
+   6. 结果状语从句
+
+      1. The camera is so expensive that I can t afford it
+         这台相机太贵了(以至于)我买不起.
+         It was very cold, so that the river froze
+         天气寒冷,河水都结冰了.
+         Our country has so much coal that she can export large quantities
+         我们国家的煤炭非常丰富,可以大量出口.
+         His plan was such a good one that we all agreed to accept it
+         他的计划太好了,我们都接受.
+
+   7. 条件状语从句
+
+      1. If we hurry, we may catch the bus.如果赶紧走我们可能赶得上公共汽车.
+         Bring a map in case you get lost
+         带张地图吧,以防迷路.
+         As long as you do that, then the rest is kind of simple and easy
+         只要你做到了这点,接下来的就顺其自然了.
+         Nothing will come of it, unless disaster.
+         此事除了引起灾祸以外不会有什么结果.
+         He's welcome to come along, provided that he behaves himsel
+         他只要守规矩就欢迎他来.
+
+   8. 方式状语从句
+
+      1. Eliza remembers everything exactly as if it happened yesterday.
+         Eza准确地记得所有的事情,仿佛这些事发生在昨天.
+         When a pencil is partly in a glass of water, it looks as if it were broke
+         铅笔的一部分置于水中时,仿佛那部分折断了.
+
+   9. 比较状语从句
+
+      1. She likes you better than me
+         她喜欢你胜过喜欢我.
+         He can run faster than i do
+         他跑得比我快.
+         It is not so difficult as you image
+         它没有你想的那么困难.
+         Your pen writes as smoothly as mine.
+         你的钢笔书写起来和我的一样流畅.
+
+         The more you read, the better you understand
+         你看的书越多,你懂得就越多.
+
+### 1.定语从句
+
+1. 关系词
+   1. I know the girl. A girl is talking to Tom
+      =l know the girl who is talking to Tom
+      我认识那个正在和Tom说话的女孩.
+2. 关系代词
+   1. Einstein, who was born in Germany, is famous for his theory of relativity.
+      爱因斯坦出生在德国,以相对论著称
+      John met a woman(who )i had been to school with
+      约翰遇到的女人是我曾经的同学.
+      Do you know the girl( who he's talking to?
+      你认识他正在聊天的女孩吗?
+   2. The camera which costs f 100 is over there
+      花了100磅的相机在那儿.
+      The bike( which )I loved was stolen
+      我喜欢的自行车被偷了.
+      Where's the pencil( which)I gave you yesterday?
+      我昨天给你的铅笔去哪儿了?
+   3. The meeting was put off, which was exactly what we wanted
+      会议被取消了,这确实是我们所想的.
+   4. The little girl whose toy was lost is sad
+      那个丢了玩具的女孩很伤心.
+      Students whose grades are low can drop one test score
+      分数低的学生可以放弃一门成绩.
+   5. The woman whom they visited in hospital was an old aunt of theirs
+      他们去医院看望的人是他们的大姨.
+      The boy whom you told me about got the best grades in mathematics
+      你告诉我的那个男孩在数学上取得了最好的成绩.
+   6. I didn't like that girl( that )you brought to the party
+      我不喜欢你带来聚会上的那个女孩.
+      The university( that )she likes is famous
+      她喜欢的大学非常有名.
+
+### 2.关系副词
+
+1. 1
+   1. July and August are the months in which most people go on holiday.
+      =July and August are the months when most people most go on holiday.
+      七月和八月是大多数放假的月份.
+2. 2
+   1. This is the shop in which I bought books
+      -This is the shop where I bought books.
+      这是我买书的商店.
+3. 3
+   1. a horror film was the reason why I couldn' t sleep last night
+      昨天晚上睡不着的原因是看了一部恐怖电影.
+
+### 3.限定性定语从句
+
+- I know the man who is standing there
+  我认识站在那里的男士.
+  I visited the town which you told me about
+  我参观过你告诉我的小城.
+
+### 4.非限定性定语从句
+
+1. 1
+
+   - My new books, which have black covers, are on the desk.
+     我的新书是黑色封面的,在桌子上.
+     My bicycle, which I've had for more than ten years, is falling apart.
+     我的自行车已经有10年了,现在散架了.
+
+     Ive just come back from London, where my sister lives.
+
+     我刚从伦敦回来,那是我姐姐住的地方.
+     Yesterday I met a woman, whose skirt is very shinny.
+     昨天我见到一位女士,她的裙子非常闪亮
+
+2. 2
+
+   - There were a lot of people at the party, many of whom I had known for
+     years
+     有很多人在聚会上,其中有些人我认识了很多年了.
+     He carried vases, many of which were broken
+     他带了很多花瓶,许多都破了.
+     He had thousands of books, most of which were destroyed
+     他有很多书,许多都被毁坏了.
+     He picked up a handful of stones, one of which was sharp
+     他见了一把石头,有一个很锋利.
+
+### 5.that 和 which 的区别
+
+1. 只用 which的情况
+2. 只能用that的情况
+   1. All that can be done has been done.
+      所有能做的事情都已经做完了.
+      Rescuers are doing everything that they possibly can to free the trapped people.
+      救援人员尽他们所能解救被困人员.
+      Everything that is in this room belongs to him.
+      这个房间里面所有的东西属于他
+   2. When people talk about Hangzhou, the first that comes to mind is the West Lake
+      人们提起杭州时,首先进入脑海的便是西湖.
+   3. This is the very best present that I,ve ever had
+      这是我有过的最好的礼物.
+      It was the only thing that i could do under the circumstances
+      在这种情况下这是我唯一能够做的.
+   4. Who is the boy that is standing there?
+      站在那儿的那个男孩是谁?
+   5. They talked about the persons and things that they remembered at college.
+      他们谈论着他们所能记起的大学时的人和事.
+
+### 6.名词性从句
+
+1. 主语从句
+
+   1. That we were late to class really upset the teacher.
+      我们迟到让老师很失望.
+      The fact that we were late to class really upset the teaser
+      我们迟到这件事让老师很失望.
+      How the boy behaved was not very polite
+      这个男孩表现的不是很有礼貌.
+      When he will be there is unsure
+      他什么时候来不确定.
+
+      What she wrote surprised her family
+      她写的东西使她的家人很惊讶.
+      Whoever thought of that idea is a genius
+      有那样想法的人是天才.
+      Whichever restaurant you pick is fine with me.
+      你挑哪个饭店都可以.
+
+      注意:
+      It is immediately clear whether the financial crisis will soon be over
+
+2. 宾语从句
+
+   1. She didn' t realize that the directions were wrong
+      她没有意识到方向是错的.
+      He didn't know why the stove wasnt working
+      他不知道为什么火炉不能用.
+      They now understand that you should not cheat on a test
+      他们现在明白了不该在考试中作弊.
+      On weekends, we can do whatever we want
+      周末,我们可以做任何我们想做的事情.
+      I am not interested in whatever the teacher says
+      我对老师说的不感兴趣.
+
+      注意:
+
+3. 同位语从句
+
+   1. The beast, a lion, was starting to show interest in rabbits.
+      那只野兽一狮子开始对兔子感兴趣.
+      The insect, a large cockroach, is crawling across the kitchen table.
+      那个一只大限过了房的桌子
+
+      The belief that students can become independent learners is common
+      among teachers
+      学生可以成为独立的学习者,这样的想法在老师间很普遍
+      Our knowledge that students can become independent learners drives
+      our work
+      我们的理解:学生可以成为独立的学习者促进我们工作.
+      The issue whether it is right or wrong depends on the result
+      这个问题是对还是错要看结果.(不可以引导同位语从句)
+
+4. 表语从句
+
+   1. My greatest asset is that I am a hard worker
+      我最大的财富是我是一个努力的工人.
+      His excuse was that he had forgotten to set his alarm
+      他的借口是他忘记设置闹钟.
+      The question is whether the camping is worth going
+      问题是值不值得去野营.
+
+### 7.其他语法
+
+#### 一.强调句
+
+1. it is/was… that/who
+   1. 基本结构
+      1. 陈述句: I met him yesterday in the market.
+2. 1
+   1. 含有not…untl的句子的强调形式
+      直到1911年才发现了第一种维生素
+      The first of the vitamins was not identified until 1991
+3. 强调句与其他从句的区分
+   1. It is known to all that China has many places of interest
+      It was his sister who won the 3 in the campaign
+   2. It was in the class room that he lost his books
+      It was the class room where( in which) he lost his books.
+   3. It was in the morning when he woke up
+      It was in the morning that he woke up
+4. 2
+   1. I do agree with your opinions.
+      我同意你的观点
+      Please do come and take part in the game
+      请一定来参加比赛.
+      She did work hard this semester.
+      她这学期确实非常努力.
+
+#### 二.倒装句
+
+1. 部分倒装
+
+   否定副词位于句首时
+
+   1. I shall never love him
+      Never shall I love him
+      我永远不会爱上他.
+      Hardly anyone came
+      Anyone hardly came
+      没人来.
+      One seldom hears a politician say sorry.
+      Seldom does one hear a politician say sorry.
+      从来没听过一个政客说过抱歉.
+
+   2. He didn t leave the room until the rain stopped.
+      Not until the rain stopped did he leave the room.
+      雨停了之后他才离开这房间.
+
+      I did not realize my wallet was missing until I got home
+      Not until I got home did I realize my wallet was missing
+      到家我才发现我的钱包丢了
+
+   3. They had no sooner started their walk than it started to rain.
+      No sooner had they started their walk than it started to rain
+      他们刚开始散步就下雨了.
+      I had hardly arrived there when I was called back to the head office 100
+      niles away
+      Hardly had I arrived there when I was called back to the head office 100
+      miles away
+      我刚到那里就被打电话叫回100英里外的总部
+      I had scarcely sat down when the doorbell rang.
+      Scarcely had I sat down when the doorbell rang.
+      我刚坐下门铃就响了.
+
+   4. On no account should the house be left unlocked
+      绝对不能不锁门就离开.
+      In no way do I agree with what you re saying
+      我绝不同意你说的.
+
+2. 2
+
+   1. I' d seen her flat did I understand why she wanted to live there.
+      Only when we d all arrived home did I feel calm.
+      Only by working extremely hard could we afford to eat.
+
+3. 3
+
+   1. The girl was so beautiful that nobody could talk of anything else
+      So beautiful was the girl that nobody could talk of anything else.
+      这个女孩如此漂亮以至于没人会谈论其他的内容.
+      The food was so delicious that we ate every last bite
+      So delicious was the food that we ate every last bite.
+      食物太好吃了我们吃的一点都不剩.
+
+4. 4
+
+   1. Not only is he a teacher, but he is also a musician
+      他不仅是一位教师,而且是一位音乐家.
+      Not only is he difficult to understand, but he is also funny
+      他不仅很难搞懂,而且他很有超.
+
+5. 5
+
+   1. If I were you, I wouldnt do it.
+      Vere I you, I wouldnt do it.
+      如果我是你,我就不会这么做.
+      If I had understood the problem, I wouldn t have made those mistakes.
+      Had I understood the problem, I wouldnt have made those mistakes.
+      如果我理解这个问题,我就不会犯这么多错误.
+      If you should need a hand, I will be more than happy to help you
+      Should you need a hand, I will be more than happy to help you.
+      如果你需要帮助,我非常高兴能帮你.
+
+### 三.完全倒装
+
+1. 1
+   1. There is a good restaurant nearby
+      附近有一家餐馆.
+      Here comes the bus
+      公共汽车来了.
+      Here are the books that I don' t need anymore
+      这有一些我不需要的书.
+      [注意]
+      (1)
+      Here is coming the bus.(×)
+      (2)
+      Here he is.他来了.
+2. 2
+   1. Round the corner came the postman
+      邮递员从街角过来了.
+      On the doorstep was a bunch of flowers
+      门口台阶上放着一束花.
+      Below me was the beautiful scenery I had been told about
+      我被告知我下方有美丽的景色.
+      In the distance could be seen the purple mountains
+      远处可以见到紫色的山.
+      [注意]
+
+
+
+
+
+
+
