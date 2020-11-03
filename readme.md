@@ -1,5 +1,7 @@
 # 王菲英语语法 第十四季
 
+> 笔记更新地址:  https://github.com/Eished/wfyyyf_notes
+
 ## 语法基础概念（10+9+8完美语法体系）
 
 ### <u>十种</u>词性
@@ -2531,11 +2533,11 @@
       
    - This sentence **was** **written**. 
         - 这个句子被写.
-      
+   
    **注意:**
-      
+   
    be 动词作**系动词**, 引表语 & 表语从句
-      
+   
    - He **is** in horrible pain. 
         - 他很痛.
       - China **is** not no longer what it used to be. 
@@ -2548,12 +2550,12 @@
       
    - Jerry **has** bought a new shirt. 
         - 杰瑞买了一件新衬衫.
-      
+   
    **注意:**
-      
+   
    have 作实义动词, 意为"有";
       有时, have 与 eat, drink 意义相同.
-      
+   
    - He **has a large coffee** stain on his shirt. 
         - 他的衬衫上有一大片咖啡渍.
       - Let's **have a cup** of tea. 
@@ -3603,14 +3605,17 @@
 
 现在分词作定语,我们必须注意以下三点:
 
-- The teacher criticized the student having broken the window
-  The teacher criticized the student who had broken the window
-  Do you know anyone having lost a car
-  Do you know anyone who have lost a car
-  Anybody being outside after ten o clock will be criticized
-  Anybody who is outside after ten o' clock will be criticized.
-  he boy bringing us milk everyday is my brother
-  The boy who brings us milk everyday is my brother.
+1. 两个动作是一前一后发生的, 用**定语从句**
+   - The teacher criticized the student <u>having broken</u> the window. ( X )
+     - The teacher criticized the student <u>who had broken</u> the window.
+   - Do you know anyone <u>having lost</u> a car? ( X )
+     - Do you know anyone <u>who have lost</u> a car?
+2. 动词是 be 动词, 用**定语从句**
+   - Anybody **being** outside after ten o clock will be criticized. ( X )
+     - Anybody **who is** outside after ten o' clock will be criticized.
+3. 经常性动作, 用**定语从句**
+   - The boy **bringing** us milk **everyday** is my brother. ( X )
+     - The boy **who brings** us milk **everyday** is my brother.
 
 
 
@@ -3618,26 +3623,36 @@
 
 现在分词作状语,我们必须注意以下四点:
 
-- The secretary worked late into the night, preparing a long speech for the president.
+- **时间**
 
-  He sent me an E-mail, hoping to get further information.
+  ①**同时发生**时, 用一般式
 
-  Having suffered from heart trouble for years, Professor White has to take some medicine with him whenever he goes.
+  ②**先于谓语动词的动作**时, 现在分词要用**完成式**.
 
-  Having finished his homework, the boy went out to play football
+  - The secretary **worked** late into the night, **preparing** a long speech for the president.
+  - He **sent** me an E-mail, **hoping** to get further information.
+  - **Having suffered** from heart trouble for years, Professor White **has to take** some medicine with him whenever he goes.
+  - **Having finished** his homework, the boy **went out** to play football
 
-- Looking out of the window of our hotel room, ye ould see lots of mountains around
+- **主语**
 
-  They came into the classroom, talking and laughing.
+  ①现在分词作状语时,其**逻辑主语**与**句子主语**必须**保持一致**.
 
-  Mr.Smith being absent, the meeting had to be put off.
+  ②如果**不一致**, 分词应有自己的逻辑主语 ,构成**独立主格结构**.
 
-  It being a fine day, we all wanted to go outing.
+  - **Looking out of** the window of our hotel room, we <u>could see</u> lots of mountains around.
+  - They <u>came into</u> the classroom, **talking and laughing**.
+  - Mr.Smith **being absent**, the meeting <u>had to be</u> put off.
+  - It **being** a fine day, we all <u>wanted to</u> go outing.
 
-- When talking to you, I always feel happy.
-  Be careful while crossing the street.
-- Having been told many times, but he still couldn 't understand it.
-  Having been told many times, he still couldnt understand it.
+- 现在分词作状语时,前面**可用从属连词** when, while, once 等连词.
+  - **When** talking to you, I always feel happy.
+  - Be careful **while** crossing the street.
+- 现在分词作状语时与主语之间**不能有并列连词** or, and, but.
+  - <u>Having been told</u> many times, **but** he still couldn 't understand it. ( X )
+  - <u>Having been told</u> many times, he still couldnt understand it. ( v )
+
+<img src="readme.assets/image-20201103210351090.png" alt="image-20201103210351090" style="zoom:67%;" />
 
 
 
@@ -3645,153 +3660,255 @@
 
 1. 语气
 
-   1. 1
-      - I saw something today that really annoyed me
+   ①语气是动词的一种形式;
+
+   ②分为**陈述语气**、**祈使语气**以及**虚拟语气.**
+
+   1. **陈述语气**
+
+      ①陈述语气用来**阐明事实、询问问题、表达意见.**
+
+      ②**任何动词的时态**都可以用在陈述语气中
+
+      - I saw something today that really annoyed me.
         我今天看见了一些让我非常生气的东西.
-        That is a beautiful painting
+      - That is a beautiful painting.
         那是一幅漂亮的画作
-        How much wood does a woodchuck chuck?
+      - How much wood does a woodchuck chuck?
         如果土拨鼠会扔木头那它会扔多少木头?
-        Keep reading
+
+   2. **祈使语气**
+
+      祈使语气表示命令或请求
+
+      - Keep reading.
         接着读.
-        Do not forget your homework
+      - Do not forget your homework.
         别忘了你的作业.
-   2. 2
-   3. 3
 
 2. 虚拟语气
 
-   - If I were a rich man, then I would have all the money in the world.
+   ①有**条件**的或**想象**的场景.
+
+   ②**与现实情况相反**.
+
+   ③表达**主观愿望强烈**时.
+
+   - **If I were** a rich man, then **I would** have all the money in the world.
      如果我是一个有钱人,我就会拥有世界上所有的钱
-   - Had the man been driving carefully, he would not have crashed into the
+   - **Had** the man **been** **driving** carefully, he **would** not **have** **crashed** into the
      如果这个人开车时谨慎点,那他就不会撞上树了.
 
-   1. if 引导非真实条件句
+   1. **if 引导非真实条件句 (必须背熟)**
 
-      |                           |              主句谓语动词               | 从句谓语动词                                                 |
-      | :-----------------------: | :-------------------------------------: | :----------------------------------------------------------- |
-      | 表示与现在<br/>相反的情况 |    should/would/<br/>might/could+do     | ①一般过去时<br/>②be动词用were                                |
-      | 表示与过去<br/>相反的情况 | should/would/might/<br/>could+have done | had done                                                     |
-      | 表示与将来<br/>相反的情况 |    should/would/<br/>might/could+do     | ① were to do<br/>② should+do<br/>③动词一般过去式(be动词用were) |
+      |                |              主句谓语动词              | 从句谓语动词                                                 |
+      | :------------: | :------------------------------------: | :----------------------------------------------------------- |
+      | **与现在相反** |    should/would/might/**could+do**     | ①**一般过去时**<br/>②**be动词用were**                        |
+      | **与过去相反** | should/would/might/**could+have done** | **had done**                                                 |
+      | **与将来相反** |    should/would/might/**could+do**     | ① **were to do**<br/>② **should+do**<br/>③**动词一般过去式**(be动词用were) |
 
-      1. 表示与现在相反的情况
-         If I read six books at once, I would confuse all the plots and characters.
-         如果我现在同时读6本书,我会把所有的情节和人物混淆.
-         Even if he had a million dollars, he still would complain about not having enough.
-         即使他有现在有一百万,他还是会抱怨钱不够.
+      1. 表示**与现在相反**的情况
+         If I **read** six books at once, I **would** confuse all the plots and characters.
+         如果我现在同时读6本书, 我会把所有的情节和人物混淆.
+         Even if he **had** a million dollars, he still **would** complain about not having enough.
+         即使他有现在有一百万, 他还是会抱怨钱不够.
 
-      2. 表示与过去相反的情况
-         If her mother had taken the doctor's advice, she would/might have got well earlier.
+      2. 表示**与过去相反**的情况 
+         If her mother **had taken** the doctor's advice, she **would/might have got** well earlier.
          如果她妈妈当时采纳了医生的建议,她就会好得更早.
 
-         If you had worked harder, you would have got through the exams.
+         If you **had worked** harder, you **would have got** through the exams.
          如果你当时努力学习,你当时就会通过考试了.
 
-         If I had won the lottery, I would have built a house in the country
+         If I **had won** the lottery, I **would have built** a house in the country
          如果我当时中了彩票,我当时就会在乡下建一座房子
 
-      3. 表示与将来相反的情况
-         If I were to win the lottery, I finally would buy a new car.
+      3. 表示**与将来相反**的情况
+         If I **were to win** the lottery, I finally **would buy** a new car.
          如果我将来中了彩票,我到时候就会买一辆新车.
-         If he were to be the next Picasso, I would be very happy to have known
-         him for so long
+         If he **were to be** the next Picasso, I **would be** very happy to have known him for so long.
          如果我将来成为下一个毕加索,认识他这么长时间我会非常开心.
-         If he were rich, he'd buy a house
+         If he **were** rich, **he'd buy** a house
          如果他将来变得富有,他就会买一栋房子.
-         注意
-         If it rains tomorrow, we won' t go to a park
-         如果明天下雨,我们就不去公园了.
 
-   2. if 引导的非真实条件句的倒装
+      4. 注意:
 
-      - If it were rain tomorrow, our picnic would be canceled
+         **if 引导真实条件**句时, 不用虚拟语气.
+
+         - If it **rains** tomorrow, we won' t go to a park
+           如果明天下雨,我们就不去公园了.
+
+   2. if 引导的**非真实条件**句的**倒装** ( **主谓倒装**—**部分倒装** )
+
+      - If **it were to rain** tomorrow, our picnic would be canceled.
         变为
-        Were it to rain tomorrow, our picnic would be canceled
-      - If it had not been for the storm we would have arrived in time.
+        **Were it to rain** tomorrow, our picnic would be canceled.
+      - If **it had not been** for the storm we would have arrived in time.
         变为
-        Had it not been for the storm we would have arrived
-      - If the earth should stop running, what would happen?
+        **Had it not been** for the storm we would have arrived.
+      - If **the earth should** stop running, what would happen?
         变为
-        Should the earth stop running, what happen?
+        **Should the earth** stop running, what happen?
 
-   3. 错综时间条件句
+   3. **错综时间条件句**
 
-      - If she had taken the doctor's advice, she might still be alive
+      在虚拟语气中,当动作和主句动作发生的时间不一致,需要根据句意对主从句所采用的虚拟时态进行变化.
+
+      - If she **had taken** the doctor's advice, she might still **be alive**.
         如果她当时采纳了医生的意见,她现在可能还活着.
-        If I were you, I would have accepted their terms
+      - If I **were** you, I **would have accepted** their terms.
         如果我是你,我当时就会接受他们的条件.
-        If I hadn ' t stood under the ladder to catch you when you fell, you wouldn' t be
-        miling now
+      - If I **hadn ' t stood** under the ladder to catch you when you fell, you **wouldn' t be**
+        **miling** now.
         当你掉下来时,如果不是我在梯子下面把你接住,恐怕你现在就不会笑了.
 
-   4. 无引导的虚拟语气
+   4. **无 if 引导的虚拟语气**
 
-      1. 1
-         - Without air, there would be no living things
+      1. **含蓄虚拟条件句**
+
+         介词短语;
+
+         通过上下文推测;
+
+         - **Without** air, there **would be** no living things.
            没有空气,就没有活的物体.
-           But for your help, I couldn t have done it
+         - **But for** your help, I **couldn t have done** it.
            要不是你的帮助,我就不可能完成它.
-           We didn't know his telephone number, otherwise we would have tele-
-           honed hi
+         - We didn't know his telephone number, **otherwise** we **would have telephoned** him.
            我们不知道他的电话,否则,我们就给他打电话了.
-           In that case we could have achieved our goal
+         - **In that case** we **could have achieved** our goal.
            要是那样的话我们肯定就达成目标了.
-           Under that condition we could have lived more comfortably
+         - **Under that condition** we **could have lived** more comfortably.
            如果在那种情况下我们本可以过的很舒适.
-      2. 2
-         1. 1
-            - I wish I were a bit taller
+
+      2. **名词性从句中的虚拟语气**
+
+         1. **wish+宾语从句** "希望,但愿
+
+            ①表示对**现在**的虚拟: **过去式**
+
+            ②表示对**将来**的虚拟: **“would /could+动原”**
+
+            ③表示对**过去**的虚拟: **“had+过去分词”**
+
+            - I **wish** I **were** a bit taller
               我个子再高一点就好了.
-              I wish I hadn' t eaten so much
+            - I **wish** I **hadn' t eaten** so much
               我真希望自己没吃那么多.
-         2. 2
-            - I suggested that he implement a budget cut in March
+
+         2. **在表示建议、要求、愿望、命令、坚持、想法**
+
+            advise, command, demand, decide, desire, insist, order, prefer, propose, request, require, suggest 等动词后面的宾语从句, 或这些动词的同源名词后面所跟的同位语从句或表语从句中, 从句谓语用 **"should+动词原形"**, **should可以省略**.
+
+            - I **suggested** that he implement a budget cut in March.
               我建议3月他开始缩减预算.
-              I demand that you be at school on time
+
+            - It will be essential that they be heard.
+
+            - I **demand** that you be at school on time.
               我要求你按时上学.
-              I recommend that Sammi do her homework at home
+
+            - I **recommend** that Sammi do her homework at home.
               我建议萨米在家做作业.
-              They insisted that all swear words be deleted from the article
+
+            - They **insisted** that all swear words be deleted from the article.
               他们坚决要求删除文章中所有皙言相关的话语.
-              注意:
-              He suggests that I am not suited for the job
-              他暗示我不适合这份工作.
-              He insisted that he was innocent
-              他坚持说自己是无辜的.
-         3. 3
-            - Id rather you came another time
+
+            - **注意**:
+
+              当 suggest, insist 等表“**暗示**” “**坚持**”时, **不用虚拟语气**
+
+              - He **suggests** that I am not suited for the job.
+                他暗示我不适合这份工作.
+              - He **insisted** that he was innocent.
+                他坚持说自己是无辜的.
+
+         3. **在 would rather, would(just), as soon, would sooner, would prefer 后的宾语从句.**
+
+            ①对**现在或将来**的虚拟: **did**
+
+            ②对**过去**的虚拟: **had done**
+
+            - **I’d rather** you **came** another time
               我宁愿你下次来.
-              She would rather he werent so angry.
+            - She would rather he **weren’t** so angry.
               她情愿他不那么生气.
-              I would just as soon you had told me the truth yesterday.
+            - I would just as soon you **had told** me the truth yesterday.
               我宁愿你昨天告诉我真相.
-         4. 4
-            1. 1
-               - It is necessary that the issue be addressed
+
+         4. **主语从句的虚拟语气**
+
+            1. **It is+形容词**( important, necessary,good, right, wrong, better natural, proper, funny, strange, surprising) + that 从句中, 谓语动词的用 **( should)+动词原形**. **should 可以省略**
+               
+               - **It is necessary** that the issue be addressed
                  必须解决这个问题.
-                 It is proper that law should govern any one of the citizens
+               - **It is proper** that law **should govern** any one of the citizens
                  法律应制裁以下的任何人.
-            2. 2
-               - It is high time you started off
+               
+            2. **It' s time that句型**
+               
+               **一般过去时** 或 **should+动词原形** , 意为 “该做某事了”
+               
+               **should 不能省略**
+               
+               - **It is** high **time** you started off
                  是你该动身的时候了.
-                 It's high time that we left.
+               - **It's** high **time** that we left.
                  是我们该走的时候了.
-            3. 3
-               - If only we could just get on and read it and forget about all the other stuff.
-                 要是我们能够继续读下去并且忘记所有其他的员工就好了.
-                 If only I knew the answer, I'd tell you
-                 要是我知道答案,我就告诉你.
-                 If only I had revised more, I would have done better on my exam
-                 倘若我做更多的修正,我考试成绩就会更好.
-               - He talks as if he knew her.
-                 他说话的样子,好像他认识她.
-                 It looks as if it might rain.
-                 看起来好像要下雨了.
-            4. 4
-               - I shouldn't have interfered
-                 我不应该打断.(事实上已经打断了)
-                 You should have taken my advice
-                 你本应该采纳我的意见.(事实上没有采纳)
+               
+            3. **状语从句中的虚拟语气**
+
+               1. **if only 从句**
+
+                  ①对**现在**的虚拟: **过去式**
+                  ②对**将来**的虚拟: **would/could+动原**
+                  ③对**过去**的虚拟: **had+过去分词**
+
+                  - If only we could just get on and read it and forget about all the other stuff.
+                     要是我们能够继续读下去并且忘记所有其他的员工就好了.
+                  - If only I knew the answer, I'd tell you
+                     要是我知道答案,我就告诉你.
+                  - If only I had revised more, I would have done better on my exam
+                     倘若我做更多的修正,我考试成绩就会更好.
+
+               2. **as if 从句** “好像”
+
+                  ①对**现在**的虚拟: **一般过去时**
+                  ②对**过去**的虚拟: **had+过去分词**
+                  ③对**将来**的虚拟: **would(could,might)+动词原形**
+
+                  - He talks **as if** he knew her.
+                    他说话的样子,好像他认识她.
+                  - It looks **as if** it might rain.
+                    看起来好像要下雨了.
+                  - It was **as if** the world had come to an end.
+
+            4. **情态动词+ have done** “本该做而没做”
+
+               - I **shouldn't have interfered**.
+                 我不应该打断. (事实上已经打断了)
+               - You **should have taken** my advice.
+                 你本应该采纳我的意见. (事实上没有采纳)
+
+<img src="readme.assets/image-20201103223228579.png" alt="image-20201103223228579" style="zoom:67%;" />
+
+
+
+<img src="readme.assets/image-20201103223423415.png" alt="image-20201103223423415" style="zoom:67%;" />
+
+
+
+<img src="readme.assets/image-20201103223507119.png" alt="image-20201103223507119" style="zoom:67%;" />
+
+
+
+<img src="readme.assets/image-20201103223743912.png" alt="image-20201103223743912" style="zoom:67%;" />
+
+
+
+<img src="readme.assets/image-20201103223929234.png" alt="image-20201103223929234" style="zoom:67%;" />
+
+
 
 <img src="readme.assets/image-20201103012827108.png" alt="image-20201103012827108" style="zoom:67%;" />
 
